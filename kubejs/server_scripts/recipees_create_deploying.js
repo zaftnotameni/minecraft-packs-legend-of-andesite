@@ -44,6 +44,11 @@ const createDeployingRecipees = (event) => {
     });
   });
 
+  event.custom(simpleDeployingRecipee(my.minecraft.wither_skeleton_skull.id, my.minecraft.brain_coral_block.id, my.minecraft.wither_rose.id));
+  event.custom(simpleDeployingRecipee(my.minecraft.skeleton_skull.id, my.minecraft.brain_coral_block.id, my.minecraft.bone.id));
+  event.custom(simpleDeployingRecipee(my.minecraft.creeper_head.id, my.minecraft.brain_coral_block.id, my.minecraft.gunpowder.id));
+  event.custom(simpleDeployingRecipee(my.minecraft.zombie_head.id, my.minecraft.brain_coral_block.id, my.minecraft.rotten_flesh.id));
+  event.custom(simpleDeployingRecipee(my.minecraft.spyglass.id, my.create.framed_glass.id, my.minecraft.amethyst_shard.id));
   event.custom(simpleDeployingRecipee(my.minecraft.blast_furnace.id, my.minecraft.campfire.id, my.create.iron_sheet.id));
   event.custom(simpleDeployingRecipee(my.minecraft.piston.id, my.minecraft.redstone_block.id, my.create.iron_sheet.id));
   event.custom(simpleDeployingRecipee(my.minecraft.hopper.id, my.minecraft.chest.id, my.create.iron_sheet.id));
@@ -81,6 +86,7 @@ const createDeployingRecipees = (event) => {
   event.custom(simpleDeployingRecipee(my.create.smart_chute.id, advancedCasingE, my.minecraft.hopper.id ));
   event.custom(simpleDeployingRecipee(my.create.brass_funnel.id, advancedCasingE, my.minecraft.dried_kelp.id ));
   event.custom(simpleDeployingRecipee(my.create.brass_tunnel.id, advancedCasingSE, my.minecraft.dried_kelp.id ));
+  event.custom(simpleDeployingRecipee(my.minecraft.elytra.id, advancedCasingSCE, my.minecraft.phantom_membrane.id ));
 
   event.custom(simpleDeployingRecipee(my.integratedtunnels.part_interface_item.id, my.create.chute.id, my.integrateddynamics.cable.id));
   event.custom(simpleDeployingRecipee(my.integratedtunnels.part_interface_filter_item.id, my.create.smart_chute.id, my.integrateddynamics.cable.id));

@@ -69,6 +69,26 @@ const arsEnchantmentRecipees = (event) => {
     { item: { item: my.create.iron_sheet.id} },
     { item: { item: my.create.iron_sheet.id} },
   ], 200));
+  event.custom(apparatusRaw(`${my.minecraft.wither_rose.id}`, { tag: 'minecraft:flowers' }, [
+    { item: { item: 'minecraft:black_dye' } },
+    { item: { item: 'minecraft:black_dye' } },
+    { item: { item: 'minecraft:black_dye' } },
+    { item: { item: 'minecraft:black_dye' } },
+    { item: { item: 'minecraft:black_dye' } },
+    { item: { item: 'minecraft:black_dye' } },
+    { item: { item: 'minecraft:black_dye' } },
+    { item: { item: 'minecraft:black_dye' } },
+  ], 1000));
+  event.custom(apparatusRaw(`${my.minecraft.wither_skeleton_skull.id}`, { item: my.minecraft.skeleton_skull.id }, [
+    { item: { item: 'minecraft:black_dye' } },
+    { item: { item: 'minecraft:black_dye' } },
+    { item: { item: 'minecraft:black_dye' } },
+    { item: { item: 'minecraft:black_dye' } },
+    { item: { item: 'minecraft:black_dye' } },
+    { item: { item: 'minecraft:black_dye' } },
+    { item: { item: 'minecraft:black_dye' } },
+    { item: { item: 'minecraft:black_dye' } },
+  ], 1000));
   event.custom(apparatusRaw(`${my.minecraft.campfire.id}`, { item: my.minecraft.charcoal.id }, [
     { item: { item: 'minecraft:stick' } },
     { item: { item: 'minecraft:stick' } },

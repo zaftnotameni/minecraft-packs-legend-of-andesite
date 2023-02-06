@@ -39,13 +39,19 @@ const arsImbueRecipees = (event) => {
     { F: 'ars_nouveau:magebloom_fiber', S: sourcegem }
   );
   
+  event.custom(imbue(my.ars_nouveau.basic_spell_turret.id, my.ars_nouveau.rotating_spell_turret.id, [my.create.brass_casing.id], 1000));
+  event.custom(imbue(sourcegem, my.ars_nouveau.basic_spell_turret.id, [my.create.andesite_casing.id], 1000));
+  event.custom(imbue(sourcegem, my.ars_nouveau.spell_turret.id, [my.create.copper_casing.id], 1000));
   event.custom(imbue(my.ars_nouveau.purple_archwood_sapling.id, magebloomseed, [sourcegem], 200));
   event.custom(imbue(ARCHWOOD_WOOD.purple, sourcegemblock, [], 200));
   event.custom(imbue(magebloomseed, my.integrateddynamics.menril_sapling.id, [sourcegem], 200));
   event.custom(imbue(sourcegemblock, 'ars_nouveau:apprentice_spell_book', [ARCHWOOD_WOOD.yellow, ARCHWOOD_WOOD.yellow], 200));
+  event.custom(imbue(my.minecraft.stone.id, my.minecraft.brain_coral_block.id, Array(8).fill(my.minecraft.brain_coral.id), 200));
+  event.custom(imbue(my.minecraft.slime_ball.id, my.minecraft.egg.id, Array(8).fill(my.minecraft.bone_meal.id), 200));
   event.custom(imbue(my.ars_nouveau.starbuncle_shards.id, my.ars_nouveau.starbuncle_charm.id, Array(8).fill(my.ars_nouveau.magebloom_fiber.id), 200));
   event.custom(imbue(my.ars_nouveau.wixie_shards.id, my.ars_nouveau.wixie_charm.id, Array(8).fill(my.ars_nouveau.magebloom_fiber.id), 200));
   event.custom(imbue(my.ars_nouveau.whirlisprig_shards.id, my.ars_nouveau.whirlisprig_charm.id, Array(8).fill(my.ars_nouveau.magebloom_fiber.id), 200));
+  event.custom(imbue(my.ars_elemental.siren_shards.id, my.ars_elemental.siren_charm.id, Array(8).fill(my.ars_nouveau.magebloom_fiber.id), 200));
   event.custom(imbue('itemcollectors:basic_collector', my.ars_nouveau.drygmy_charm.id, Array(8).fill(my.ars_nouveau.magebloom_fiber.id), 200));
   event.custom(imbue(my.create.water_wheel.id, my.ars_creo.starbuncle_wheel.id, Array(1).fill(my.ars_nouveau.starbuncle_charm.id), 200));
   event.custom(imbue(my.create.large_cogwheel.id, my.create.water_wheel.id, Array(8).fill(my.minecraft.stick.id), 200));

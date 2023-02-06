@@ -23,6 +23,8 @@ const sawRecipeeTag = (input, output, count, time) => {
 const createSawRecipees = (event) => {
   event.custom(sawRecipeeTag('forge:logs/archwood', my.ars_nouveau.archwood_planks.id, 8, 1000));
   event.custom(sawRecipeeTag('forge:planks/archwood', my.minecraft.stick.id, 8, 1000));
+  event.custom(sawRecipee(my.minecraft.warped_wart_block.id, my.minecraft.twisting_vines.id, 8, 100));
+  event.custom(sawRecipee(my.minecraft.nether_wart_block.id, my.minecraft.weeping_vines.id, 8, 100));
   event.custom(sawRecipee(my.minecraft.iron_block.id, my.create.shaft.id, 3, 1000));
   event.custom(sawRecipee(my.minecraft.iron_ingot.id, my.minecraft.iron_bars.id, 1, 200));
   event.custom(sawRecipee(my.create.zinc_block.id, my.create.shaft.id, 6, 1000));

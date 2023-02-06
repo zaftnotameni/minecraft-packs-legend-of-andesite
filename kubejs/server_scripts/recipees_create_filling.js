@@ -88,6 +88,15 @@ const createFillingRecipees = (event) => {
   event.custom(createFillingRecipee([Item.of(my.minecraft.amethyst_cluster.id)], [
     Item.of(my.minecraft.emerald.id), Fluid.of('kubejs:molten_source', 125).toJson()
   ]));
+  event.custom(createFillingRecipee([Item.of('minecraft:warped_wart_block')], [
+    { tag: 'minecraft:leaves' }, Fluid.of('integrateddynamics:menril_resin', 1000).toJson()
+  ]));
+  event.custom(createFillingRecipee([Item.of('minecraft:nether_wart_block')], [
+    { tag: 'minecraft:leaves' }, Fluid.of('kubejs:molten_redstone', 1000).toJson()
+  ]));
+  event.custom(createFillingRecipee([Item.of('minecraft:snowball')], [
+    { tag: 'minecraft:flowers' }, Fluid.of('integrateddynamics:menril_resin', 1000).toJson()
+  ]));
   event.custom(createFillingRecipee([Item.of(my.integrateddynamics.crystalized_chorus_block.id)], [
     Item.of(my.integrateddynamics.crystalized_menril_block.id), Fluid.of('integrateddynamics:liquid_chorus', 1000).toJson()
   ]));

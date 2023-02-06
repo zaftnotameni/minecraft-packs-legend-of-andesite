@@ -50,7 +50,12 @@ const sifterRecipees = (event) => {
     siftOutput(my.minecraft.raw_copper.id, 0.75)
   ]));
   event.custom(siftString(my.ars_nouveau.purple_archwood_wood.id, [
-    siftOutput(my.farmersdelight.wild_beetroots.id, 1)
+    siftOutput(my.farmersdelight.wild_beetroots.id, 0.1),
+    siftOutput(my.ars_nouveau.bastion_pod.id, 0.1),
+    siftOutput(my.ars_nouveau.frostaya_pod.id, 0.1),
+    siftOutput(my.ars_elemental.flashpine_pod.id, 0.1),
+    siftOutput(my.ars_nouveau.mendosteen_pod.id, 0.1),
+    siftOutput(my.ars_nouveau.bombegranate_pod.id, 0.1),
   ], true));
   event.custom(siftZinc(my.ars_nouveau.purple_archwood_wood.id, [
     siftOutput(my.minecraft.brain_coral.id, 0.2),
@@ -66,7 +71,8 @@ const sifterRecipees = (event) => {
     siftOutput(my.minecraft.redstone.id, 0.5)
   ]));
   event.custom(siftZinc(my.ars_nouveau.red_archwood_wood.id, [
-    siftOutput(my.minecraft.blaze_powder.id, 0.5)
+    siftOutput(my.minecraft.blaze_powder.id, 0.5),
+    siftOutput(my.minecraft.gunpowder.id, 0.5)
   ]));
   event.custom(siftBrass(my.ars_nouveau.red_archwood_wood.id, [
     siftOutput(my.minecraft.quartz.id, 0.5)
@@ -74,10 +80,11 @@ const sifterRecipees = (event) => {
   event.custom(siftString(my.ars_nouveau.red_archwood_wood.id, [
     siftOutput(my.occultism.datura_seeds.id, 0.2),
     siftOutput(my.minecraft.poppy.id, 0.2),
+    siftOutput(my.minecraft.rose_bush.id, 0.2),
     siftOutput(my.minecraft.nether_wart.id, 0.2),
   ], true));
   event.custom(siftZinc(my.ars_nouveau.red_archwood_wood.id, [
-    siftOutput(my.minecraft.gunpowder.id, 0.5)
+    siftOutput(my.minecraft.acacia_door.id, 1),
   ], true));
   event.custom(siftBrass(my.ars_nouveau.red_archwood_wood.id, [
     siftOutput(my.minecraft.rose_bush.id, 1)
@@ -94,13 +101,14 @@ const sifterRecipees = (event) => {
     siftOutput(my.create.raw_zinc.id, 0.75)
   ]));
   event.custom(siftString(my.ars_nouveau.blue_archwood_wood.id, [
-    siftOutput(my.minecraft.cornflower.id, 1)
+    siftOutput(my.minecraft.cornflower.id, 0.2),
+    siftOutput(my.minecraft.blue_orchid.id, 0.2)
   ], true));
   event.custom(siftZinc(my.ars_nouveau.blue_archwood_wood.id, [
     siftOutput(my.minecraft.lapis_lazuli.id, 0.5)
   ], true));
   event.custom(siftBrass(my.ars_nouveau.blue_archwood_wood.id, [
-    siftOutput(my.minecraft.blue_orchid.id, 1)
+    siftOutput(my.minecraft.acacia_door.id, 1),
   ], true));
 
   // green
@@ -216,6 +224,7 @@ const sifterRecipees = (event) => {
 
   // magebloom
   event.custom(siftString(my.ars_nouveau.magebloom_block.id, [
+    siftOutput(my.minecraft.phantom_membrane.id, 0.1),
     siftOutput(my.minecraft.rotten_flesh.id, 0.25),
     siftOutput(my.minecraft.bone.id, 0.25),
     siftOutput(my.minecraft.spider_eye.id, 0.25),

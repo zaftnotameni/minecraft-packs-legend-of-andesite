@@ -9,6 +9,12 @@ const summoningRitualsRecipees = (event) => {
   });
 
   event.recipes.summoningrituals
+    .altar(`${my.minecraft.water_bucket.id}`)
+    .input(`${my.minecraft.gold_ingot.id}`)
+    .itemOutput(my.ars_elemental.siren_shards.id)
+    .blockBelow(sourcegemblock);
+
+  event.recipes.summoningrituals
     .altar(my.minecraft.bone_meal.id)
     .input(`${my.minecraft.wheat_seeds.id}`)
     .input(`${my.minecraft.pumpkin_seeds.id}`)
