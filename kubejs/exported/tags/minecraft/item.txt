@@ -1,0 +1,3858 @@
+To refresh this file, delete it and run /reload command again! Last updated: Jan 27, 2023, 12:46:58 PM
+
+#forge:cobblestone/mossy
+- minecraft:mossy_cobblestone (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:glass_panes/magenta
+- minecraft:magenta_stained_glass_pane (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:nuggets
+- #forge:nuggets/iron (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:nuggets/gold (from forge-1.19.2-43.2.4-universal.jar)
+- create:copper_nugget (from create-1.19.2-0.5.0.h.jar)
+- create:zinc_nugget (from create-1.19.2-0.5.0.h.jar)
+- create:brass_nugget (from create-1.19.2-0.5.0.h.jar)
+- create:experience_nugget (from create-1.19.2-0.5.0.h.jar)
+
+#forge:glass/tinted
+- minecraft:tinted_glass (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:plates
+- create:sturdy_sheet (from create-1.19.2-0.5.0.h.jar)
+- create:copper_sheet (from create-1.19.2-0.5.0.h.jar)
+- create:brass_sheet (from create-1.19.2-0.5.0.h.jar)
+- create:iron_sheet (from create-1.19.2-0.5.0.h.jar)
+- create:golden_sheet (from create-1.19.2-0.5.0.h.jar)
+- createaddition:zinc_sheet (from createaddition-1.19.2-20221230a.jar)
+
+#forge:dyes/gray
+- minecraft:gray_dye (from forge-1.19.2-43.2.4-universal.jar)
+
+#ars_nouveau:summon_bed
+- ars_nouveau:red_sbed (from ars_nouveau-1.19.2-3.8.4.jar)
+- ars_nouveau:green_sbed (from ars_nouveau-1.19.2-3.8.4.jar)
+- ars_nouveau:yellow_sbed (from ars_nouveau-1.19.2-3.8.4.jar)
+- ars_nouveau:blue_sbed (from ars_nouveau-1.19.2-3.8.4.jar)
+- ars_nouveau:orange_sbed (from ars_nouveau-1.19.2-3.8.4.jar)
+- ars_nouveau:purple_sbed (from ars_nouveau-1.19.2-3.8.4.jar)
+
+#create:stone_types/veridium
+- create:cut_veridium (from create-1.19.2-0.5.0.h.jar)
+- create:cut_veridium_stairs (from create-1.19.2-0.5.0.h.jar)
+- create:cut_veridium_wall (from create-1.19.2-0.5.0.h.jar)
+- create:polished_cut_veridium (from create-1.19.2-0.5.0.h.jar)
+- create:polished_cut_veridium_stairs (from create-1.19.2-0.5.0.h.jar)
+- create:polished_cut_veridium_wall (from create-1.19.2-0.5.0.h.jar)
+- create:cut_veridium_bricks (from create-1.19.2-0.5.0.h.jar)
+- create:cut_veridium_brick_stairs (from create-1.19.2-0.5.0.h.jar)
+- create:cut_veridium_brick_wall (from create-1.19.2-0.5.0.h.jar)
+- create:small_veridium_bricks (from create-1.19.2-0.5.0.h.jar)
+- create:small_veridium_brick_stairs (from create-1.19.2-0.5.0.h.jar)
+- create:small_veridium_brick_wall (from create-1.19.2-0.5.0.h.jar)
+- create:layered_veridium (from create-1.19.2-0.5.0.h.jar)
+- create:veridium_pillar (from create-1.19.2-0.5.0.h.jar)
+
+#forge:raw_ores/iron
+- minecraft:raw_iron (from occultism-1.19.2-1.66.2.jar)
+
+#forge:plates/zinc
+- createdeco:zinc_sheet (from createdeco-1.2.12-1.19.2.jar)
+- createaddition:zinc_sheet (from createaddition-1.19.2-20221230a.jar)
+
+#forge:wires/gold
+- createaddition:gold_wire (from createaddition-1.19.2-20221230a.jar)
+
+#forge:plates/netherite
+- createdeco:netherite_sheet (from createdeco-1.2.12-1.19.2.jar)
+
+#forge:flour
+- create:wheat_flour (from create-1.19.2-0.5.0.h.jar)
+
+#forge:rods/gold
+- createaddition:gold_rod (from createaddition-1.19.2-20221230a.jar)
+
+#quark:stools
+- quark:black_stool (from Quark-3.4-389.jar)
+- quark:blue_stool (from Quark-3.4-389.jar)
+- quark:brown_stool (from Quark-3.4-389.jar)
+- quark:cyan_stool (from Quark-3.4-389.jar)
+- quark:gray_stool (from Quark-3.4-389.jar)
+- quark:green_stool (from Quark-3.4-389.jar)
+- quark:light_blue_stool (from Quark-3.4-389.jar)
+- quark:light_gray_stool (from Quark-3.4-389.jar)
+- quark:lime_stool (from Quark-3.4-389.jar)
+- quark:magenta_stool (from Quark-3.4-389.jar)
+- quark:orange_stool (from Quark-3.4-389.jar)
+- quark:pink_stool (from Quark-3.4-389.jar)
+- quark:purple_stool (from Quark-3.4-389.jar)
+- quark:red_stool (from Quark-3.4-389.jar)
+- quark:white_stool (from Quark-3.4-389.jar)
+- quark:yellow_stool (from Quark-3.4-389.jar)
+
+#forge:rods/blaze
+- minecraft:blaze_rod (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:storage_blocks/source
+- ars_nouveau:source_gem_block (from ars_nouveau-1.19.2-3.8.4.jar)
+
+#forge:storage_blocks/netherite
+- minecraft:netherite_block (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:glass_panes/white
+- minecraft:white_stained_glass_pane (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:dough/wheat
+- create:dough (from create-1.19.2-0.5.0.h.jar)
+
+#forge:ingots/silver
+- occultism:silver_ingot (from occultism-1.19.2-1.66.2.jar)
+
+#create:upright_on_belt
+- create:blaze_cake_base (from create-1.19.2-0.5.0.h.jar)
+- create:blaze_cake (from create-1.19.2-0.5.0.h.jar)
+- create:creative_blaze_cake (from create-1.19.2-0.5.0.h.jar)
+- create:builders_tea (from create-1.19.2-0.5.0.h.jar)
+- minecraft:glass_bottle (from create-1.19.2-0.5.0.h.jar)
+- minecraft:potion (from create-1.19.2-0.5.0.h.jar)
+- minecraft:splash_potion (from create-1.19.2-0.5.0.h.jar)
+- minecraft:lingering_potion (from create-1.19.2-0.5.0.h.jar)
+- minecraft:honey_bottle (from create-1.19.2-0.5.0.h.jar)
+- minecraft:cake (from create-1.19.2-0.5.0.h.jar)
+- create_enchantment_industry:hyper_experience_bottle (from create_enchantment_industry-1.19.2-for-create-0.5.0.h-1.1.12.jar)
+- minecraft:experience_bottle (from create_enchantment_industry-1.19.2-for-create-0.5.0.h-1.1.12.jar)
+- createaddition:cake_base (from createaddition-1.19.2-20221230a.jar)
+- createaddition:cake_base_baked (from createaddition-1.19.2-20221230a.jar)
+- createaddition:chocolate_cake (from createaddition-1.19.2-20221230a.jar)
+- createaddition:honey_cake (from createaddition-1.19.2-20221230a.jar)
+- minecraft:cake (from createaddition-1.19.2-20221230a.jar)
+- createaddition:seed_oil_bucket (from createaddition-1.19.2-20221230a.jar)
+
+#forge:glass_panes/light_gray
+- minecraft:light_gray_stained_glass_pane (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:nuggets/bronze
+- alloyed:bronze_nugget (from alloyed-1.19.2-v1.5.jar)
+
+#minecraft:wool_carpets
+- minecraft:white_carpet (from Default)
+- minecraft:orange_carpet (from Default)
+- minecraft:magenta_carpet (from Default)
+- minecraft:light_blue_carpet (from Default)
+- minecraft:yellow_carpet (from Default)
+- minecraft:lime_carpet (from Default)
+- minecraft:pink_carpet (from Default)
+- minecraft:gray_carpet (from Default)
+- minecraft:light_gray_carpet (from Default)
+- minecraft:cyan_carpet (from Default)
+- minecraft:purple_carpet (from Default)
+- minecraft:blue_carpet (from Default)
+- minecraft:brown_carpet (from Default)
+- minecraft:green_carpet (from Default)
+- minecraft:red_carpet (from Default)
+- minecraft:black_carpet (from Default)
+
+#forge:seeds/cassava
+- createcafe:cassava_seeds (from createcafe-1.0.2-1.19.2.jar)
+
+#forge:glass/pink
+- minecraft:pink_stained_glass (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:chests
+- #forge:chests/ender (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:chests/trapped (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:chests/wooden (from forge-1.19.2-43.2.4-universal.jar)
+- quark:nether_brick_chest (from Quark-3.4-389.jar)
+- quark:purpur_chest (from Quark-3.4-389.jar)
+- quark:prismarine_chest (from Quark-3.4-389.jar)
+- quark:azalea_chest (from Quark-3.4-389.jar)
+- quark:azalea_trapped_chest (from Quark-3.4-389.jar)
+- quark:blossom_chest (from Quark-3.4-389.jar)
+- quark:blossom_trapped_chest (from Quark-3.4-389.jar)
+- quark:bamboo_chest (from Quark-3.4-389.jar)
+- quark:bamboo_trapped_chest (from Quark-3.4-389.jar)
+- quark:ancient_chest (from Quark-3.4-389.jar)
+- quark:ancient_trapped_chest (from Quark-3.4-389.jar)
+
+#forge:storage_blocks/emerald
+- minecraft:emerald_block (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:ores/redstone
+- #minecraft:redstone_ores (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:glass/red
+- minecraft:red_stained_glass (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:storage_blocks/iesnium
+- occultism:iesnium_block (from occultism-1.19.2-1.66.2.jar)
+
+#forge:ender_pearls
+- minecraft:ender_pearl (from forge-1.19.2-43.2.4-universal.jar)
+
+#quark:pipes
+- quark:pipe (from Quark-3.4-389.jar)
+- quark:encased_pipe (from Quark-3.4-389.jar)
+
+#libx:impl_wooden_stairs
+
+#forge:cobblestone/deepslate
+- minecraft:cobbled_deepslate (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:glass_panes/green
+- minecraft:green_stained_glass_pane (from forge-1.19.2-43.2.4-universal.jar)
+
+#quark:seed_pouch_holdable
+- #forge:seeds (from Quark-3.4-389.jar)
+- #forge:mushrooms (from Quark-3.4-389.jar)
+- minecraft:warped_fungus (from Quark-3.4-389.jar)
+- minecraft:crimson_fungus (from Quark-3.4-389.jar)
+- #minecraft:saplings (from Quark-3.4-389.jar)
+- minecraft:carrot (from Quark-3.4-389.jar)
+- minecraft:potato (from Quark-3.4-389.jar)
+- minecraft:sweet_berries (from Quark-3.4-389.jar)
+- minecraft:kelp (from Quark-3.4-389.jar)
+- minecraft:bamboo (from Quark-3.4-389.jar)
+- minecraft:sugar_cane (from Quark-3.4-389.jar)
+- minecraft:nether_wart (from Quark-3.4-389.jar)
+- minecraft:cocoa_beans (from Quark-3.4-389.jar)
+
+#libx:impl_fences
+
+#forge:chests/trapped
+- minecraft:trapped_chest (from forge-1.19.2-43.2.4-universal.jar)
+- quark:oak_trapped_chest (from Quark-3.4-389.jar)
+- quark:spruce_trapped_chest (from Quark-3.4-389.jar)
+- quark:birch_trapped_chest (from Quark-3.4-389.jar)
+- quark:jungle_trapped_chest (from Quark-3.4-389.jar)
+- quark:acacia_trapped_chest (from Quark-3.4-389.jar)
+- quark:dark_oak_trapped_chest (from Quark-3.4-389.jar)
+- quark:warped_trapped_chest (from Quark-3.4-389.jar)
+- quark:crimson_trapped_chest (from Quark-3.4-389.jar)
+- quark:nether_brick_trapped_chest (from Quark-3.4-389.jar)
+- quark:purpur_trapped_chest (from Quark-3.4-389.jar)
+- quark:prismarine_trapped_chest (from Quark-3.4-389.jar)
+- quark:azalea_trapped_chest (from Quark-3.4-389.jar)
+- quark:blossom_trapped_chest (from Quark-3.4-389.jar)
+- quark:mangrove_trapped_chest (from Quark-3.4-389.jar)
+- quark:bamboo_trapped_chest (from Quark-3.4-389.jar)
+- quark:ancient_trapped_chest (from Quark-3.4-389.jar)
+
+#forge:fence_gates
+- #forge:fence_gates/wooden (from forge-1.19.2-43.2.4-universal.jar)
+- ars_nouveau:archwood_fence_gate (from ars_nouveau-1.19.2-3.8.4.jar)
+- quark:ancient_fence_gate (from Quark-3.4-389.jar)
+- quark:azalea_fence_gate (from Quark-3.4-389.jar)
+- quark:bamboo_fence_gate (from Quark-3.4-389.jar)
+- quark:blossom_fence_gate (from Quark-3.4-389.jar)
+- quark:nether_brick_fence_gate (from Quark-3.4-389.jar)
+
+#curios:an_focus
+- ars_nouveau:summon_focus (from ars_nouveau-1.19.2-3.8.4.jar)
+- ars_nouveau:shapers_focus (from ars_nouveau-1.19.2-3.8.4.jar)
+- arsomega:focus_of_mana (from arsomega-3.0.0-alpha-2.jar)
+- arsomega:focus_of_alchemy (from arsomega-3.0.0-alpha-2.jar)
+- arsomega:focus_of_advanced_alchemy (from arsomega-3.0.0-alpha-2.jar)
+- arsomega:focus_of_regen (from arsomega-3.0.0-alpha-2.jar)
+- arsomega:cursed_pendant (from arsomega-3.0.0-alpha-2.jar)
+- arsomega:cursed_pendant_double (from arsomega-3.0.0-alpha-2.jar)
+- arsomega:cursed_pendant_strong (from arsomega-3.0.0-alpha-2.jar)
+- arsomega:cursed_pendant_double_strong (from arsomega-3.0.0-alpha-2.jar)
+- arsomega:cursed_pendant_ultimate (from arsomega-3.0.0-alpha-2.jar)
+- ars_elemental:air_focus (from ars_elemental-1.19.2-0.5.7.1.jar)
+- ars_elemental:fire_focus (from ars_elemental-1.19.2-0.5.7.1.jar)
+- ars_elemental:earth_focus (from ars_elemental-1.19.2-0.5.7.1.jar)
+- ars_elemental:necrotic_focus (from ars_elemental-1.19.2-0.5.7.1.jar)
+- ars_elemental:water_focus (from ars_elemental-1.19.2-0.5.7.1.jar)
+- ars_elemental:lesser_air_focus (from ars_elemental-1.19.2-0.5.7.1.jar)
+- ars_elemental:lesser_fire_focus (from ars_elemental-1.19.2-0.5.7.1.jar)
+- ars_elemental:lesser_earth_focus (from ars_elemental-1.19.2-0.5.7.1.jar)
+- ars_elemental:lesser_water_focus (from ars_elemental-1.19.2-0.5.7.1.jar)
+
+#forge:ingots
+- #forge:ingots/brick (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:ingots/copper (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:ingots/gold (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:ingots/iron (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:ingots/netherite (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:ingots/nether_brick (from forge-1.19.2-43.2.4-universal.jar)
+- #create:create_ingots (from create-1.19.2-0.5.0.h.jar)
+
+#forge:crops/nether_wart
+- minecraft:nether_wart (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:sandstone
+- minecraft:sandstone (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:cut_sandstone (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:chiseled_sandstone (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:smooth_sandstone (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:red_sandstone (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:cut_red_sandstone (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:chiseled_red_sandstone (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:smooth_red_sandstone (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:storage_blocks/copper
+- minecraft:copper_block (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:glass_panes/colorless
+- minecraft:glass_pane (from forge-1.19.2-43.2.4-universal.jar)
+
+#minecraft:coals
+- minecraft:coal (from Default)
+- minecraft:charcoal (from Default)
+
+#minecraft:piglin_food
+- minecraft:porkchop (from Default)
+- minecraft:cooked_porkchop (from Default)
+
+#forge:raw_ores/gold
+- minecraft:raw_gold (from occultism-1.19.2-1.66.2.jar)
+
+#forge:ingots/nether_brick
+- minecraft:nether_brick (from forge-1.19.2-43.2.4-universal.jar)
+
+#quark:hollow_logs
+- quark:hollow_oak_log (from Quark-3.4-389.jar)
+- quark:hollow_spruce_log (from Quark-3.4-389.jar)
+- quark:hollow_birch_log (from Quark-3.4-389.jar)
+- quark:hollow_jungle_log (from Quark-3.4-389.jar)
+- quark:hollow_acacia_log (from Quark-3.4-389.jar)
+- quark:hollow_dark_oak_log (from Quark-3.4-389.jar)
+- quark:hollow_mangrove_log (from Quark-3.4-389.jar)
+- quark:hollow_crimson_stem (from Quark-3.4-389.jar)
+- quark:hollow_warped_stem (from Quark-3.4-389.jar)
+- quark:hollow_blossom_log (from Quark-3.4-389.jar)
+- quark:hollow_azalea_log (from Quark-3.4-389.jar)
+- quark:hollow_ancient_log (from Quark-3.4-389.jar)
+
+#quark:runes
+- quark:black_rune (from Quark-3.4-389.jar)
+- quark:blue_rune (from Quark-3.4-389.jar)
+- quark:brown_rune (from Quark-3.4-389.jar)
+- quark:cyan_rune (from Quark-3.4-389.jar)
+- quark:gray_rune (from Quark-3.4-389.jar)
+- quark:green_rune (from Quark-3.4-389.jar)
+- quark:light_blue_rune (from Quark-3.4-389.jar)
+- quark:light_gray_rune (from Quark-3.4-389.jar)
+- quark:lime_rune (from Quark-3.4-389.jar)
+- quark:magenta_rune (from Quark-3.4-389.jar)
+- quark:orange_rune (from Quark-3.4-389.jar)
+- quark:pink_rune (from Quark-3.4-389.jar)
+- quark:purple_rune (from Quark-3.4-389.jar)
+- quark:red_rune (from Quark-3.4-389.jar)
+- quark:white_rune (from Quark-3.4-389.jar)
+- quark:yellow_rune (from Quark-3.4-389.jar)
+- quark:rainbow_rune (from Quark-3.4-389.jar)
+- quark:blank_rune (from Quark-3.4-389.jar)
+
+#forge:cobblestone/infested
+- minecraft:infested_cobblestone (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:dusts/iesnium
+- occultism:iesnium_dust (from occultism-1.19.2-1.66.2.jar)
+
+#forge:storage_blocks/lapis
+- minecraft:lapis_block (from forge-1.19.2-43.2.4-universal.jar)
+
+#minecraft:beds
+- minecraft:red_bed (from Default)
+- minecraft:black_bed (from Default)
+- minecraft:blue_bed (from Default)
+- minecraft:brown_bed (from Default)
+- minecraft:cyan_bed (from Default)
+- minecraft:gray_bed (from Default)
+- minecraft:green_bed (from Default)
+- minecraft:light_blue_bed (from Default)
+- minecraft:light_gray_bed (from Default)
+- minecraft:lime_bed (from Default)
+- minecraft:magenta_bed (from Default)
+- minecraft:orange_bed (from Default)
+- minecraft:pink_bed (from Default)
+- minecraft:purple_bed (from Default)
+- minecraft:white_bed (from Default)
+- minecraft:yellow_bed (from Default)
+
+#forge:armors/helmets
+- minecraft:leather_helmet (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:turtle_helmet (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:chainmail_helmet (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:iron_helmet (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:golden_helmet (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:diamond_helmet (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:netherite_helmet (from forge-1.19.2-43.2.4-universal.jar)
+- ars_nouveau:novice_hood (from ars_nouveau-1.19.2-3.8.4.jar)
+- ars_nouveau:apprentice_hood (from ars_nouveau-1.19.2-3.8.4.jar)
+- ars_nouveau:archmage_hood (from ars_nouveau-1.19.2-3.8.4.jar)
+
+#forge:ores/diamond
+- #minecraft:diamond_ores (from forge-1.19.2-43.2.4-universal.jar)
+
+#minecraft:doors
+- #minecraft:wooden_doors (from Default)
+- minecraft:iron_door (from Default)
+- #libx:impl_doors (from LibX-1.19.2-4.2.5.jar)
+- create:train_door (from create-1.19.2-0.5.0.h.jar)
+- create:framed_glass_door (from create-1.19.2-0.5.0.h.jar)
+- ars_nouveau:archwood_door (from ars_nouveau-1.19.2-3.8.4.jar)
+- quark:azalea_door (from Quark-3.4-389.jar)
+- quark:blossom_door (from Quark-3.4-389.jar)
+- quark:bamboo_door (from Quark-3.4-389.jar)
+- quark:ancient_door (from Quark-3.4-389.jar)
+
+#quark:corundum
+- quark:red_corundum (from Quark-3.4-389.jar)
+- quark:orange_corundum (from Quark-3.4-389.jar)
+- quark:yellow_corundum (from Quark-3.4-389.jar)
+- quark:green_corundum (from Quark-3.4-389.jar)
+- quark:blue_corundum (from Quark-3.4-389.jar)
+- quark:indigo_corundum (from Quark-3.4-389.jar)
+- quark:violet_corundum (from Quark-3.4-389.jar)
+- quark:white_corundum (from Quark-3.4-389.jar)
+- quark:black_corundum (from Quark-3.4-389.jar)
+
+#forge:ore_rates/dense
+- minecraft:copper_ore (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:deepslate_copper_ore (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:deepslate_lapis_ore (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:deepslate_redstone_ore (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:lapis_ore (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:redstone_ore (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:dyes/orange
+- minecraft:orange_dye (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:rods/iron
+- createaddition:iron_rod (from createaddition-1.19.2-20221230a.jar)
+
+#forge:ingots/iesnium
+- occultism:iesnium_ingot (from occultism-1.19.2-1.66.2.jar)
+
+#create:stone_types/granite
+- create:cut_granite (from create-1.19.2-0.5.0.h.jar)
+- create:cut_granite_stairs (from create-1.19.2-0.5.0.h.jar)
+- create:cut_granite_wall (from create-1.19.2-0.5.0.h.jar)
+- create:polished_cut_granite (from create-1.19.2-0.5.0.h.jar)
+- create:polished_cut_granite_stairs (from create-1.19.2-0.5.0.h.jar)
+- create:polished_cut_granite_wall (from create-1.19.2-0.5.0.h.jar)
+- create:cut_granite_bricks (from create-1.19.2-0.5.0.h.jar)
+- create:cut_granite_brick_stairs (from create-1.19.2-0.5.0.h.jar)
+- create:cut_granite_brick_wall (from create-1.19.2-0.5.0.h.jar)
+- create:small_granite_bricks (from create-1.19.2-0.5.0.h.jar)
+- create:small_granite_brick_stairs (from create-1.19.2-0.5.0.h.jar)
+- create:small_granite_brick_wall (from create-1.19.2-0.5.0.h.jar)
+- create:layered_granite (from create-1.19.2-0.5.0.h.jar)
+- create:granite_pillar (from create-1.19.2-0.5.0.h.jar)
+
+#forge:raw_ores/silver
+- occultism:raw_silver (from occultism-1.19.2-1.66.2.jar)
+
+#forge:glass/white
+- minecraft:white_stained_glass (from forge-1.19.2-43.2.4-universal.jar)
+
+#minecraft:signs
+- minecraft:oak_sign (from Default)
+- minecraft:spruce_sign (from Default)
+- minecraft:birch_sign (from Default)
+- minecraft:acacia_sign (from Default)
+- minecraft:jungle_sign (from Default)
+- minecraft:dark_oak_sign (from Default)
+- minecraft:crimson_sign (from Default)
+- minecraft:warped_sign (from Default)
+- minecraft:mangrove_sign (from Default)
+- #libx:impl_signs (from LibX-1.19.2-4.2.5.jar)
+
+#forge:glass_panes/red
+- minecraft:red_stained_glass_pane (from forge-1.19.2-43.2.4-universal.jar)
+
+#minecraft:fishes
+- minecraft:cod (from Default)
+- minecraft:cooked_cod (from Default)
+- minecraft:salmon (from Default)
+- minecraft:cooked_salmon (from Default)
+- minecraft:pufferfish (from Default)
+- minecraft:tropical_fish (from Default)
+
+#ars_nouveau:golem/shard
+- minecraft:amethyst_shard (from ars_nouveau-1.19.2-3.8.4.jar)
+
+#forge:tools/knives
+- create_things_and_misc:copper_knife (from create_misc_and_things_1.19.2_1.1B.jar)
+- create_things_and_misc:brass_knife (from create_misc_and_things_1.19.2_1.1B.jar)
+- create_things_and_misc:zinc_knife (from create_misc_and_things_1.19.2_1.1B.jar)
+- alloyed:steel_knife (from alloyed-1.19.2-v1.5.jar)
+
+#forge:fruits
+- minecraft:apple (from occultism-1.19.2-1.66.2.jar)
+
+#forge:tools/shields
+- minecraft:shield (from forge-1.19.2-43.2.4-universal.jar)
+
+#create_sa:fuelable
+- create_sa:andesite_exoskeleton_chestplate (from create-stuff-additions1.19.2_v2.0.2a.jar)
+- create_sa:brass_jetpack_chestplate (from create-stuff-additions1.19.2_v2.0.2a.jar)
+- create_sa:portable_drill (from create-stuff-additions1.19.2_v2.0.2a.jar)
+- create_sa:brass_exoskeleton_chestplate (from create-stuff-additions1.19.2_v2.0.2a.jar)
+- create_sa:flamethrower (from create-stuff-additions1.19.2_v2.0.2a.jar)
+- create_sa:grapplin_whisk (from create-stuff-additions1.19.2_v2.0.2a.jar)
+- create_sa:andesite_jetpack_chestplate (from create-stuff-additions1.19.2_v2.0.2a.jar)
+
+#forge:cobblestone/normal
+- minecraft:cobblestone (from forge-1.19.2-43.2.4-universal.jar)
+
+#nyfsquiver:quiver_items/arrows
+- ars_nouveau:pierce_arrow (from ars_nouveau-1.19.2-3.8.4.jar)
+- ars_nouveau:amplify_arrow (from ars_nouveau-1.19.2-3.8.4.jar)
+- ars_nouveau:split_arrow (from ars_nouveau-1.19.2-3.8.4.jar)
+
+#curios:hands
+- occultism:storage_remote (from occultism-1.19.2-1.66.2.jar)
+
+#forge:sand/colorless
+- minecraft:sand (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:raw_materials/iesnium
+- occultism:raw_iesnium (from occultism-1.19.2-1.66.2.jar)
+
+#minecraft:redstone_ores
+- minecraft:redstone_ore (from Default)
+- minecraft:deepslate_redstone_ore (from Default)
+
+#forge:raw_materials/iron
+- minecraft:raw_iron (from forge-1.19.2-43.2.4-universal.jar)
+
+#ars_elemental:soulbound_extra
+- minecraft:writable_book (from ars_elemental-1.19.2-0.5.7.1.jar)
+- minecraft:written_book (from ars_elemental-1.19.2-0.5.7.1.jar)
+
+#create:vanilla_stripped_logs
+- minecraft:stripped_acacia_log (from create-1.19.2-0.5.0.h.jar)
+- minecraft:stripped_birch_log (from create-1.19.2-0.5.0.h.jar)
+- minecraft:stripped_crimson_stem (from create-1.19.2-0.5.0.h.jar)
+- minecraft:stripped_dark_oak_log (from create-1.19.2-0.5.0.h.jar)
+- minecraft:stripped_jungle_log (from create-1.19.2-0.5.0.h.jar)
+- minecraft:stripped_mangrove_log (from create-1.19.2-0.5.0.h.jar)
+- minecraft:stripped_oak_log (from create-1.19.2-0.5.0.h.jar)
+- minecraft:stripped_spruce_log (from create-1.19.2-0.5.0.h.jar)
+- minecraft:stripped_warped_stem (from create-1.19.2-0.5.0.h.jar)
+
+#forge:nuggets/brass
+- create:brass_nugget (from create-1.19.2-0.5.0.h.jar)
+
+#quark:shards
+- quark:clear_shard (from Quark-3.4-389.jar)
+- quark:dirty_shard (from Quark-3.4-389.jar)
+- quark:black_shard (from Quark-3.4-389.jar)
+- quark:blue_shard (from Quark-3.4-389.jar)
+- quark:brown_shard (from Quark-3.4-389.jar)
+- quark:cyan_shard (from Quark-3.4-389.jar)
+- quark:gray_shard (from Quark-3.4-389.jar)
+- quark:green_shard (from Quark-3.4-389.jar)
+- quark:light_blue_shard (from Quark-3.4-389.jar)
+- quark:light_gray_shard (from Quark-3.4-389.jar)
+- quark:lime_shard (from Quark-3.4-389.jar)
+- quark:magenta_shard (from Quark-3.4-389.jar)
+- quark:orange_shard (from Quark-3.4-389.jar)
+- quark:pink_shard (from Quark-3.4-389.jar)
+- quark:purple_shard (from Quark-3.4-389.jar)
+- quark:red_shard (from Quark-3.4-389.jar)
+- quark:white_shard (from Quark-3.4-389.jar)
+- quark:yellow_shard (from Quark-3.4-389.jar)
+
+#quark:wooden_vertical_slabs
+- quark:oak_vertical_slab (from Quark-3.4-389.jar)
+- quark:spruce_vertical_slab (from Quark-3.4-389.jar)
+- quark:birch_vertical_slab (from Quark-3.4-389.jar)
+- quark:jungle_vertical_slab (from Quark-3.4-389.jar)
+- quark:acacia_vertical_slab (from Quark-3.4-389.jar)
+- quark:dark_oak_vertical_slab (from Quark-3.4-389.jar)
+- quark:crimson_vertical_slab (from Quark-3.4-389.jar)
+- quark:warped_vertical_slab (from Quark-3.4-389.jar)
+- quark:azalea_planks_vertical_slab (from Quark-3.4-389.jar)
+- quark:blossom_planks_vertical_slab (from Quark-3.4-389.jar)
+- quark:mangrove_vertical_slab (from Quark-3.4-389.jar)
+- quark:bamboo_planks_vertical_slab (from Quark-3.4-389.jar)
+- quark:ancient_planks_vertical_slab (from Quark-3.4-389.jar)
+
+#create:modded_stripped_wood
+- ars_nouveau:stripped_blue_archwood_wood? (from create-1.19.2-0.5.0.h.jar)
+- ars_nouveau:stripped_purple_archwood_wood? (from create-1.19.2-0.5.0.h.jar)
+- ars_nouveau:stripped_green_archwood_wood? (from create-1.19.2-0.5.0.h.jar)
+- ars_nouveau:stripped_red_archwood_wood? (from create-1.19.2-0.5.0.h.jar)
+- botania:stripped_livingwood? (from create-1.19.2-0.5.0.h.jar)
+- botania:stripped_dreamwood? (from create-1.19.2-0.5.0.h.jar)
+- forbidden_arcanus:stripped_cherrywood? (from create-1.19.2-0.5.0.h.jar)
+- forbidden_arcanus:stripped_mysterywood? (from create-1.19.2-0.5.0.h.jar)
+- hexcasting:akashic_wood_stripped? (from create-1.19.2-0.5.0.h.jar)
+- integrateddynamics:menril_wood_stripped? (from create-1.19.2-0.5.0.h.jar)
+- byg:stripped_aspen_wood? (from create-1.19.2-0.5.0.h.jar)
+- byg:stripped_baobab_wood? (from create-1.19.2-0.5.0.h.jar)
+- byg:stripped_enchanted_wood? (from create-1.19.2-0.5.0.h.jar)
+- byg:stripped_cherry_wood? (from create-1.19.2-0.5.0.h.jar)
+- byg:stripped_cika_wood? (from create-1.19.2-0.5.0.h.jar)
+- byg:stripped_cypress_wood? (from create-1.19.2-0.5.0.h.jar)
+- byg:stripped_ebony_wood? (from create-1.19.2-0.5.0.h.jar)
+- byg:stripped_ether_wood? (from create-1.19.2-0.5.0.h.jar)
+- byg:stripped_fir_wood? (from create-1.19.2-0.5.0.h.jar)
+- byg:stripped_green_enchanted_wood? (from create-1.19.2-0.5.0.h.jar)
+- byg:stripped_holly_wood? (from create-1.19.2-0.5.0.h.jar)
+- byg:stripped_jacaranda_wood? (from create-1.19.2-0.5.0.h.jar)
+- byg:stripped_lament_wood? (from create-1.19.2-0.5.0.h.jar)
+- byg:stripped_mahogany_wood? (from create-1.19.2-0.5.0.h.jar)
+- byg:stripped_mangrove_wood? (from create-1.19.2-0.5.0.h.jar)
+- byg:stripped_maple_wood? (from create-1.19.2-0.5.0.h.jar)
+- byg:stripped_nightshade_wood? (from create-1.19.2-0.5.0.h.jar)
+- byg:stripped_palm_wood? (from create-1.19.2-0.5.0.h.jar)
+- byg:stripped_palo_verde_wood? (from create-1.19.2-0.5.0.h.jar)
+- byg:stripped_pine_wood? (from create-1.19.2-0.5.0.h.jar)
+- byg:stripped_rainbow_eucalyptus_wood? (from create-1.19.2-0.5.0.h.jar)
+- byg:stripped_redwood_wood? (from create-1.19.2-0.5.0.h.jar)
+- byg:stripped_skyris_wood? (from create-1.19.2-0.5.0.h.jar)
+- byg:stripped_willow_wood? (from create-1.19.2-0.5.0.h.jar)
+- byg:stripped_witch_hazel_wood? (from create-1.19.2-0.5.0.h.jar)
+- byg:stripped_zelkova_wood? (from create-1.19.2-0.5.0.h.jar)
+- silentgear:stripped_netherwood_wood? (from create-1.19.2-0.5.0.h.jar)
+- twilightforest:stripped_twilight_oak_wood? (from create-1.19.2-0.5.0.h.jar)
+- twilightforest:stripped_canopy_wood? (from create-1.19.2-0.5.0.h.jar)
+- twilightforest:stripped_mangrove_wood? (from create-1.19.2-0.5.0.h.jar)
+- twilightforest:stripped_dark_wood? (from create-1.19.2-0.5.0.h.jar)
+- twilightforest:stripped_time_wood? (from create-1.19.2-0.5.0.h.jar)
+- twilightforest:stripped_transformation_wood? (from create-1.19.2-0.5.0.h.jar)
+- twilightforest:stripped_mining_wood? (from create-1.19.2-0.5.0.h.jar)
+- twilightforest:stripped_sorting_wood? (from create-1.19.2-0.5.0.h.jar)
+- tconstruct:stripped_greenheart_wood? (from create-1.19.2-0.5.0.h.jar)
+- tconstruct:stripped_skyroot_wood? (from create-1.19.2-0.5.0.h.jar)
+- tconstruct:stripped_bloodshroom_wood? (from create-1.19.2-0.5.0.h.jar)
+- architects_palette:stripped_twisted_wood? (from create-1.19.2-0.5.0.h.jar)
+- quark:stripped_azalea_wood? (from create-1.19.2-0.5.0.h.jar)
+- quark:stripped_blossom_wood? (from create-1.19.2-0.5.0.h.jar)
+- ecologics:stripped_coconut_wood? (from create-1.19.2-0.5.0.h.jar)
+- ecologics:stripped_walnut_wood? (from create-1.19.2-0.5.0.h.jar)
+- ecologics:stripped_azalea_wood? (from create-1.19.2-0.5.0.h.jar)
+- biomesoplenty:stripped_fir_wood? (from create-1.19.2-0.5.0.h.jar)
+- biomesoplenty:stripped_redwood_wood? (from create-1.19.2-0.5.0.h.jar)
+- biomesoplenty:stripped_cherry_wood? (from create-1.19.2-0.5.0.h.jar)
+- biomesoplenty:stripped_mahogany_wood? (from create-1.19.2-0.5.0.h.jar)
+- biomesoplenty:stripped_jacaranda_wood? (from create-1.19.2-0.5.0.h.jar)
+- biomesoplenty:stripped_palm_wood? (from create-1.19.2-0.5.0.h.jar)
+- biomesoplenty:stripped_willow_wood? (from create-1.19.2-0.5.0.h.jar)
+- biomesoplenty:stripped_dead_wood? (from create-1.19.2-0.5.0.h.jar)
+- biomesoplenty:stripped_magic_wood? (from create-1.19.2-0.5.0.h.jar)
+- biomesoplenty:stripped_umbran_wood? (from create-1.19.2-0.5.0.h.jar)
+- biomesoplenty:stripped_hellbark_wood? (from create-1.19.2-0.5.0.h.jar)
+- blue_skies:stripped_bluebright_wood? (from create-1.19.2-0.5.0.h.jar)
+- blue_skies:stripped_starlit_wood? (from create-1.19.2-0.5.0.h.jar)
+- blue_skies:stripped_frostbright_wood? (from create-1.19.2-0.5.0.h.jar)
+- blue_skies:stripped_lunar_wood? (from create-1.19.2-0.5.0.h.jar)
+- blue_skies:stripped_dusk_wood? (from create-1.19.2-0.5.0.h.jar)
+- blue_skies:stripped_maple_wood? (from create-1.19.2-0.5.0.h.jar)
+- blue_skies:stripped_cherry_wood? (from create-1.19.2-0.5.0.h.jar)
+- byg:stripped_bulbis_wood? (from create-1.19.2-0.5.0.h.jar)
+
+#forge:storage_blocks/charcoal
+- quark:charcoal_block (from Quark-3.4-389.jar)
+
+#forge:armors
+- #forge:armors/helmets (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:armors/chestplates (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:armors/leggings (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:armors/boots (from forge-1.19.2-43.2.4-universal.jar)
+- ars_nouveau:novice_robes (from ars_nouveau-1.19.2-3.8.4.jar)
+- ars_nouveau:apprentice_robes (from ars_nouveau-1.19.2-3.8.4.jar)
+- ars_nouveau:archmage_robes (from ars_nouveau-1.19.2-3.8.4.jar)
+- ars_nouveau:novice_boots (from ars_nouveau-1.19.2-3.8.4.jar)
+- ars_nouveau:apprentice_boots (from ars_nouveau-1.19.2-3.8.4.jar)
+- ars_nouveau:archmage_boots (from ars_nouveau-1.19.2-3.8.4.jar)
+- ars_nouveau:novice_leggings (from ars_nouveau-1.19.2-3.8.4.jar)
+- ars_nouveau:apprentice_leggings (from ars_nouveau-1.19.2-3.8.4.jar)
+- ars_nouveau:archmage_leggings (from ars_nouveau-1.19.2-3.8.4.jar)
+- ars_nouveau:novice_hood (from ars_nouveau-1.19.2-3.8.4.jar)
+- ars_nouveau:apprentice_hood (from ars_nouveau-1.19.2-3.8.4.jar)
+- ars_nouveau:archmage_hood (from ars_nouveau-1.19.2-3.8.4.jar)
+
+#forge:gems/diamond
+- minecraft:diamond (from forge-1.19.2-43.2.4-universal.jar)
+- arsomega:alchemical_diamond (from arsomega-3.0.0-alpha-2.jar)
+
+#minecraft:walls
+- minecraft:cobblestone_wall (from Default)
+- minecraft:mossy_cobblestone_wall (from Default)
+- minecraft:brick_wall (from Default)
+- minecraft:prismarine_wall (from Default)
+- minecraft:red_sandstone_wall (from Default)
+- minecraft:mossy_stone_brick_wall (from Default)
+- minecraft:granite_wall (from Default)
+- minecraft:stone_brick_wall (from Default)
+- minecraft:nether_brick_wall (from Default)
+- minecraft:andesite_wall (from Default)
+- minecraft:red_nether_brick_wall (from Default)
+- minecraft:sandstone_wall (from Default)
+- minecraft:end_stone_brick_wall (from Default)
+- minecraft:diorite_wall (from Default)
+- minecraft:blackstone_wall (from Default)
+- minecraft:polished_blackstone_brick_wall (from Default)
+- minecraft:polished_blackstone_wall (from Default)
+- minecraft:cobbled_deepslate_wall (from Default)
+- minecraft:polished_deepslate_wall (from Default)
+- minecraft:deepslate_tile_wall (from Default)
+- minecraft:deepslate_brick_wall (from Default)
+- minecraft:mud_brick_wall (from Default)
+- #libx:impl_walls (from LibX-1.19.2-4.2.5.jar)
+- alloyed:steel_bars (from alloyed-1.19.2-v1.5.jar)
+- create:cut_granite_wall (from create-1.19.2-0.5.0.h.jar)
+- create:polished_cut_granite_wall (from create-1.19.2-0.5.0.h.jar)
+- create:cut_granite_brick_wall (from create-1.19.2-0.5.0.h.jar)
+- create:small_granite_brick_wall (from create-1.19.2-0.5.0.h.jar)
+- create:cut_diorite_wall (from create-1.19.2-0.5.0.h.jar)
+- create:polished_cut_diorite_wall (from create-1.19.2-0.5.0.h.jar)
+- create:cut_diorite_brick_wall (from create-1.19.2-0.5.0.h.jar)
+- create:small_diorite_brick_wall (from create-1.19.2-0.5.0.h.jar)
+- create:cut_andesite_wall (from create-1.19.2-0.5.0.h.jar)
+- create:polished_cut_andesite_wall (from create-1.19.2-0.5.0.h.jar)
+- create:cut_andesite_brick_wall (from create-1.19.2-0.5.0.h.jar)
+- create:small_andesite_brick_wall (from create-1.19.2-0.5.0.h.jar)
+- create:cut_calcite_wall (from create-1.19.2-0.5.0.h.jar)
+- create:polished_cut_calcite_wall (from create-1.19.2-0.5.0.h.jar)
+- create:cut_calcite_brick_wall (from create-1.19.2-0.5.0.h.jar)
+- create:small_calcite_brick_wall (from create-1.19.2-0.5.0.h.jar)
+- create:cut_dripstone_wall (from create-1.19.2-0.5.0.h.jar)
+- create:polished_cut_dripstone_wall (from create-1.19.2-0.5.0.h.jar)
+- create:cut_dripstone_brick_wall (from create-1.19.2-0.5.0.h.jar)
+- create:small_dripstone_brick_wall (from create-1.19.2-0.5.0.h.jar)
+- create:cut_deepslate_wall (from create-1.19.2-0.5.0.h.jar)
+- create:polished_cut_deepslate_wall (from create-1.19.2-0.5.0.h.jar)
+- create:cut_deepslate_brick_wall (from create-1.19.2-0.5.0.h.jar)
+- create:small_deepslate_brick_wall (from create-1.19.2-0.5.0.h.jar)
+- create:cut_tuff_wall (from create-1.19.2-0.5.0.h.jar)
+- create:polished_cut_tuff_wall (from create-1.19.2-0.5.0.h.jar)
+- create:cut_tuff_brick_wall (from create-1.19.2-0.5.0.h.jar)
+- create:small_tuff_brick_wall (from create-1.19.2-0.5.0.h.jar)
+- create:cut_asurine_wall (from create-1.19.2-0.5.0.h.jar)
+- create:polished_cut_asurine_wall (from create-1.19.2-0.5.0.h.jar)
+- create:cut_asurine_brick_wall (from create-1.19.2-0.5.0.h.jar)
+- create:small_asurine_brick_wall (from create-1.19.2-0.5.0.h.jar)
+- create:cut_crimsite_wall (from create-1.19.2-0.5.0.h.jar)
+- create:polished_cut_crimsite_wall (from create-1.19.2-0.5.0.h.jar)
+- create:cut_crimsite_brick_wall (from create-1.19.2-0.5.0.h.jar)
+- create:small_crimsite_brick_wall (from create-1.19.2-0.5.0.h.jar)
+- create:cut_limestone_wall (from create-1.19.2-0.5.0.h.jar)
+- create:polished_cut_limestone_wall (from create-1.19.2-0.5.0.h.jar)
+- create:cut_limestone_brick_wall (from create-1.19.2-0.5.0.h.jar)
+- create:small_limestone_brick_wall (from create-1.19.2-0.5.0.h.jar)
+- create:cut_ochrum_wall (from create-1.19.2-0.5.0.h.jar)
+- create:polished_cut_ochrum_wall (from create-1.19.2-0.5.0.h.jar)
+- create:cut_ochrum_brick_wall (from create-1.19.2-0.5.0.h.jar)
+- create:small_ochrum_brick_wall (from create-1.19.2-0.5.0.h.jar)
+- create:cut_scoria_wall (from create-1.19.2-0.5.0.h.jar)
+- create:polished_cut_scoria_wall (from create-1.19.2-0.5.0.h.jar)
+- create:cut_scoria_brick_wall (from create-1.19.2-0.5.0.h.jar)
+- create:small_scoria_brick_wall (from create-1.19.2-0.5.0.h.jar)
+- create:cut_scorchia_wall (from create-1.19.2-0.5.0.h.jar)
+- create:polished_cut_scorchia_wall (from create-1.19.2-0.5.0.h.jar)
+- create:cut_scorchia_brick_wall (from create-1.19.2-0.5.0.h.jar)
+- create:small_scorchia_brick_wall (from create-1.19.2-0.5.0.h.jar)
+- create:cut_veridium_wall (from create-1.19.2-0.5.0.h.jar)
+- create:polished_cut_veridium_wall (from create-1.19.2-0.5.0.h.jar)
+- create:cut_veridium_brick_wall (from create-1.19.2-0.5.0.h.jar)
+- create:small_veridium_brick_wall (from create-1.19.2-0.5.0.h.jar)
+- quark:andesite_bricks_wall (from Quark-3.4-389.jar)
+- quark:blackstone_bricks_wall (from Quark-3.4-389.jar)
+- quark:blue_nether_bricks_wall (from Quark-3.4-389.jar)
+- quark:calcite_bricks_wall (from Quark-3.4-389.jar)
+- quark:calcite_wall (from Quark-3.4-389.jar)
+- quark:cobblestone_bricks_wall (from Quark-3.4-389.jar)
+- quark:diorite_bricks_wall (from Quark-3.4-389.jar)
+- quark:dirt_bricks_wall (from Quark-3.4-389.jar)
+- quark:dripstone_block_wall (from Quark-3.4-389.jar)
+- quark:dripstone_bricks_wall (from Quark-3.4-389.jar)
+- quark:granite_bricks_wall (from Quark-3.4-389.jar)
+- quark:jasper_bricks_wall (from Quark-3.4-389.jar)
+- quark:jasper_wall (from Quark-3.4-389.jar)
+- quark:limestone_bricks_wall (from Quark-3.4-389.jar)
+- quark:limestone_wall (from Quark-3.4-389.jar)
+- quark:mossy_cobblestone_bricks_wall (from Quark-3.4-389.jar)
+- quark:myalite_bricks_wall (from Quark-3.4-389.jar)
+- quark:myalite_wall (from Quark-3.4-389.jar)
+- quark:netherrack_bricks_wall (from Quark-3.4-389.jar)
+- quark:permafrost_bricks_wall (from Quark-3.4-389.jar)
+- quark:permafrost_wall (from Quark-3.4-389.jar)
+- quark:red_sandstone_bricks_wall (from Quark-3.4-389.jar)
+- quark:sandstone_bricks_wall (from Quark-3.4-389.jar)
+- quark:shale_bricks_wall (from Quark-3.4-389.jar)
+- quark:shale_wall (from Quark-3.4-389.jar)
+- quark:soul_sandstone_bricks_wall (from Quark-3.4-389.jar)
+- quark:soul_sandstone_wall (from Quark-3.4-389.jar)
+- quark:tuff_bricks_wall (from Quark-3.4-389.jar)
+- quark:tuff_wall (from Quark-3.4-389.jar)
+
+#forge:manuals
+- occultism:dictionary_of_spirits (from occultism-1.19.2-1.66.2.jar)
+
+#forge:glass/green
+- minecraft:green_stained_glass (from forge-1.19.2-43.2.4-universal.jar)
+
+#occultism:elytra
+- minecraft:elytra (from occultism-1.19.2-1.66.2.jar)
+- mana-and-artifice:spectral_elytra? (from occultism-1.19.2-1.66.2.jar)
+
+#minecraft:music_discs
+- #minecraft:creeper_drop_music_discs (from Default)
+- minecraft:music_disc_pigstep (from Default)
+- minecraft:music_disc_otherside (from Default)
+- minecraft:music_disc_5 (from Default)
+- ars_nouveau:music_disc_aria_biblio (from ars_nouveau-1.19.2-3.8.4.jar)
+- quark:music_disc_endermosh (from Quark-3.4-389.jar)
+- quark:music_disc_drips (from Quark-3.4-389.jar)
+- quark:music_disc_ocean (from Quark-3.4-389.jar)
+- quark:music_disc_rain (from Quark-3.4-389.jar)
+- quark:music_disc_wind (from Quark-3.4-389.jar)
+- quark:music_disc_fire (from Quark-3.4-389.jar)
+- quark:music_disc_clock (from Quark-3.4-389.jar)
+- quark:music_disc_crickets (from Quark-3.4-389.jar)
+- quark:music_disc_chatter (from Quark-3.4-389.jar)
+
+#forge:gems
+- #forge:gems/amethyst (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:gems/diamond (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:gems/emerald (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:gems/lapis (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:gems/prismarine (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:gems/quartz (from forge-1.19.2-43.2.4-universal.jar)
+- ars_nouveau:source_gem (from ars_nouveau-1.19.2-3.8.4.jar)
+- occultism:spirit_attuned_gem (from occultism-1.19.2-1.66.2.jar)
+
+#minecraft:sand
+- minecraft:sand (from Default)
+- minecraft:red_sand (from Default)
+
+#forge:plates/bronze
+- alloyed:bronze_sheet (from alloyed-1.19.2-v1.5.jar)
+
+#forge:end_stones
+- minecraft:end_stone (from forge-1.19.2-43.2.4-universal.jar)
+
+#quark:parrot_feed
+- minecraft:beetroot_seeds (from Quark-3.4-389.jar)
+
+#occultism:miners/master
+- occultism:miner_marid_master (from occultism-1.19.2-1.66.2.jar)
+
+#createplus:goggle
+- createplus:goggle_chainmail_helmet (from createplus-1.19.2_v0.5.2a.jar)
+- createplus:goggle_diamond_helmet (from createplus-1.19.2_v0.5.2a.jar)
+- createplus:goggle_golden_helmet (from createplus-1.19.2_v0.5.2a.jar)
+- createplus:goggle_iron_helmet (from createplus-1.19.2_v0.5.2a.jar)
+- createplus:goggle_leather_helmet (from createplus-1.19.2_v0.5.2a.jar)
+- createplus:goggle_turtle_helmet (from createplus-1.19.2_v0.5.2a.jar)
+- createplus:goggle_netherite_helmet (from createplus-1.19.2_v0.5.2a.jar)
+- createplus:goggle_diving_helmet (from createplus-1.19.2_v0.5.2a.jar)
+
+#forge:fences/wooden
+- #minecraft:wooden_fences (from forge-1.19.2-43.2.4-universal.jar)
+- ars_nouveau:archwood_fence (from ars_nouveau-1.19.2-3.8.4.jar)
+- quark:azalea_fence (from Quark-3.4-389.jar)
+- quark:blossom_fence (from Quark-3.4-389.jar)
+- quark:bamboo_fence (from Quark-3.4-389.jar)
+- quark:ancient_fence (from Quark-3.4-389.jar)
+
+#create:stone_types/diorite
+- create:cut_diorite (from create-1.19.2-0.5.0.h.jar)
+- create:cut_diorite_stairs (from create-1.19.2-0.5.0.h.jar)
+- create:cut_diorite_wall (from create-1.19.2-0.5.0.h.jar)
+- create:polished_cut_diorite (from create-1.19.2-0.5.0.h.jar)
+- create:polished_cut_diorite_stairs (from create-1.19.2-0.5.0.h.jar)
+- create:polished_cut_diorite_wall (from create-1.19.2-0.5.0.h.jar)
+- create:cut_diorite_bricks (from create-1.19.2-0.5.0.h.jar)
+- create:cut_diorite_brick_stairs (from create-1.19.2-0.5.0.h.jar)
+- create:cut_diorite_brick_wall (from create-1.19.2-0.5.0.h.jar)
+- create:small_diorite_bricks (from create-1.19.2-0.5.0.h.jar)
+- create:small_diorite_brick_stairs (from create-1.19.2-0.5.0.h.jar)
+- create:small_diorite_brick_wall (from create-1.19.2-0.5.0.h.jar)
+- create:layered_diorite (from create-1.19.2-0.5.0.h.jar)
+- create:diorite_pillar (from create-1.19.2-0.5.0.h.jar)
+
+#forge:dyes/light_gray
+- minecraft:light_gray_dye (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:storage_blocks
+- #forge:storage_blocks/amethyst (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:storage_blocks/coal (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:storage_blocks/copper (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:storage_blocks/diamond (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:storage_blocks/emerald (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:storage_blocks/gold (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:storage_blocks/iron (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:storage_blocks/lapis (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:storage_blocks/quartz (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:storage_blocks/raw_copper (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:storage_blocks/raw_gold (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:storage_blocks/raw_iron (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:storage_blocks/redstone (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:storage_blocks/netherite (from forge-1.19.2-43.2.4-universal.jar)
+- create:raw_zinc_block (from create-1.19.2-0.5.0.h.jar)
+- create:zinc_block (from create-1.19.2-0.5.0.h.jar)
+- create:brass_block (from create-1.19.2-0.5.0.h.jar)
+- ars_nouveau:source_gem_block (from ars_nouveau-1.19.2-3.8.4.jar)
+- #forge:storage_blocks/charcoal (from Quark-3.4-389.jar)
+
+#forge:ingots/bronze
+- alloyed:bronze_ingot (from alloyed-1.19.2-v1.5.jar)
+
+#forge:glass_panes/orange
+- minecraft:orange_stained_glass_pane (from forge-1.19.2-43.2.4-universal.jar)
+
+#minecraft:beacon_payment_items
+- minecraft:netherite_ingot (from Default)
+- minecraft:emerald (from Default)
+- minecraft:diamond (from Default)
+- minecraft:gold_ingot (from Default)
+- minecraft:iron_ingot (from Default)
+- #create:create_ingots (from create-1.19.2-0.5.0.h.jar)
+- ars_nouveau:source_gem (from ars_nouveau-1.19.2-3.8.4.jar)
+
+#forge:ingots/copper
+- minecraft:copper_ingot (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:copper_ingot (from Quark-3.4-389.jar)
+- minecraft:copper_ingot (from occultism-1.19.2-1.66.2.jar)
+
+#forge:ores/quartz
+- minecraft:nether_quartz_ore (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:ingots/brick
+- minecraft:brick (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:glass/blue
+- minecraft:blue_stained_glass (from forge-1.19.2-43.2.4-universal.jar)
+
+#minecraft:coal_ores
+- minecraft:coal_ore (from Default)
+- minecraft:deepslate_coal_ore (from Default)
+
+#create:stone_types/scorchia
+- create:cut_scorchia (from create-1.19.2-0.5.0.h.jar)
+- create:cut_scorchia_stairs (from create-1.19.2-0.5.0.h.jar)
+- create:cut_scorchia_wall (from create-1.19.2-0.5.0.h.jar)
+- create:polished_cut_scorchia (from create-1.19.2-0.5.0.h.jar)
+- create:polished_cut_scorchia_stairs (from create-1.19.2-0.5.0.h.jar)
+- create:polished_cut_scorchia_wall (from create-1.19.2-0.5.0.h.jar)
+- create:cut_scorchia_bricks (from create-1.19.2-0.5.0.h.jar)
+- create:cut_scorchia_brick_stairs (from create-1.19.2-0.5.0.h.jar)
+- create:cut_scorchia_brick_wall (from create-1.19.2-0.5.0.h.jar)
+- create:small_scorchia_bricks (from create-1.19.2-0.5.0.h.jar)
+- create:small_scorchia_brick_stairs (from create-1.19.2-0.5.0.h.jar)
+- create:small_scorchia_brick_wall (from create-1.19.2-0.5.0.h.jar)
+- create:layered_scorchia (from create-1.19.2-0.5.0.h.jar)
+- create:scorchia_pillar (from create-1.19.2-0.5.0.h.jar)
+
+#minecraft:wooden_trapdoors
+- minecraft:acacia_trapdoor (from Default)
+- minecraft:birch_trapdoor (from Default)
+- minecraft:dark_oak_trapdoor (from Default)
+- minecraft:jungle_trapdoor (from Default)
+- minecraft:oak_trapdoor (from Default)
+- minecraft:spruce_trapdoor (from Default)
+- minecraft:crimson_trapdoor (from Default)
+- minecraft:warped_trapdoor (from Default)
+- minecraft:mangrove_trapdoor (from Default)
+- #libx:impl_wooden_trapdoors (from LibX-1.19.2-4.2.5.jar)
+- ars_nouveau:archwood_trapdoor (from ars_nouveau-1.19.2-3.8.4.jar)
+- quark:azalea_trapdoor (from Quark-3.4-389.jar)
+- quark:blossom_trapdoor (from Quark-3.4-389.jar)
+- quark:bamboo_trapdoor (from Quark-3.4-389.jar)
+- quark:ancient_trapdoor (from Quark-3.4-389.jar)
+
+#create:valve_handles
+- create:copper_valve_handle (from create-1.19.2-0.5.0.h.jar)
+- create:white_valve_handle (from create-1.19.2-0.5.0.h.jar)
+- create:orange_valve_handle (from create-1.19.2-0.5.0.h.jar)
+- create:magenta_valve_handle (from create-1.19.2-0.5.0.h.jar)
+- create:light_blue_valve_handle (from create-1.19.2-0.5.0.h.jar)
+- create:yellow_valve_handle (from create-1.19.2-0.5.0.h.jar)
+- create:lime_valve_handle (from create-1.19.2-0.5.0.h.jar)
+- create:pink_valve_handle (from create-1.19.2-0.5.0.h.jar)
+- create:gray_valve_handle (from create-1.19.2-0.5.0.h.jar)
+- create:light_gray_valve_handle (from create-1.19.2-0.5.0.h.jar)
+- create:cyan_valve_handle (from create-1.19.2-0.5.0.h.jar)
+- create:purple_valve_handle (from create-1.19.2-0.5.0.h.jar)
+- create:blue_valve_handle (from create-1.19.2-0.5.0.h.jar)
+- create:brown_valve_handle (from create-1.19.2-0.5.0.h.jar)
+- create:green_valve_handle (from create-1.19.2-0.5.0.h.jar)
+- create:red_valve_handle (from create-1.19.2-0.5.0.h.jar)
+- create:black_valve_handle (from create-1.19.2-0.5.0.h.jar)
+
+#forge:storage_blocks/coal
+- minecraft:coal_block (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:glass/light_blue
+- minecraft:light_blue_stained_glass (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:wires
+- createaddition:copper_wire (from createaddition-1.19.2-20221230a.jar)
+- createaddition:iron_wire (from createaddition-1.19.2-20221230a.jar)
+- createaddition:gold_wire (from createaddition-1.19.2-20221230a.jar)
+
+#forge:ingots/brass
+- create:brass_ingot (from create-1.19.2-0.5.0.h.jar)
+
+#forge:storage_blocks/redstone
+- minecraft:redstone_block (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:storage_blocks/amethyst
+- minecraft:amethyst_block (from forge-1.19.2-43.2.4-universal.jar)
+
+#minecraft:stairs
+- #minecraft:wooden_stairs (from Default)
+- minecraft:cobblestone_stairs (from Default)
+- minecraft:sandstone_stairs (from Default)
+- minecraft:nether_brick_stairs (from Default)
+- minecraft:stone_brick_stairs (from Default)
+- minecraft:brick_stairs (from Default)
+- minecraft:purpur_stairs (from Default)
+- minecraft:quartz_stairs (from Default)
+- minecraft:red_sandstone_stairs (from Default)
+- minecraft:prismarine_brick_stairs (from Default)
+- minecraft:prismarine_stairs (from Default)
+- minecraft:dark_prismarine_stairs (from Default)
+- minecraft:polished_granite_stairs (from Default)
+- minecraft:smooth_red_sandstone_stairs (from Default)
+- minecraft:mossy_stone_brick_stairs (from Default)
+- minecraft:polished_diorite_stairs (from Default)
+- minecraft:mossy_cobblestone_stairs (from Default)
+- minecraft:end_stone_brick_stairs (from Default)
+- minecraft:stone_stairs (from Default)
+- minecraft:smooth_sandstone_stairs (from Default)
+- minecraft:smooth_quartz_stairs (from Default)
+- minecraft:granite_stairs (from Default)
+- minecraft:andesite_stairs (from Default)
+- minecraft:red_nether_brick_stairs (from Default)
+- minecraft:polished_andesite_stairs (from Default)
+- minecraft:diorite_stairs (from Default)
+- minecraft:blackstone_stairs (from Default)
+- minecraft:polished_blackstone_brick_stairs (from Default)
+- minecraft:polished_blackstone_stairs (from Default)
+- minecraft:cobbled_deepslate_stairs (from Default)
+- minecraft:polished_deepslate_stairs (from Default)
+- minecraft:deepslate_tile_stairs (from Default)
+- minecraft:deepslate_brick_stairs (from Default)
+- minecraft:oxidized_cut_copper_stairs (from Default)
+- minecraft:weathered_cut_copper_stairs (from Default)
+- minecraft:exposed_cut_copper_stairs (from Default)
+- minecraft:cut_copper_stairs (from Default)
+- minecraft:waxed_weathered_cut_copper_stairs (from Default)
+- minecraft:waxed_exposed_cut_copper_stairs (from Default)
+- minecraft:waxed_cut_copper_stairs (from Default)
+- minecraft:waxed_oxidized_cut_copper_stairs (from Default)
+- minecraft:mud_brick_stairs (from Default)
+- #libx:impl_stairs (from LibX-1.19.2-4.2.5.jar)
+- alloyed:steel_sheet_stairs (from alloyed-1.19.2-v1.5.jar)
+- create:cut_granite_stairs (from create-1.19.2-0.5.0.h.jar)
+- create:polished_cut_granite_stairs (from create-1.19.2-0.5.0.h.jar)
+- create:cut_granite_brick_stairs (from create-1.19.2-0.5.0.h.jar)
+- create:small_granite_brick_stairs (from create-1.19.2-0.5.0.h.jar)
+- create:cut_diorite_stairs (from create-1.19.2-0.5.0.h.jar)
+- create:polished_cut_diorite_stairs (from create-1.19.2-0.5.0.h.jar)
+- create:cut_diorite_brick_stairs (from create-1.19.2-0.5.0.h.jar)
+- create:small_diorite_brick_stairs (from create-1.19.2-0.5.0.h.jar)
+- create:cut_andesite_stairs (from create-1.19.2-0.5.0.h.jar)
+- create:polished_cut_andesite_stairs (from create-1.19.2-0.5.0.h.jar)
+- create:cut_andesite_brick_stairs (from create-1.19.2-0.5.0.h.jar)
+- create:small_andesite_brick_stairs (from create-1.19.2-0.5.0.h.jar)
+- create:cut_calcite_stairs (from create-1.19.2-0.5.0.h.jar)
+- create:polished_cut_calcite_stairs (from create-1.19.2-0.5.0.h.jar)
+- create:cut_calcite_brick_stairs (from create-1.19.2-0.5.0.h.jar)
+- create:small_calcite_brick_stairs (from create-1.19.2-0.5.0.h.jar)
+- create:cut_dripstone_stairs (from create-1.19.2-0.5.0.h.jar)
+- create:polished_cut_dripstone_stairs (from create-1.19.2-0.5.0.h.jar)
+- create:cut_dripstone_brick_stairs (from create-1.19.2-0.5.0.h.jar)
+- create:small_dripstone_brick_stairs (from create-1.19.2-0.5.0.h.jar)
+- create:cut_deepslate_stairs (from create-1.19.2-0.5.0.h.jar)
+- create:polished_cut_deepslate_stairs (from create-1.19.2-0.5.0.h.jar)
+- create:cut_deepslate_brick_stairs (from create-1.19.2-0.5.0.h.jar)
+- create:small_deepslate_brick_stairs (from create-1.19.2-0.5.0.h.jar)
+- create:cut_tuff_stairs (from create-1.19.2-0.5.0.h.jar)
+- create:polished_cut_tuff_stairs (from create-1.19.2-0.5.0.h.jar)
+- create:cut_tuff_brick_stairs (from create-1.19.2-0.5.0.h.jar)
+- create:small_tuff_brick_stairs (from create-1.19.2-0.5.0.h.jar)
+- create:cut_asurine_stairs (from create-1.19.2-0.5.0.h.jar)
+- create:polished_cut_asurine_stairs (from create-1.19.2-0.5.0.h.jar)
+- create:cut_asurine_brick_stairs (from create-1.19.2-0.5.0.h.jar)
+- create:small_asurine_brick_stairs (from create-1.19.2-0.5.0.h.jar)
+- create:cut_crimsite_stairs (from create-1.19.2-0.5.0.h.jar)
+- create:polished_cut_crimsite_stairs (from create-1.19.2-0.5.0.h.jar)
+- create:cut_crimsite_brick_stairs (from create-1.19.2-0.5.0.h.jar)
+- create:small_crimsite_brick_stairs (from create-1.19.2-0.5.0.h.jar)
+- create:cut_limestone_stairs (from create-1.19.2-0.5.0.h.jar)
+- create:polished_cut_limestone_stairs (from create-1.19.2-0.5.0.h.jar)
+- create:cut_limestone_brick_stairs (from create-1.19.2-0.5.0.h.jar)
+- create:small_limestone_brick_stairs (from create-1.19.2-0.5.0.h.jar)
+- create:cut_ochrum_stairs (from create-1.19.2-0.5.0.h.jar)
+- create:polished_cut_ochrum_stairs (from create-1.19.2-0.5.0.h.jar)
+- create:cut_ochrum_brick_stairs (from create-1.19.2-0.5.0.h.jar)
+- create:small_ochrum_brick_stairs (from create-1.19.2-0.5.0.h.jar)
+- create:cut_scoria_stairs (from create-1.19.2-0.5.0.h.jar)
+- create:polished_cut_scoria_stairs (from create-1.19.2-0.5.0.h.jar)
+- create:cut_scoria_brick_stairs (from create-1.19.2-0.5.0.h.jar)
+- create:small_scoria_brick_stairs (from create-1.19.2-0.5.0.h.jar)
+- create:cut_scorchia_stairs (from create-1.19.2-0.5.0.h.jar)
+- create:polished_cut_scorchia_stairs (from create-1.19.2-0.5.0.h.jar)
+- create:cut_scorchia_brick_stairs (from create-1.19.2-0.5.0.h.jar)
+- create:small_scorchia_brick_stairs (from create-1.19.2-0.5.0.h.jar)
+- create:cut_veridium_stairs (from create-1.19.2-0.5.0.h.jar)
+- create:polished_cut_veridium_stairs (from create-1.19.2-0.5.0.h.jar)
+- create:cut_veridium_brick_stairs (from create-1.19.2-0.5.0.h.jar)
+- create:small_veridium_brick_stairs (from create-1.19.2-0.5.0.h.jar)
+- ars_nouveau:archwood_stairs (from ars_nouveau-1.19.2-3.8.4.jar)
+- quark:ancient_planks_stairs (from Quark-3.4-389.jar)
+- quark:andesite_bricks_stairs (from Quark-3.4-389.jar)
+- quark:azalea_planks_stairs (from Quark-3.4-389.jar)
+- quark:bamboo_planks_stairs (from Quark-3.4-389.jar)
+- quark:blackstone_bricks_stairs (from Quark-3.4-389.jar)
+- quark:black_shingles_stairs (from Quark-3.4-389.jar)
+- quark:blossom_planks_stairs (from Quark-3.4-389.jar)
+- quark:blue_nether_bricks_stairs (from Quark-3.4-389.jar)
+- quark:blue_shingles_stairs (from Quark-3.4-389.jar)
+- quark:brown_shingles_stairs (from Quark-3.4-389.jar)
+- quark:calcite_bricks_stairs (from Quark-3.4-389.jar)
+- quark:calcite_stairs (from Quark-3.4-389.jar)
+- quark:cobblestone_bricks_stairs (from Quark-3.4-389.jar)
+- quark:cyan_shingles_stairs (from Quark-3.4-389.jar)
+- quark:diorite_bricks_stairs (from Quark-3.4-389.jar)
+- quark:dirt_bricks_stairs (from Quark-3.4-389.jar)
+- quark:dripstone_block_stairs (from Quark-3.4-389.jar)
+- quark:dripstone_bricks_stairs (from Quark-3.4-389.jar)
+- quark:duskbound_block_stairs (from Quark-3.4-389.jar)
+- quark:granite_bricks_stairs (from Quark-3.4-389.jar)
+- quark:gray_shingles_stairs (from Quark-3.4-389.jar)
+- quark:green_shingles_stairs (from Quark-3.4-389.jar)
+- quark:iron_plate_stairs (from Quark-3.4-389.jar)
+- quark:jasper_bricks_stairs (from Quark-3.4-389.jar)
+- quark:jasper_stairs (from Quark-3.4-389.jar)
+- quark:light_blue_shingles_stairs (from Quark-3.4-389.jar)
+- quark:light_gray_shingles_stairs (from Quark-3.4-389.jar)
+- quark:limestone_bricks_stairs (from Quark-3.4-389.jar)
+- quark:limestone_stairs (from Quark-3.4-389.jar)
+- quark:lime_shingles_stairs (from Quark-3.4-389.jar)
+- quark:magenta_shingles_stairs (from Quark-3.4-389.jar)
+- quark:midori_block_stairs (from Quark-3.4-389.jar)
+- quark:mossy_cobblestone_bricks_stairs (from Quark-3.4-389.jar)
+- quark:myalite_bricks_stairs (from Quark-3.4-389.jar)
+- quark:myalite_stairs (from Quark-3.4-389.jar)
+- quark:netherrack_bricks_stairs (from Quark-3.4-389.jar)
+- quark:orange_shingles_stairs (from Quark-3.4-389.jar)
+- quark:permafrost_bricks_stairs (from Quark-3.4-389.jar)
+- quark:permafrost_stairs (from Quark-3.4-389.jar)
+- quark:pink_shingles_stairs (from Quark-3.4-389.jar)
+- quark:polished_calcite_stairs (from Quark-3.4-389.jar)
+- quark:polished_dripstone_stairs (from Quark-3.4-389.jar)
+- quark:polished_jasper_stairs (from Quark-3.4-389.jar)
+- quark:polished_limestone_stairs (from Quark-3.4-389.jar)
+- quark:polished_myalite_stairs (from Quark-3.4-389.jar)
+- quark:polished_shale_stairs (from Quark-3.4-389.jar)
+- quark:polished_tuff_stairs (from Quark-3.4-389.jar)
+- quark:purple_shingles_stairs (from Quark-3.4-389.jar)
+- quark:raw_copper_bricks_stairs (from Quark-3.4-389.jar)
+- quark:raw_gold_bricks_stairs (from Quark-3.4-389.jar)
+- quark:raw_iron_bricks_stairs (from Quark-3.4-389.jar)
+- quark:red_sandstone_bricks_stairs (from Quark-3.4-389.jar)
+- quark:red_shingles_stairs (from Quark-3.4-389.jar)
+- quark:rusty_iron_plate_stairs (from Quark-3.4-389.jar)
+- quark:sandstone_bricks_stairs (from Quark-3.4-389.jar)
+- quark:shale_bricks_stairs (from Quark-3.4-389.jar)
+- quark:shale_stairs (from Quark-3.4-389.jar)
+- quark:shingles_stairs (from Quark-3.4-389.jar)
+- quark:smooth_soul_sandstone_stairs (from Quark-3.4-389.jar)
+- quark:soul_sandstone_bricks_stairs (from Quark-3.4-389.jar)
+- quark:soul_sandstone_stairs (from Quark-3.4-389.jar)
+- quark:thatch_stairs (from Quark-3.4-389.jar)
+- quark:tuff_bricks_stairs (from Quark-3.4-389.jar)
+- quark:tuff_stairs (from Quark-3.4-389.jar)
+- quark:white_shingles_stairs (from Quark-3.4-389.jar)
+- quark:yellow_shingles_stairs (from Quark-3.4-389.jar)
+
+#arsomega:tier_4_catalyst
+- arsomega:demonic_crystal (from arsomega-3.0.0-alpha-2.jar)
+
+#forge:logs/archwood
+- ars_nouveau:red_archwood_log (from ars_nouveau-1.19.2-3.8.4.jar)
+- ars_nouveau:blue_archwood_log (from ars_nouveau-1.19.2-3.8.4.jar)
+- ars_nouveau:purple_archwood_log (from ars_nouveau-1.19.2-3.8.4.jar)
+- ars_nouveau:green_archwood_log (from ars_nouveau-1.19.2-3.8.4.jar)
+- ars_nouveau:red_archwood_wood (from ars_nouveau-1.19.2-3.8.4.jar)
+- ars_nouveau:blue_archwood_wood (from ars_nouveau-1.19.2-3.8.4.jar)
+- ars_nouveau:green_archwood_wood (from ars_nouveau-1.19.2-3.8.4.jar)
+- ars_nouveau:purple_archwood_wood (from ars_nouveau-1.19.2-3.8.4.jar)
+- ars_nouveau:stripped_blue_archwood_log (from ars_nouveau-1.19.2-3.8.4.jar)
+- ars_nouveau:stripped_blue_archwood_wood (from ars_nouveau-1.19.2-3.8.4.jar)
+- ars_nouveau:stripped_green_archwood_log (from ars_nouveau-1.19.2-3.8.4.jar)
+- ars_nouveau:stripped_green_archwood_wood (from ars_nouveau-1.19.2-3.8.4.jar)
+- ars_nouveau:stripped_red_archwood_log (from ars_nouveau-1.19.2-3.8.4.jar)
+- ars_nouveau:stripped_red_archwood_wood (from ars_nouveau-1.19.2-3.8.4.jar)
+- ars_nouveau:stripped_purple_archwood_log (from ars_nouveau-1.19.2-3.8.4.jar)
+- ars_nouveau:stripped_purple_archwood_wood (from ars_nouveau-1.19.2-3.8.4.jar)
+- ars_elemental:yellow_archwood_log (from ars_elemental-1.19.2-0.5.7.1.jar)
+- ars_elemental:yellow_archwood (from ars_elemental-1.19.2-0.5.7.1.jar)
+- ars_elemental:stripped_yellow_archwood_log (from ars_elemental-1.19.2-0.5.7.1.jar)
+- ars_elemental:stripped_yellow_archwood (from ars_elemental-1.19.2-0.5.7.1.jar)
+
+#minecraft:logs
+- #minecraft:logs_that_burn (from Default)
+- #minecraft:crimson_stems (from Default)
+- #minecraft:warped_stems (from Default)
+- ars_nouveau:red_archwood_log (from ars_nouveau-1.19.2-3.8.4.jar)
+- ars_nouveau:blue_archwood_log (from ars_nouveau-1.19.2-3.8.4.jar)
+- ars_nouveau:purple_archwood_log (from ars_nouveau-1.19.2-3.8.4.jar)
+- ars_nouveau:green_archwood_log (from ars_nouveau-1.19.2-3.8.4.jar)
+- ars_nouveau:red_archwood_wood (from ars_nouveau-1.19.2-3.8.4.jar)
+- ars_nouveau:blue_archwood_wood (from ars_nouveau-1.19.2-3.8.4.jar)
+- ars_nouveau:green_archwood_wood (from ars_nouveau-1.19.2-3.8.4.jar)
+- ars_nouveau:purple_archwood_wood (from ars_nouveau-1.19.2-3.8.4.jar)
+- ars_nouveau:stripped_blue_archwood_log (from ars_nouveau-1.19.2-3.8.4.jar)
+- ars_nouveau:stripped_blue_archwood_wood (from ars_nouveau-1.19.2-3.8.4.jar)
+- ars_nouveau:stripped_green_archwood_log (from ars_nouveau-1.19.2-3.8.4.jar)
+- ars_nouveau:stripped_green_archwood_wood (from ars_nouveau-1.19.2-3.8.4.jar)
+- ars_nouveau:stripped_red_archwood_log (from ars_nouveau-1.19.2-3.8.4.jar)
+- ars_nouveau:stripped_red_archwood_wood (from ars_nouveau-1.19.2-3.8.4.jar)
+- ars_nouveau:stripped_purple_archwood_log (from ars_nouveau-1.19.2-3.8.4.jar)
+- ars_nouveau:stripped_purple_archwood_wood (from ars_nouveau-1.19.2-3.8.4.jar)
+- ars_elemental:yellow_archwood_log (from ars_elemental-1.19.2-0.5.7.1.jar)
+- ars_elemental:yellow_archwood (from ars_elemental-1.19.2-0.5.7.1.jar)
+- ars_elemental:stripped_yellow_archwood (from ars_elemental-1.19.2-0.5.7.1.jar)
+- ars_elemental:stripped_yellow_archwood_log (from ars_elemental-1.19.2-0.5.7.1.jar)
+- occultism:otherworld_log (from occultism-1.19.2-1.66.2.jar)
+- occultism:otherworld_log_natural (from occultism-1.19.2-1.66.2.jar)
+
+#libx:impl_wooden_buttons
+
+#forge:raw_materials/gold
+- minecraft:raw_gold (from forge-1.19.2-43.2.4-universal.jar)
+
+#create:stone_types/andesite
+- create:cut_andesite (from create-1.19.2-0.5.0.h.jar)
+- create:cut_andesite_stairs (from create-1.19.2-0.5.0.h.jar)
+- create:cut_andesite_wall (from create-1.19.2-0.5.0.h.jar)
+- create:polished_cut_andesite (from create-1.19.2-0.5.0.h.jar)
+- create:polished_cut_andesite_stairs (from create-1.19.2-0.5.0.h.jar)
+- create:polished_cut_andesite_wall (from create-1.19.2-0.5.0.h.jar)
+- create:cut_andesite_bricks (from create-1.19.2-0.5.0.h.jar)
+- create:cut_andesite_brick_stairs (from create-1.19.2-0.5.0.h.jar)
+- create:cut_andesite_brick_wall (from create-1.19.2-0.5.0.h.jar)
+- create:small_andesite_bricks (from create-1.19.2-0.5.0.h.jar)
+- create:small_andesite_brick_stairs (from create-1.19.2-0.5.0.h.jar)
+- create:small_andesite_brick_wall (from create-1.19.2-0.5.0.h.jar)
+- create:layered_andesite (from create-1.19.2-0.5.0.h.jar)
+- create:andesite_pillar (from create-1.19.2-0.5.0.h.jar)
+
+#forge:magma
+- minecraft:magma_block (from occultism-1.19.2-1.66.2.jar)
+
+#minecraft:compasses
+- minecraft:compass (from Default)
+- minecraft:recovery_compass (from Default)
+
+#minecraft:arrows
+- minecraft:arrow (from Default)
+- minecraft:tipped_arrow (from Default)
+- minecraft:spectral_arrow (from Default)
+- quark:torch_arrow (from Quark-3.4-389.jar)
+
+#create:vanilla_stripped_wood
+- minecraft:stripped_acacia_wood (from create-1.19.2-0.5.0.h.jar)
+- minecraft:stripped_birch_wood (from create-1.19.2-0.5.0.h.jar)
+- minecraft:stripped_crimson_hyphae (from create-1.19.2-0.5.0.h.jar)
+- minecraft:stripped_dark_oak_wood (from create-1.19.2-0.5.0.h.jar)
+- minecraft:stripped_jungle_wood (from create-1.19.2-0.5.0.h.jar)
+- minecraft:stripped_mangrove_wood (from create-1.19.2-0.5.0.h.jar)
+- minecraft:stripped_oak_wood (from create-1.19.2-0.5.0.h.jar)
+- minecraft:stripped_spruce_wood (from create-1.19.2-0.5.0.h.jar)
+- minecraft:stripped_warped_hyphae (from create-1.19.2-0.5.0.h.jar)
+
+#libx:impl_walls
+
+#minecraft:wooden_doors
+- minecraft:oak_door (from Default)
+- minecraft:spruce_door (from Default)
+- minecraft:birch_door (from Default)
+- minecraft:jungle_door (from Default)
+- minecraft:acacia_door (from Default)
+- minecraft:dark_oak_door (from Default)
+- minecraft:crimson_door (from Default)
+- minecraft:warped_door (from Default)
+- minecraft:mangrove_door (from Default)
+- #libx:impl_wooden_doors (from LibX-1.19.2-4.2.5.jar)
+- ars_nouveau:archwood_door (from ars_nouveau-1.19.2-3.8.4.jar)
+- quark:azalea_door (from Quark-3.4-389.jar)
+- quark:blossom_door (from Quark-3.4-389.jar)
+- quark:bamboo_door (from Quark-3.4-389.jar)
+- quark:ancient_door (from Quark-3.4-389.jar)
+
+#arsomega:tier_4_ingredient
+- arsomega:demonic_gem (from arsomega-3.0.0-alpha-2.jar)
+
+#create_sa:fillable
+- create_sa:brass_jetpack_chestplate (from create-stuff-additions1.19.2_v2.0.2a.jar)
+- create_sa:portable_drill (from create-stuff-additions1.19.2_v2.0.2a.jar)
+- create_sa:brass_exoskeleton_chestplate (from create-stuff-additions1.19.2_v2.0.2a.jar)
+- create_sa:copper_exoskeleton_chestplate (from create-stuff-additions1.19.2_v2.0.2a.jar)
+- create_sa:copper_jetpack_chestplate (from create-stuff-additions1.19.2_v2.0.2a.jar)
+- create_sa:block_picker (from create-stuff-additions1.19.2_v2.0.2a.jar)
+
+#minecraft:emerald_ores
+- minecraft:emerald_ore (from Default)
+- minecraft:deepslate_emerald_ore (from Default)
+
+#create:stone_types/deepslate
+- create:cut_deepslate (from create-1.19.2-0.5.0.h.jar)
+- create:cut_deepslate_stairs (from create-1.19.2-0.5.0.h.jar)
+- create:cut_deepslate_wall (from create-1.19.2-0.5.0.h.jar)
+- create:polished_cut_deepslate (from create-1.19.2-0.5.0.h.jar)
+- create:polished_cut_deepslate_stairs (from create-1.19.2-0.5.0.h.jar)
+- create:polished_cut_deepslate_wall (from create-1.19.2-0.5.0.h.jar)
+- create:cut_deepslate_bricks (from create-1.19.2-0.5.0.h.jar)
+- create:cut_deepslate_brick_stairs (from create-1.19.2-0.5.0.h.jar)
+- create:cut_deepslate_brick_wall (from create-1.19.2-0.5.0.h.jar)
+- create:small_deepslate_bricks (from create-1.19.2-0.5.0.h.jar)
+- create:small_deepslate_brick_stairs (from create-1.19.2-0.5.0.h.jar)
+- create:small_deepslate_brick_wall (from create-1.19.2-0.5.0.h.jar)
+- create:layered_deepslate (from create-1.19.2-0.5.0.h.jar)
+- create:deepslate_pillar (from create-1.19.2-0.5.0.h.jar)
+
+#forge:glass/purple
+- minecraft:purple_stained_glass (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:tools/shovels
+- minecraft:wooden_shovel (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:stone_shovel (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:iron_shovel (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:golden_shovel (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:diamond_shovel (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:netherite_shovel (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:dyes/magenta
+- minecraft:magenta_dye (from forge-1.19.2-43.2.4-universal.jar)
+
+#minecraft:crimson_stems
+- minecraft:crimson_stem (from Default)
+- minecraft:stripped_crimson_stem (from Default)
+- minecraft:crimson_hyphae (from Default)
+- minecraft:stripped_crimson_hyphae (from Default)
+
+#quark:ancient_logs
+- quark:ancient_log (from Quark-3.4-389.jar)
+- quark:stripped_ancient_log (from Quark-3.4-389.jar)
+- quark:ancient_wood (from Quark-3.4-389.jar)
+- quark:stripped_ancient_wood (from Quark-3.4-389.jar)
+
+#minecraft:netherite_helmets
+- minecraft:netherite_helmet (from createplus-1.19.2_v0.5.2a.jar)
+- createplus:goggle_netherite_helmet (from createplus-1.19.2_v0.5.2a.jar)
+
+#minecraft:ignored_by_piglin_babies
+- minecraft:leather (from Default)
+
+#quark:vertical_slab
+- quark:acacia_vertical_slab (from Quark-3.4-389.jar)
+- quark:ancient_planks_vertical_slab (from Quark-3.4-389.jar)
+- quark:andesite_bricks_vertical_slab (from Quark-3.4-389.jar)
+- quark:andesite_vertical_slab (from Quark-3.4-389.jar)
+- quark:azalea_planks_vertical_slab (from Quark-3.4-389.jar)
+- quark:bamboo_planks_vertical_slab (from Quark-3.4-389.jar)
+- quark:birch_vertical_slab (from Quark-3.4-389.jar)
+- quark:blackstone_bricks_vertical_slab (from Quark-3.4-389.jar)
+- quark:blackstone_vertical_slab (from Quark-3.4-389.jar)
+- quark:black_shingles_vertical_slab (from Quark-3.4-389.jar)
+- quark:blossom_planks_vertical_slab (from Quark-3.4-389.jar)
+- quark:blue_nether_bricks_vertical_slab (from Quark-3.4-389.jar)
+- quark:blue_shingles_vertical_slab (from Quark-3.4-389.jar)
+- quark:brick_vertical_slab (from Quark-3.4-389.jar)
+- quark:brown_shingles_vertical_slab (from Quark-3.4-389.jar)
+- quark:calcite_bricks_vertical_slab (from Quark-3.4-389.jar)
+- quark:calcite_vertical_slab (from Quark-3.4-389.jar)
+- quark:cobbled_deepslate_vertical_slab (from Quark-3.4-389.jar)
+- quark:cobblestone_bricks_vertical_slab (from Quark-3.4-389.jar)
+- quark:cobblestone_vertical_slab (from Quark-3.4-389.jar)
+- quark:crimson_vertical_slab (from Quark-3.4-389.jar)
+- quark:cut_copper_vertical_slab (from Quark-3.4-389.jar)
+- quark:cut_red_sandstone_vertical_slab (from Quark-3.4-389.jar)
+- quark:cut_sandstone_vertical_slab (from Quark-3.4-389.jar)
+- quark:cut_soul_sandstone_vertical_slab (from Quark-3.4-389.jar)
+- quark:cyan_shingles_vertical_slab (from Quark-3.4-389.jar)
+- quark:dark_oak_vertical_slab (from Quark-3.4-389.jar)
+- quark:dark_prismarine_vertical_slab (from Quark-3.4-389.jar)
+- quark:deepslate_brick_vertical_slab (from Quark-3.4-389.jar)
+- quark:deepslate_tile_vertical_slab (from Quark-3.4-389.jar)
+- quark:diorite_bricks_vertical_slab (from Quark-3.4-389.jar)
+- quark:diorite_vertical_slab (from Quark-3.4-389.jar)
+- quark:dirt_bricks_vertical_slab (from Quark-3.4-389.jar)
+- quark:dripstone_block_vertical_slab (from Quark-3.4-389.jar)
+- quark:dripstone_bricks_vertical_slab (from Quark-3.4-389.jar)
+- quark:duskbound_block_vertical_slab (from Quark-3.4-389.jar)
+- quark:end_stone_brick_vertical_slab (from Quark-3.4-389.jar)
+- quark:exposed_cut_copper_vertical_slab (from Quark-3.4-389.jar)
+- quark:granite_bricks_vertical_slab (from Quark-3.4-389.jar)
+- quark:granite_vertical_slab (from Quark-3.4-389.jar)
+- quark:gray_shingles_vertical_slab (from Quark-3.4-389.jar)
+- quark:green_shingles_vertical_slab (from Quark-3.4-389.jar)
+- quark:iron_plate_vertical_slab (from Quark-3.4-389.jar)
+- quark:jasper_bricks_vertical_slab (from Quark-3.4-389.jar)
+- quark:jasper_vertical_slab (from Quark-3.4-389.jar)
+- quark:jungle_vertical_slab (from Quark-3.4-389.jar)
+- quark:light_blue_shingles_vertical_slab (from Quark-3.4-389.jar)
+- quark:light_gray_shingles_vertical_slab (from Quark-3.4-389.jar)
+- quark:limestone_bricks_vertical_slab (from Quark-3.4-389.jar)
+- quark:limestone_vertical_slab (from Quark-3.4-389.jar)
+- quark:lime_shingles_vertical_slab (from Quark-3.4-389.jar)
+- quark:magenta_shingles_vertical_slab (from Quark-3.4-389.jar)
+- quark:mangrove_vertical_slab (from Quark-3.4-389.jar)
+- quark:midori_block_vertical_slab (from Quark-3.4-389.jar)
+- quark:mossy_cobblestone_bricks_vertical_slab (from Quark-3.4-389.jar)
+- quark:mossy_cobblestone_vertical_slab (from Quark-3.4-389.jar)
+- quark:mossy_stone_brick_vertical_slab (from Quark-3.4-389.jar)
+- quark:mud_brick_vertical_slab (from Quark-3.4-389.jar)
+- quark:myalite_bricks_vertical_slab (from Quark-3.4-389.jar)
+- quark:myalite_vertical_slab (from Quark-3.4-389.jar)
+- quark:netherrack_bricks_vertical_slab (from Quark-3.4-389.jar)
+- quark:nether_brick_vertical_slab (from Quark-3.4-389.jar)
+- quark:oak_vertical_slab (from Quark-3.4-389.jar)
+- quark:orange_shingles_vertical_slab (from Quark-3.4-389.jar)
+- quark:oxidized_cut_copper_vertical_slab (from Quark-3.4-389.jar)
+- quark:permafrost_bricks_vertical_slab (from Quark-3.4-389.jar)
+- quark:permafrost_vertical_slab (from Quark-3.4-389.jar)
+- quark:pink_shingles_vertical_slab (from Quark-3.4-389.jar)
+- quark:polished_andesite_vertical_slab (from Quark-3.4-389.jar)
+- quark:polished_blackstone_brick_vertical_slab (from Quark-3.4-389.jar)
+- quark:polished_blackstone_vertical_slab (from Quark-3.4-389.jar)
+- quark:polished_calcite_vertical_slab (from Quark-3.4-389.jar)
+- quark:polished_deepslate_vertical_slab (from Quark-3.4-389.jar)
+- quark:polished_diorite_vertical_slab (from Quark-3.4-389.jar)
+- quark:polished_dripstone_vertical_slab (from Quark-3.4-389.jar)
+- quark:polished_granite_vertical_slab (from Quark-3.4-389.jar)
+- quark:polished_jasper_vertical_slab (from Quark-3.4-389.jar)
+- quark:polished_limestone_vertical_slab (from Quark-3.4-389.jar)
+- quark:polished_myalite_vertical_slab (from Quark-3.4-389.jar)
+- quark:polished_shale_vertical_slab (from Quark-3.4-389.jar)
+- quark:polished_tuff_vertical_slab (from Quark-3.4-389.jar)
+- quark:prismarine_brick_vertical_slab (from Quark-3.4-389.jar)
+- quark:prismarine_vertical_slab (from Quark-3.4-389.jar)
+- quark:purple_shingles_vertical_slab (from Quark-3.4-389.jar)
+- quark:purpur_vertical_slab (from Quark-3.4-389.jar)
+- quark:quartz_vertical_slab (from Quark-3.4-389.jar)
+- quark:raw_copper_bricks_vertical_slab (from Quark-3.4-389.jar)
+- quark:raw_gold_bricks_vertical_slab (from Quark-3.4-389.jar)
+- quark:raw_iron_bricks_vertical_slab (from Quark-3.4-389.jar)
+- quark:red_nether_brick_vertical_slab (from Quark-3.4-389.jar)
+- quark:red_sandstone_bricks_vertical_slab (from Quark-3.4-389.jar)
+- quark:red_sandstone_vertical_slab (from Quark-3.4-389.jar)
+- quark:red_shingles_vertical_slab (from Quark-3.4-389.jar)
+- quark:rusty_iron_plate_vertical_slab (from Quark-3.4-389.jar)
+- quark:sandstone_bricks_vertical_slab (from Quark-3.4-389.jar)
+- quark:sandstone_vertical_slab (from Quark-3.4-389.jar)
+- quark:shale_bricks_vertical_slab (from Quark-3.4-389.jar)
+- quark:shale_vertical_slab (from Quark-3.4-389.jar)
+- quark:shingles_vertical_slab (from Quark-3.4-389.jar)
+- quark:smooth_quartz_vertical_slab (from Quark-3.4-389.jar)
+- quark:smooth_red_sandstone_vertical_slab (from Quark-3.4-389.jar)
+- quark:smooth_sandstone_vertical_slab (from Quark-3.4-389.jar)
+- quark:smooth_soul_sandstone_vertical_slab (from Quark-3.4-389.jar)
+- quark:smooth_stone_vertical_slab (from Quark-3.4-389.jar)
+- quark:soul_sandstone_bricks_vertical_slab (from Quark-3.4-389.jar)
+- quark:soul_sandstone_vertical_slab (from Quark-3.4-389.jar)
+- quark:spruce_vertical_slab (from Quark-3.4-389.jar)
+- quark:stone_brick_vertical_slab (from Quark-3.4-389.jar)
+- quark:stone_vertical_slab (from Quark-3.4-389.jar)
+- quark:thatch_vertical_slab (from Quark-3.4-389.jar)
+- quark:tuff_bricks_vertical_slab (from Quark-3.4-389.jar)
+- quark:tuff_vertical_slab (from Quark-3.4-389.jar)
+- quark:warped_vertical_slab (from Quark-3.4-389.jar)
+- quark:waxed_cut_copper_vertical_slab (from Quark-3.4-389.jar)
+- quark:waxed_exposed_cut_copper_vertical_slab (from Quark-3.4-389.jar)
+- quark:waxed_oxidized_cut_copper_vertical_slab (from Quark-3.4-389.jar)
+- quark:waxed_weathered_cut_copper_vertical_slab (from Quark-3.4-389.jar)
+- quark:weathered_cut_copper_vertical_slab (from Quark-3.4-389.jar)
+- quark:white_shingles_vertical_slab (from Quark-3.4-389.jar)
+- quark:yellow_shingles_vertical_slab (from Quark-3.4-389.jar)
+
+#minecraft:stone_tool_materials
+- minecraft:cobblestone (from Default)
+- minecraft:blackstone (from Default)
+- minecraft:cobbled_deepslate (from Default)
+
+#forge:dyes/cyan
+- minecraft:cyan_dye (from forge-1.19.2-43.2.4-universal.jar)
+
+#ars_nouveau:wilden_drop
+- ars_nouveau:wilden_horn (from ars_nouveau-1.19.2-3.8.4.jar)
+- ars_nouveau:wilden_spike (from ars_nouveau-1.19.2-3.8.4.jar)
+- ars_nouveau:wilden_wing (from ars_nouveau-1.19.2-3.8.4.jar)
+
+#minecraft:terracotta
+- minecraft:terracotta (from Default)
+- minecraft:white_terracotta (from Default)
+- minecraft:orange_terracotta (from Default)
+- minecraft:magenta_terracotta (from Default)
+- minecraft:light_blue_terracotta (from Default)
+- minecraft:yellow_terracotta (from Default)
+- minecraft:lime_terracotta (from Default)
+- minecraft:pink_terracotta (from Default)
+- minecraft:gray_terracotta (from Default)
+- minecraft:light_gray_terracotta (from Default)
+- minecraft:cyan_terracotta (from Default)
+- minecraft:purple_terracotta (from Default)
+- minecraft:blue_terracotta (from Default)
+- minecraft:brown_terracotta (from Default)
+- minecraft:green_terracotta (from Default)
+- minecraft:red_terracotta (from Default)
+- minecraft:black_terracotta (from Default)
+
+#forge:nuggets/netherite
+- createdeco:netherite_nugget (from createdeco-1.2.12-1.19.2.jar)
+
+#ars_nouveau:magic_shards
+- ars_elemental:siren_shards (from ars_elemental-1.19.2-0.5.7.1.jar)
+- ars_nouveau:drygmy_shard (from ars_elemental-1.19.2-0.5.7.1.jar)
+- ars_nouveau:starbuncle_shards (from ars_elemental-1.19.2-0.5.7.1.jar)
+- ars_nouveau:wixie_shards (from ars_elemental-1.19.2-0.5.7.1.jar)
+- ars_nouveau:whirlisprig_shards (from ars_elemental-1.19.2-0.5.7.1.jar)
+
+#createsifter:meshes
+- createsifter:string_mesh (from createsifter-1.19.2-1.3.3.g.jar)
+- createsifter:andesite_mesh (from createsifter-1.19.2-1.3.3.g.jar)
+- createsifter:zinc_mesh (from createsifter-1.19.2-1.3.3.g.jar)
+- createsifter:brass_mesh (from createsifter-1.19.2-1.3.3.g.jar)
+- createsifter:custom_mesh (from createsifter-1.19.2-1.3.3.g.jar)
+
+#quark:hedges
+- quark:oak_hedge (from Quark-3.4-389.jar)
+- quark:birch_hedge (from Quark-3.4-389.jar)
+- quark:spruce_hedge (from Quark-3.4-389.jar)
+- quark:jungle_hedge (from Quark-3.4-389.jar)
+- quark:acacia_hedge (from Quark-3.4-389.jar)
+- quark:dark_oak_hedge (from Quark-3.4-389.jar)
+- quark:blue_blossom_hedge (from Quark-3.4-389.jar)
+- quark:lavender_blossom_hedge (from Quark-3.4-389.jar)
+- quark:orange_blossom_hedge (from Quark-3.4-389.jar)
+- quark:pink_blossom_hedge (from Quark-3.4-389.jar)
+- quark:yellow_blossom_hedge (from Quark-3.4-389.jar)
+- quark:red_blossom_hedge (from Quark-3.4-389.jar)
+- quark:azalea_hedge (from Quark-3.4-389.jar)
+- quark:flowering_azalea_hedge (from Quark-3.4-389.jar)
+- quark:mangrove_hedge (from Quark-3.4-389.jar)
+- quark:ancient_hedge (from Quark-3.4-389.jar)
+
+#curios:bundle
+- minecraft:bundle (from ars_elemental-1.19.2-0.5.7.1.jar)
+- ars_elemental:curio_bag (from ars_elemental-1.19.2-0.5.7.1.jar)
+- ars_elemental:caster_bag (from ars_elemental-1.19.2-0.5.7.1.jar)
+
+#libx:impl_trapdoors
+
+#quark:stone_tool_materials
+- #forge:stone (from Quark-3.4-389.jar)
+- #forge:cobblestone (from Quark-3.4-389.jar)
+- minecraft:flint (from Quark-3.4-389.jar)
+- minecraft:sandstone (from Quark-3.4-389.jar)
+- quark:limestone (from Quark-3.4-389.jar)
+- quark:polished_limestone (from Quark-3.4-389.jar)
+- quark:polished_calcite (from Quark-3.4-389.jar)
+- quark:jasper (from Quark-3.4-389.jar)
+- quark:polished_jasper (from Quark-3.4-389.jar)
+- quark:shale (from Quark-3.4-389.jar)
+- quark:polished_shale (from Quark-3.4-389.jar)
+- quark:permafrost (from Quark-3.4-389.jar)
+- minecraft:blackstone (from Quark-3.4-389.jar)
+
+#forge:seeds/wheat
+- minecraft:wheat_seeds (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:ingots/iron
+- minecraft:iron_ingot (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:dyes/purple
+- minecraft:purple_dye (from forge-1.19.2-43.2.4-universal.jar)
+
+#curios:ring
+- ars_nouveau:ring_of_lesser_discount (from ars_nouveau-1.19.2-3.8.4.jar)
+- ars_nouveau:ring_of_greater_discount (from ars_nouveau-1.19.2-3.8.4.jar)
+- arsomega:ring_regen (from arsomega-3.0.0-alpha-2.jar)
+- arsomega:ring_boost (from arsomega-3.0.0-alpha-2.jar)
+- arsomega:ring_arcane_discount (from arsomega-3.0.0-alpha-2.jar)
+- occultism:familiar_ring (from occultism-1.19.2-1.66.2.jar)
+
+#libx:impl_wooden_fences
+
+#forge:ores_in_ground/deepslate
+- minecraft:deepslate_coal_ore (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:deepslate_copper_ore (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:deepslate_diamond_ore (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:deepslate_emerald_ore (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:deepslate_gold_ore (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:deepslate_iron_ore (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:deepslate_lapis_ore (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:deepslate_redstone_ore (from forge-1.19.2-43.2.4-universal.jar)
+- create:deepslate_zinc_ore (from create-1.19.2-0.5.0.h.jar)
+
+#minecraft:anvil
+- minecraft:anvil (from Default)
+- minecraft:chipped_anvil (from Default)
+- minecraft:damaged_anvil (from Default)
+
+#forge:sand
+- #forge:sand/colorless (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:sand/red (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:dyes/yellow
+- minecraft:yellow_dye (from forge-1.19.2-43.2.4-universal.jar)
+
+#libx:impl_stairs
+
+#forge:storage_blocks/raw_gold
+- minecraft:raw_gold_block (from forge-1.19.2-43.2.4-universal.jar)
+
+#libx:impl_wooden_pressure_plates
+
+#forge:gems/prismarine
+- minecraft:prismarine_crystals (from forge-1.19.2-43.2.4-universal.jar)
+
+#minecraft:iron_ores
+- minecraft:iron_ore (from Default)
+- minecraft:deepslate_iron_ore (from Default)
+
+#forge:stripped_wood
+- #create:vanilla_stripped_wood (from create-1.19.2-0.5.0.h.jar)
+- #create:modded_stripped_wood (from create-1.19.2-0.5.0.h.jar)
+
+#forge:storage_blocks/silver
+- occultism:silver_block (from occultism-1.19.2-1.66.2.jar)
+
+#forge:ores/gold
+- #minecraft:gold_ores (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:raw_materials
+- #forge:raw_materials/copper (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:raw_materials/gold (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:raw_materials/iron (from forge-1.19.2-43.2.4-universal.jar)
+- create:raw_zinc (from create-1.19.2-0.5.0.h.jar)
+- #forge:raw_materials/silver (from occultism-1.19.2-1.66.2.jar)
+- #forge:raw_materials/iesnium (from occultism-1.19.2-1.66.2.jar)
+
+#create:stone_types/scoria
+- create:cut_scoria (from create-1.19.2-0.5.0.h.jar)
+- create:cut_scoria_stairs (from create-1.19.2-0.5.0.h.jar)
+- create:cut_scoria_wall (from create-1.19.2-0.5.0.h.jar)
+- create:polished_cut_scoria (from create-1.19.2-0.5.0.h.jar)
+- create:polished_cut_scoria_stairs (from create-1.19.2-0.5.0.h.jar)
+- create:polished_cut_scoria_wall (from create-1.19.2-0.5.0.h.jar)
+- create:cut_scoria_bricks (from create-1.19.2-0.5.0.h.jar)
+- create:cut_scoria_brick_stairs (from create-1.19.2-0.5.0.h.jar)
+- create:cut_scoria_brick_wall (from create-1.19.2-0.5.0.h.jar)
+- create:small_scoria_bricks (from create-1.19.2-0.5.0.h.jar)
+- create:small_scoria_brick_stairs (from create-1.19.2-0.5.0.h.jar)
+- create:small_scoria_brick_wall (from create-1.19.2-0.5.0.h.jar)
+- create:layered_scoria (from create-1.19.2-0.5.0.h.jar)
+- create:scoria_pillar (from create-1.19.2-0.5.0.h.jar)
+
+#occultism:otherworld_goggles
+- occultism:otherworld_goggles (from occultism-1.19.2-1.66.2.jar)
+
+#minecraft:stone_crafting_materials
+- minecraft:cobblestone (from Default)
+- minecraft:blackstone (from Default)
+- minecraft:cobbled_deepslate (from Default)
+
+#minecraft:piglin_repellents
+- minecraft:soul_torch (from Default)
+- minecraft:soul_lantern (from Default)
+- minecraft:soul_campfire (from Default)
+
+#forge:ingots/zinc
+- create:zinc_ingot (from create-1.19.2-0.5.0.h.jar)
+
+#forge:raw_materials/silver
+- occultism:raw_silver (from occultism-1.19.2-1.66.2.jar)
+
+#forge:nuggets/zinc
+- create:zinc_nugget (from create-1.19.2-0.5.0.h.jar)
+
+#forge:glass/black
+- minecraft:black_stained_glass (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:seeds/coffeebean
+- createcafe:coffee_beans (from createcafe-1.0.2-1.19.2.jar)
+
+#forge:fences/nether_brick
+- minecraft:nether_brick_fence (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:armors/leggings
+- minecraft:leather_leggings (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:chainmail_leggings (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:iron_leggings (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:golden_leggings (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:diamond_leggings (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:netherite_leggings (from forge-1.19.2-43.2.4-universal.jar)
+- ars_nouveau:novice_leggings (from ars_nouveau-1.19.2-3.8.4.jar)
+- ars_nouveau:apprentice_leggings (from ars_nouveau-1.19.2-3.8.4.jar)
+- ars_nouveau:archmage_leggings (from ars_nouveau-1.19.2-3.8.4.jar)
+
+#forge:rods
+- #forge:rods/blaze (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:rods/wooden (from forge-1.19.2-43.2.4-universal.jar)
+- createaddition:iron_rod (from createaddition-1.19.2-20221230a.jar)
+- createaddition:copper_rod (from createaddition-1.19.2-20221230a.jar)
+- createaddition:gold_rod (from createaddition-1.19.2-20221230a.jar)
+- createaddition:brass_rod (from createaddition-1.19.2-20221230a.jar)
+
+#forge:glass/lime
+- minecraft:lime_stained_glass (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:chests/wooden
+- minecraft:chest (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:trapped_chest (from forge-1.19.2-43.2.4-universal.jar)
+- quark:oak_chest (from Quark-3.4-389.jar)
+- quark:spruce_chest (from Quark-3.4-389.jar)
+- quark:birch_chest (from Quark-3.4-389.jar)
+- quark:jungle_chest (from Quark-3.4-389.jar)
+- quark:acacia_chest (from Quark-3.4-389.jar)
+- quark:dark_oak_chest (from Quark-3.4-389.jar)
+- quark:warped_chest (from Quark-3.4-389.jar)
+- quark:crimson_chest (from Quark-3.4-389.jar)
+- quark:oak_trapped_chest (from Quark-3.4-389.jar)
+- quark:spruce_trapped_chest (from Quark-3.4-389.jar)
+- quark:birch_trapped_chest (from Quark-3.4-389.jar)
+- quark:jungle_trapped_chest (from Quark-3.4-389.jar)
+- quark:acacia_trapped_chest (from Quark-3.4-389.jar)
+- quark:dark_oak_trapped_chest (from Quark-3.4-389.jar)
+- quark:warped_trapped_chest (from Quark-3.4-389.jar)
+- quark:crimson_trapped_chest (from Quark-3.4-389.jar)
+- quark:azalea_chest (from Quark-3.4-389.jar)
+- quark:azalea_trapped_chest (from Quark-3.4-389.jar)
+- quark:blossom_chest (from Quark-3.4-389.jar)
+- quark:blossom_trapped_chest (from Quark-3.4-389.jar)
+- quark:mangrove_chest (from Quark-3.4-389.jar)
+- quark:mangrove_trapped_chest (from Quark-3.4-389.jar)
+- quark:bamboo_chest (from Quark-3.4-389.jar)
+- quark:bamboo_trapped_chest (from Quark-3.4-389.jar)
+- quark:ancient_chest (from Quark-3.4-389.jar)
+- quark:ancient_trapped_chest (from Quark-3.4-389.jar)
+
+#forge:ores/iron
+- #minecraft:iron_ores (from forge-1.19.2-43.2.4-universal.jar)
+
+#ars_nouveau:whirlisprig/denied_drop
+- minecraft:dirt (from ars_nouveau-1.19.2-3.8.4.jar)
+- #forge:seeds (from ars_nouveau-1.19.2-3.8.4.jar)
+
+#minecraft:mangrove_logs
+- minecraft:mangrove_log (from Default)
+- minecraft:mangrove_wood (from Default)
+- minecraft:stripped_mangrove_log (from Default)
+- minecraft:stripped_mangrove_wood (from Default)
+
+#forge:dusts/copper
+- occultism:copper_dust (from occultism-1.19.2-1.66.2.jar)
+
+#forge:wires/iron
+- createaddition:iron_wire (from createaddition-1.19.2-20221230a.jar)
+
+#forge:gems/emerald
+- minecraft:emerald (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:armors/chestplates
+- minecraft:leather_chestplate (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:chainmail_chestplate (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:iron_chestplate (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:golden_chestplate (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:diamond_chestplate (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:netherite_chestplate (from forge-1.19.2-43.2.4-universal.jar)
+- ars_nouveau:novice_robes (from ars_nouveau-1.19.2-3.8.4.jar)
+- ars_nouveau:apprentice_robes (from ars_nouveau-1.19.2-3.8.4.jar)
+- ars_nouveau:archmage_robes (from ars_nouveau-1.19.2-3.8.4.jar)
+
+#minecraft:wooden_stairs
+- minecraft:oak_stairs (from Default)
+- minecraft:spruce_stairs (from Default)
+- minecraft:birch_stairs (from Default)
+- minecraft:jungle_stairs (from Default)
+- minecraft:acacia_stairs (from Default)
+- minecraft:dark_oak_stairs (from Default)
+- minecraft:crimson_stairs (from Default)
+- minecraft:warped_stairs (from Default)
+- minecraft:mangrove_stairs (from Default)
+- #libx:impl_wooden_stairs (from LibX-1.19.2-4.2.5.jar)
+- ars_nouveau:archwood_stairs (from ars_nouveau-1.19.2-3.8.4.jar)
+- quark:azalea_planks_stairs (from Quark-3.4-389.jar)
+- quark:blossom_planks_stairs (from Quark-3.4-389.jar)
+- quark:bamboo_planks_stairs (from Quark-3.4-389.jar)
+- quark:ancient_planks_stairs (from Quark-3.4-389.jar)
+
+#minecraft:wooden_buttons
+- minecraft:oak_button (from Default)
+- minecraft:spruce_button (from Default)
+- minecraft:birch_button (from Default)
+- minecraft:jungle_button (from Default)
+- minecraft:acacia_button (from Default)
+- minecraft:dark_oak_button (from Default)
+- minecraft:crimson_button (from Default)
+- minecraft:warped_button (from Default)
+- minecraft:mangrove_button (from Default)
+- #libx:impl_wooden_buttons (from LibX-1.19.2-4.2.5.jar)
+- ars_nouveau:archwood_button (from ars_nouveau-1.19.2-3.8.4.jar)
+- quark:azalea_button (from Quark-3.4-389.jar)
+- quark:blossom_button (from Quark-3.4-389.jar)
+- quark:bamboo_button (from Quark-3.4-389.jar)
+- quark:ancient_button (from Quark-3.4-389.jar)
+
+#forge:tools
+- #forge:tools/swords (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:tools/axes (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:tools/pickaxes (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:tools/shovels (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:tools/hoes (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:tools/shields (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:tools/bows (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:tools/crossbows (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:tools/fishing_rods (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:tools/tridents (from forge-1.19.2-43.2.4-universal.jar)
+
+#minecraft:stone_bricks
+- minecraft:stone_bricks (from Default)
+- minecraft:mossy_stone_bricks (from Default)
+- minecraft:cracked_stone_bricks (from Default)
+- minecraft:chiseled_stone_bricks (from Default)
+
+#forge:storage_blocks/quartz
+- minecraft:quartz_block (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:glass/orange
+- minecraft:orange_stained_glass (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:nuggets/iesnium
+- occultism:iesnium_nugget (from occultism-1.19.2-1.66.2.jar)
+
+#forge:storage_blocks/raw_zinc
+- create:raw_zinc_block (from create-1.19.2-0.5.0.h.jar)
+
+#forge:dyes/green
+- minecraft:green_dye (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:raw_ores/iesnium
+- occultism:raw_iesnium (from occultism-1.19.2-1.66.2.jar)
+
+#forge:plates/gold
+- create:golden_sheet (from create-1.19.2-0.5.0.h.jar)
+
+#forge:planks/archwood
+- ars_nouveau:archwood_planks (from ars_nouveau-1.19.2-3.8.4.jar)
+
+#minecraft:slabs
+- #minecraft:wooden_slabs (from Default)
+- minecraft:stone_slab (from Default)
+- minecraft:smooth_stone_slab (from Default)
+- minecraft:stone_brick_slab (from Default)
+- minecraft:sandstone_slab (from Default)
+- minecraft:purpur_slab (from Default)
+- minecraft:quartz_slab (from Default)
+- minecraft:red_sandstone_slab (from Default)
+- minecraft:brick_slab (from Default)
+- minecraft:cobblestone_slab (from Default)
+- minecraft:nether_brick_slab (from Default)
+- minecraft:petrified_oak_slab (from Default)
+- minecraft:prismarine_slab (from Default)
+- minecraft:prismarine_brick_slab (from Default)
+- minecraft:dark_prismarine_slab (from Default)
+- minecraft:polished_granite_slab (from Default)
+- minecraft:smooth_red_sandstone_slab (from Default)
+- minecraft:mossy_stone_brick_slab (from Default)
+- minecraft:polished_diorite_slab (from Default)
+- minecraft:mossy_cobblestone_slab (from Default)
+- minecraft:end_stone_brick_slab (from Default)
+- minecraft:smooth_sandstone_slab (from Default)
+- minecraft:smooth_quartz_slab (from Default)
+- minecraft:granite_slab (from Default)
+- minecraft:andesite_slab (from Default)
+- minecraft:red_nether_brick_slab (from Default)
+- minecraft:polished_andesite_slab (from Default)
+- minecraft:diorite_slab (from Default)
+- minecraft:cut_sandstone_slab (from Default)
+- minecraft:cut_red_sandstone_slab (from Default)
+- minecraft:blackstone_slab (from Default)
+- minecraft:polished_blackstone_brick_slab (from Default)
+- minecraft:polished_blackstone_slab (from Default)
+- minecraft:cobbled_deepslate_slab (from Default)
+- minecraft:polished_deepslate_slab (from Default)
+- minecraft:deepslate_tile_slab (from Default)
+- minecraft:deepslate_brick_slab (from Default)
+- minecraft:waxed_weathered_cut_copper_slab (from Default)
+- minecraft:waxed_exposed_cut_copper_slab (from Default)
+- minecraft:waxed_cut_copper_slab (from Default)
+- minecraft:oxidized_cut_copper_slab (from Default)
+- minecraft:weathered_cut_copper_slab (from Default)
+- minecraft:exposed_cut_copper_slab (from Default)
+- minecraft:cut_copper_slab (from Default)
+- minecraft:waxed_oxidized_cut_copper_slab (from Default)
+- minecraft:mud_brick_slab (from Default)
+- #libx:impl_slabs (from LibX-1.19.2-4.2.5.jar)
+- alloyed:steel_sheet_slab (from alloyed-1.19.2-v1.5.jar)
+- create:cut_granite_slab (from create-1.19.2-0.5.0.h.jar)
+- create:polished_cut_granite_slab (from create-1.19.2-0.5.0.h.jar)
+- create:cut_granite_brick_slab (from create-1.19.2-0.5.0.h.jar)
+- create:small_granite_brick_slab (from create-1.19.2-0.5.0.h.jar)
+- create:cut_diorite_slab (from create-1.19.2-0.5.0.h.jar)
+- create:polished_cut_diorite_slab (from create-1.19.2-0.5.0.h.jar)
+- create:cut_diorite_brick_slab (from create-1.19.2-0.5.0.h.jar)
+- create:small_diorite_brick_slab (from create-1.19.2-0.5.0.h.jar)
+- create:cut_andesite_slab (from create-1.19.2-0.5.0.h.jar)
+- create:polished_cut_andesite_slab (from create-1.19.2-0.5.0.h.jar)
+- create:cut_andesite_brick_slab (from create-1.19.2-0.5.0.h.jar)
+- create:small_andesite_brick_slab (from create-1.19.2-0.5.0.h.jar)
+- create:cut_calcite_slab (from create-1.19.2-0.5.0.h.jar)
+- create:polished_cut_calcite_slab (from create-1.19.2-0.5.0.h.jar)
+- create:cut_calcite_brick_slab (from create-1.19.2-0.5.0.h.jar)
+- create:small_calcite_brick_slab (from create-1.19.2-0.5.0.h.jar)
+- create:cut_dripstone_slab (from create-1.19.2-0.5.0.h.jar)
+- create:polished_cut_dripstone_slab (from create-1.19.2-0.5.0.h.jar)
+- create:cut_dripstone_brick_slab (from create-1.19.2-0.5.0.h.jar)
+- create:small_dripstone_brick_slab (from create-1.19.2-0.5.0.h.jar)
+- create:cut_deepslate_slab (from create-1.19.2-0.5.0.h.jar)
+- create:polished_cut_deepslate_slab (from create-1.19.2-0.5.0.h.jar)
+- create:cut_deepslate_brick_slab (from create-1.19.2-0.5.0.h.jar)
+- create:small_deepslate_brick_slab (from create-1.19.2-0.5.0.h.jar)
+- create:cut_tuff_slab (from create-1.19.2-0.5.0.h.jar)
+- create:polished_cut_tuff_slab (from create-1.19.2-0.5.0.h.jar)
+- create:cut_tuff_brick_slab (from create-1.19.2-0.5.0.h.jar)
+- create:small_tuff_brick_slab (from create-1.19.2-0.5.0.h.jar)
+- create:cut_asurine_slab (from create-1.19.2-0.5.0.h.jar)
+- create:polished_cut_asurine_slab (from create-1.19.2-0.5.0.h.jar)
+- create:cut_asurine_brick_slab (from create-1.19.2-0.5.0.h.jar)
+- create:small_asurine_brick_slab (from create-1.19.2-0.5.0.h.jar)
+- create:cut_crimsite_slab (from create-1.19.2-0.5.0.h.jar)
+- create:polished_cut_crimsite_slab (from create-1.19.2-0.5.0.h.jar)
+- create:cut_crimsite_brick_slab (from create-1.19.2-0.5.0.h.jar)
+- create:small_crimsite_brick_slab (from create-1.19.2-0.5.0.h.jar)
+- create:cut_limestone_slab (from create-1.19.2-0.5.0.h.jar)
+- create:polished_cut_limestone_slab (from create-1.19.2-0.5.0.h.jar)
+- create:cut_limestone_brick_slab (from create-1.19.2-0.5.0.h.jar)
+- create:small_limestone_brick_slab (from create-1.19.2-0.5.0.h.jar)
+- create:cut_ochrum_slab (from create-1.19.2-0.5.0.h.jar)
+- create:polished_cut_ochrum_slab (from create-1.19.2-0.5.0.h.jar)
+- create:cut_ochrum_brick_slab (from create-1.19.2-0.5.0.h.jar)
+- create:small_ochrum_brick_slab (from create-1.19.2-0.5.0.h.jar)
+- create:cut_scoria_slab (from create-1.19.2-0.5.0.h.jar)
+- create:polished_cut_scoria_slab (from create-1.19.2-0.5.0.h.jar)
+- create:cut_scoria_brick_slab (from create-1.19.2-0.5.0.h.jar)
+- create:small_scoria_brick_slab (from create-1.19.2-0.5.0.h.jar)
+- create:cut_scorchia_slab (from create-1.19.2-0.5.0.h.jar)
+- create:polished_cut_scorchia_slab (from create-1.19.2-0.5.0.h.jar)
+- create:cut_scorchia_brick_slab (from create-1.19.2-0.5.0.h.jar)
+- create:small_scorchia_brick_slab (from create-1.19.2-0.5.0.h.jar)
+- create:cut_veridium_slab (from create-1.19.2-0.5.0.h.jar)
+- create:polished_cut_veridium_slab (from create-1.19.2-0.5.0.h.jar)
+- create:cut_veridium_brick_slab (from create-1.19.2-0.5.0.h.jar)
+- create:small_veridium_brick_slab (from create-1.19.2-0.5.0.h.jar)
+- ars_nouveau:archwood_slab (from ars_nouveau-1.19.2-3.8.4.jar)
+- quark:ancient_planks_slab (from Quark-3.4-389.jar)
+- quark:andesite_bricks_slab (from Quark-3.4-389.jar)
+- quark:azalea_planks_slab (from Quark-3.4-389.jar)
+- quark:bamboo_planks_slab (from Quark-3.4-389.jar)
+- quark:blackstone_bricks_slab (from Quark-3.4-389.jar)
+- quark:black_shingles_slab (from Quark-3.4-389.jar)
+- quark:blossom_planks_slab (from Quark-3.4-389.jar)
+- quark:blue_nether_bricks_slab (from Quark-3.4-389.jar)
+- quark:blue_shingles_slab (from Quark-3.4-389.jar)
+- quark:brown_shingles_slab (from Quark-3.4-389.jar)
+- quark:calcite_bricks_slab (from Quark-3.4-389.jar)
+- quark:calcite_slab (from Quark-3.4-389.jar)
+- quark:cobblestone_bricks_slab (from Quark-3.4-389.jar)
+- quark:cut_soul_sandstone_slab (from Quark-3.4-389.jar)
+- quark:cyan_shingles_slab (from Quark-3.4-389.jar)
+- quark:diorite_bricks_slab (from Quark-3.4-389.jar)
+- quark:dirt_bricks_slab (from Quark-3.4-389.jar)
+- quark:dripstone_block_slab (from Quark-3.4-389.jar)
+- quark:dripstone_bricks_slab (from Quark-3.4-389.jar)
+- quark:duskbound_block_slab (from Quark-3.4-389.jar)
+- quark:granite_bricks_slab (from Quark-3.4-389.jar)
+- quark:gray_shingles_slab (from Quark-3.4-389.jar)
+- quark:green_shingles_slab (from Quark-3.4-389.jar)
+- quark:iron_plate_slab (from Quark-3.4-389.jar)
+- quark:jasper_bricks_slab (from Quark-3.4-389.jar)
+- quark:jasper_slab (from Quark-3.4-389.jar)
+- quark:light_blue_shingles_slab (from Quark-3.4-389.jar)
+- quark:light_gray_shingles_slab (from Quark-3.4-389.jar)
+- quark:limestone_bricks_slab (from Quark-3.4-389.jar)
+- quark:limestone_slab (from Quark-3.4-389.jar)
+- quark:lime_shingles_slab (from Quark-3.4-389.jar)
+- quark:magenta_shingles_slab (from Quark-3.4-389.jar)
+- quark:midori_block_slab (from Quark-3.4-389.jar)
+- quark:mossy_cobblestone_bricks_slab (from Quark-3.4-389.jar)
+- quark:myalite_bricks_slab (from Quark-3.4-389.jar)
+- quark:myalite_slab (from Quark-3.4-389.jar)
+- quark:netherrack_bricks_slab (from Quark-3.4-389.jar)
+- quark:orange_shingles_slab (from Quark-3.4-389.jar)
+- quark:permafrost_bricks_slab (from Quark-3.4-389.jar)
+- quark:permafrost_slab (from Quark-3.4-389.jar)
+- quark:pink_shingles_slab (from Quark-3.4-389.jar)
+- quark:polished_calcite_slab (from Quark-3.4-389.jar)
+- quark:polished_dripstone_slab (from Quark-3.4-389.jar)
+- quark:polished_jasper_slab (from Quark-3.4-389.jar)
+- quark:polished_limestone_slab (from Quark-3.4-389.jar)
+- quark:polished_myalite_slab (from Quark-3.4-389.jar)
+- quark:polished_shale_slab (from Quark-3.4-389.jar)
+- quark:polished_tuff_slab (from Quark-3.4-389.jar)
+- quark:purple_shingles_slab (from Quark-3.4-389.jar)
+- quark:raw_copper_bricks_slab (from Quark-3.4-389.jar)
+- quark:raw_gold_bricks_slab (from Quark-3.4-389.jar)
+- quark:raw_iron_bricks_slab (from Quark-3.4-389.jar)
+- quark:red_sandstone_bricks_slab (from Quark-3.4-389.jar)
+- quark:red_shingles_slab (from Quark-3.4-389.jar)
+- quark:rusty_iron_plate_slab (from Quark-3.4-389.jar)
+- quark:sandstone_bricks_slab (from Quark-3.4-389.jar)
+- quark:shale_bricks_slab (from Quark-3.4-389.jar)
+- quark:shale_slab (from Quark-3.4-389.jar)
+- quark:shingles_slab (from Quark-3.4-389.jar)
+- quark:smooth_soul_sandstone_slab (from Quark-3.4-389.jar)
+- quark:soul_sandstone_bricks_slab (from Quark-3.4-389.jar)
+- quark:soul_sandstone_slab (from Quark-3.4-389.jar)
+- quark:thatch_slab (from Quark-3.4-389.jar)
+- quark:tuff_bricks_slab (from Quark-3.4-389.jar)
+- quark:tuff_slab (from Quark-3.4-389.jar)
+- quark:white_shingles_slab (from Quark-3.4-389.jar)
+- quark:yellow_shingles_slab (from Quark-3.4-389.jar)
+
+#minecraft:guarded_by_piglins
+- quark:azalea_chest (from Quark-3.4-389.jar)
+- quark:azalea_trapped_chest (from Quark-3.4-389.jar)
+- quark:blossom_chest (from Quark-3.4-389.jar)
+- quark:blossom_trapped_chest (from Quark-3.4-389.jar)
+- quark:bamboo_chest (from Quark-3.4-389.jar)
+- quark:bamboo_trapped_chest (from Quark-3.4-389.jar)
+- quark:ancient_chest (from Quark-3.4-389.jar)
+- quark:ancient_trapped_chest (from Quark-3.4-389.jar)
+
+#forge:ores/emerald
+- #minecraft:emerald_ores (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:plates/steel
+- alloyed:steel_sheet (from alloyed-1.19.2-v1.5.jar)
+
+#create:casing
+- create:andesite_casing (from create-1.19.2-0.5.0.h.jar)
+- create:brass_casing (from create-1.19.2-0.5.0.h.jar)
+- create:copper_casing (from create-1.19.2-0.5.0.h.jar)
+- create:shadow_steel_casing (from create-1.19.2-0.5.0.h.jar)
+- create:refined_radiance_casing (from create-1.19.2-0.5.0.h.jar)
+- create:railway_casing (from create-1.19.2-0.5.0.h.jar)
+- create_crystal_clear:andesite_glass_casing (from create_crystal_clear-0.1.2e-1.19.2.jar)
+- create_crystal_clear:brass_glass_casing (from create_crystal_clear-0.1.2e-1.19.2.jar)
+- create_crystal_clear:copper_glass_casing (from create_crystal_clear-0.1.2e-1.19.2.jar)
+- create_crystal_clear:train_glass_casing (from create_crystal_clear-0.1.2e-1.19.2.jar)
+- create_crystal_clear:andesite_clear_glass_casing (from create_crystal_clear-0.1.2e-1.19.2.jar)
+- create_crystal_clear:brass_clear_glass_casing (from create_crystal_clear-0.1.2e-1.19.2.jar)
+- create_crystal_clear:copper_clear_glass_casing (from create_crystal_clear-0.1.2e-1.19.2.jar)
+- create_crystal_clear:train_clear_glass_casing (from create_crystal_clear-0.1.2e-1.19.2.jar)
+- create_crystal_clear:steel_glass_casing (from create_crystal_clear-0.1.2e-1.19.2.jar)
+- create_crystal_clear:steel_tinted_glass_casing (from create_crystal_clear-0.1.2e-1.19.2.jar)
+
+#forge:crops/cassava
+- createcafe:cassava_root (from createcafe-1.0.2-1.19.2.jar)
+
+#libx:impl_wooden_trapdoors
+
+#forge:dyes/lime
+- minecraft:lime_dye (from forge-1.19.2-43.2.4-universal.jar)
+
+#ars_nouveau:spellbook
+- ars_nouveau:novice_spell_book (from ars_elemental-1.19.2-0.5.7.1.jar)
+- ars_nouveau:apprentice_spell_book (from ars_elemental-1.19.2-0.5.7.1.jar)
+- ars_nouveau:archmage_spell_book (from ars_elemental-1.19.2-0.5.7.1.jar)
+- ars_nouveau:creative_spell_book (from ars_elemental-1.19.2-0.5.7.1.jar)
+
+#forge:dusts/diamond
+- createaddition:diamond_grit (from createaddition-1.19.2-20221230a.jar)
+
+#forge:crops/datura
+- occultism:datura (from occultism-1.19.2-1.66.2.jar)
+
+#quark:runes_lootable
+- quark:black_rune (from Quark-3.4-389.jar)
+- quark:blue_rune (from Quark-3.4-389.jar)
+- quark:brown_rune (from Quark-3.4-389.jar)
+- quark:cyan_rune (from Quark-3.4-389.jar)
+- quark:gray_rune (from Quark-3.4-389.jar)
+- quark:green_rune (from Quark-3.4-389.jar)
+- quark:light_blue_rune (from Quark-3.4-389.jar)
+- quark:light_gray_rune (from Quark-3.4-389.jar)
+- quark:lime_rune (from Quark-3.4-389.jar)
+- quark:magenta_rune (from Quark-3.4-389.jar)
+- quark:orange_rune (from Quark-3.4-389.jar)
+- quark:pink_rune (from Quark-3.4-389.jar)
+- quark:purple_rune (from Quark-3.4-389.jar)
+- quark:red_rune (from Quark-3.4-389.jar)
+- quark:white_rune (from Quark-3.4-389.jar)
+- quark:yellow_rune (from Quark-3.4-389.jar)
+
+#minecraft:buttons
+- #minecraft:wooden_buttons (from Default)
+- minecraft:stone_button (from Default)
+- minecraft:polished_blackstone_button (from Default)
+- #libx:impl_buttons (from LibX-1.19.2-4.2.5.jar)
+- ars_nouveau:archwood_button (from ars_nouveau-1.19.2-3.8.4.jar)
+- quark:ancient_button (from Quark-3.4-389.jar)
+- quark:azalea_button (from Quark-3.4-389.jar)
+- quark:bamboo_button (from Quark-3.4-389.jar)
+- quark:blossom_button (from Quark-3.4-389.jar)
+- quark:gold_button (from Quark-3.4-389.jar)
+- quark:iron_button (from Quark-3.4-389.jar)
+
+#forge:seeds/datura
+- occultism:datura_seeds (from occultism-1.19.2-1.66.2.jar)
+
+#forge:plates/iron
+- create:iron_sheet (from create-1.19.2-0.5.0.h.jar)
+
+#libx:impl_slabs
+
+#minecraft:rails
+- minecraft:rail (from Default)
+- minecraft:powered_rail (from Default)
+- minecraft:detector_rail (from Default)
+- minecraft:activator_rail (from Default)
+
+#forge:nuggets/silver
+- occultism:silver_nugget (from occultism-1.19.2-1.66.2.jar)
+
+#forge:barrels/wooden
+- minecraft:barrel (from forge-1.19.2-43.2.4-universal.jar)
+
+#minecraft:overworld_natural_logs
+- minecraft:acacia_log (from Default)
+- minecraft:birch_log (from Default)
+- minecraft:oak_log (from Default)
+- minecraft:jungle_log (from Default)
+- minecraft:spruce_log (from Default)
+- minecraft:dark_oak_log (from Default)
+- minecraft:mangrove_log (from Default)
+
+#create:modded_stripped_logs
+- ars_nouveau:stripped_blue_archwood_log? (from create-1.19.2-0.5.0.h.jar)
+- ars_nouveau:stripped_purple_archwood_log? (from create-1.19.2-0.5.0.h.jar)
+- ars_nouveau:stripped_green_archwood_log? (from create-1.19.2-0.5.0.h.jar)
+- ars_nouveau:stripped_red_archwood_log? (from create-1.19.2-0.5.0.h.jar)
+- botania:stripped_livingwood_log? (from create-1.19.2-0.5.0.h.jar)
+- botania:stripped_dreamwood_log? (from create-1.19.2-0.5.0.h.jar)
+- forbidden_arcanus:stripped_cherrywood_log? (from create-1.19.2-0.5.0.h.jar)
+- forbidden_arcanus:stripped_mysterywood_log? (from create-1.19.2-0.5.0.h.jar)
+- hexcasting:akashic_log_stripped? (from create-1.19.2-0.5.0.h.jar)
+- integrateddynamics:menril_log_stripped? (from create-1.19.2-0.5.0.h.jar)
+- byg:stripped_aspen_log? (from create-1.19.2-0.5.0.h.jar)
+- byg:stripped_baobab_log? (from create-1.19.2-0.5.0.h.jar)
+- byg:stripped_enchanted_log? (from create-1.19.2-0.5.0.h.jar)
+- byg:stripped_cherry_log? (from create-1.19.2-0.5.0.h.jar)
+- byg:stripped_cika_log? (from create-1.19.2-0.5.0.h.jar)
+- byg:stripped_cypress_log? (from create-1.19.2-0.5.0.h.jar)
+- byg:stripped_ebony_log? (from create-1.19.2-0.5.0.h.jar)
+- byg:stripped_ether_log? (from create-1.19.2-0.5.0.h.jar)
+- byg:stripped_fir_log? (from create-1.19.2-0.5.0.h.jar)
+- byg:stripped_green_enchanted_log? (from create-1.19.2-0.5.0.h.jar)
+- byg:stripped_holly_log? (from create-1.19.2-0.5.0.h.jar)
+- byg:stripped_jacaranda_log? (from create-1.19.2-0.5.0.h.jar)
+- byg:stripped_lament_log? (from create-1.19.2-0.5.0.h.jar)
+- byg:stripped_mahogany_log? (from create-1.19.2-0.5.0.h.jar)
+- byg:stripped_mangrove_log? (from create-1.19.2-0.5.0.h.jar)
+- byg:stripped_maple_log? (from create-1.19.2-0.5.0.h.jar)
+- byg:stripped_nightshade_log? (from create-1.19.2-0.5.0.h.jar)
+- byg:stripped_palm_log? (from create-1.19.2-0.5.0.h.jar)
+- byg:stripped_palo_verde_log? (from create-1.19.2-0.5.0.h.jar)
+- byg:stripped_pine_log? (from create-1.19.2-0.5.0.h.jar)
+- byg:stripped_rainbow_eucalyptus_log? (from create-1.19.2-0.5.0.h.jar)
+- byg:stripped_redwood_log? (from create-1.19.2-0.5.0.h.jar)
+- byg:stripped_skyris_log? (from create-1.19.2-0.5.0.h.jar)
+- byg:stripped_willow_log? (from create-1.19.2-0.5.0.h.jar)
+- byg:stripped_witch_hazel_log? (from create-1.19.2-0.5.0.h.jar)
+- byg:stripped_zelkova_log? (from create-1.19.2-0.5.0.h.jar)
+- silentgear:stripped_netherwood_log? (from create-1.19.2-0.5.0.h.jar)
+- twilightforest:stripped_twilight_oak_log? (from create-1.19.2-0.5.0.h.jar)
+- twilightforest:stripped_canopy_log? (from create-1.19.2-0.5.0.h.jar)
+- twilightforest:stripped_mangrove_log? (from create-1.19.2-0.5.0.h.jar)
+- twilightforest:stripped_dark_log? (from create-1.19.2-0.5.0.h.jar)
+- twilightforest:stripped_time_log? (from create-1.19.2-0.5.0.h.jar)
+- twilightforest:stripped_transformation_log? (from create-1.19.2-0.5.0.h.jar)
+- twilightforest:stripped_mining_log? (from create-1.19.2-0.5.0.h.jar)
+- twilightforest:stripped_sorting_log? (from create-1.19.2-0.5.0.h.jar)
+- tconstruct:stripped_greenheart_log? (from create-1.19.2-0.5.0.h.jar)
+- tconstruct:stripped_skyroot_log? (from create-1.19.2-0.5.0.h.jar)
+- tconstruct:stripped_bloodshroom_log? (from create-1.19.2-0.5.0.h.jar)
+- architects_palette:stripped_twisted_log? (from create-1.19.2-0.5.0.h.jar)
+- quark:stripped_azalea_log? (from create-1.19.2-0.5.0.h.jar)
+- quark:stripped_blossom_log? (from create-1.19.2-0.5.0.h.jar)
+- ecologics:stripped_coconut_log? (from create-1.19.2-0.5.0.h.jar)
+- ecologics:stripped_walnut_log? (from create-1.19.2-0.5.0.h.jar)
+- ecologics:stripped_azalea_log? (from create-1.19.2-0.5.0.h.jar)
+- biomesoplenty:stripped_fir_log? (from create-1.19.2-0.5.0.h.jar)
+- biomesoplenty:stripped_redwood_log? (from create-1.19.2-0.5.0.h.jar)
+- biomesoplenty:stripped_cherry_log? (from create-1.19.2-0.5.0.h.jar)
+- biomesoplenty:stripped_mahogany_log? (from create-1.19.2-0.5.0.h.jar)
+- biomesoplenty:stripped_jacaranda_log? (from create-1.19.2-0.5.0.h.jar)
+- biomesoplenty:stripped_palm_log? (from create-1.19.2-0.5.0.h.jar)
+- biomesoplenty:stripped_willow_log? (from create-1.19.2-0.5.0.h.jar)
+- biomesoplenty:stripped_dead_log? (from create-1.19.2-0.5.0.h.jar)
+- biomesoplenty:stripped_magic_log? (from create-1.19.2-0.5.0.h.jar)
+- biomesoplenty:stripped_umbran_log? (from create-1.19.2-0.5.0.h.jar)
+- biomesoplenty:stripped_hellbark_log? (from create-1.19.2-0.5.0.h.jar)
+- blue_skies:stripped_bluebright_log? (from create-1.19.2-0.5.0.h.jar)
+- blue_skies:stripped_starlit_log? (from create-1.19.2-0.5.0.h.jar)
+- blue_skies:stripped_frostbright_log? (from create-1.19.2-0.5.0.h.jar)
+- blue_skies:stripped_lunar_log? (from create-1.19.2-0.5.0.h.jar)
+- blue_skies:stripped_dusk_log? (from create-1.19.2-0.5.0.h.jar)
+- blue_skies:stripped_maple_log? (from create-1.19.2-0.5.0.h.jar)
+- blue_skies:stripped_cherry_log? (from create-1.19.2-0.5.0.h.jar)
+- byg:stripped_bulbis_stem? (from create-1.19.2-0.5.0.h.jar)
+
+#create:stone_types/tuff
+- create:cut_tuff (from create-1.19.2-0.5.0.h.jar)
+- create:cut_tuff_stairs (from create-1.19.2-0.5.0.h.jar)
+- create:cut_tuff_wall (from create-1.19.2-0.5.0.h.jar)
+- create:polished_cut_tuff (from create-1.19.2-0.5.0.h.jar)
+- create:polished_cut_tuff_stairs (from create-1.19.2-0.5.0.h.jar)
+- create:polished_cut_tuff_wall (from create-1.19.2-0.5.0.h.jar)
+- create:cut_tuff_bricks (from create-1.19.2-0.5.0.h.jar)
+- create:cut_tuff_brick_stairs (from create-1.19.2-0.5.0.h.jar)
+- create:cut_tuff_brick_wall (from create-1.19.2-0.5.0.h.jar)
+- create:small_tuff_bricks (from create-1.19.2-0.5.0.h.jar)
+- create:small_tuff_brick_stairs (from create-1.19.2-0.5.0.h.jar)
+- create:small_tuff_brick_wall (from create-1.19.2-0.5.0.h.jar)
+- create:layered_tuff (from create-1.19.2-0.5.0.h.jar)
+- create:tuff_pillar (from create-1.19.2-0.5.0.h.jar)
+
+#forge:books
+- occultism:dictionary_of_spirits (from occultism-1.19.2-1.66.2.jar)
+
+#forge:storage_blocks/raw_iron
+- minecraft:raw_iron_block (from forge-1.19.2-43.2.4-universal.jar)
+
+#minecraft:wooden_pressure_plates
+- minecraft:oak_pressure_plate (from Default)
+- minecraft:spruce_pressure_plate (from Default)
+- minecraft:birch_pressure_plate (from Default)
+- minecraft:jungle_pressure_plate (from Default)
+- minecraft:acacia_pressure_plate (from Default)
+- minecraft:dark_oak_pressure_plate (from Default)
+- minecraft:crimson_pressure_plate (from Default)
+- minecraft:warped_pressure_plate (from Default)
+- minecraft:mangrove_pressure_plate (from Default)
+- #libx:impl_wooden_pressure_plates (from LibX-1.19.2-4.2.5.jar)
+- ars_nouveau:archwood_pressure_plate (from ars_nouveau-1.19.2-3.8.4.jar)
+- quark:azalea_pressure_plate (from Quark-3.4-389.jar)
+- quark:blossom_pressure_plate (from Quark-3.4-389.jar)
+
+#minecraft:tall_flowers
+- minecraft:sunflower (from Default)
+- minecraft:lilac (from Default)
+- minecraft:peony (from Default)
+- minecraft:rose_bush (from Default)
+
+#create:create_ingots
+- create:andesite_alloy (from create-1.19.2-0.5.0.h.jar)
+- create:zinc_ingot (from create-1.19.2-0.5.0.h.jar)
+- create:brass_ingot (from create-1.19.2-0.5.0.h.jar)
+
+#forge:bookshelves
+- minecraft:bookshelf (from forge-1.19.2-43.2.4-universal.jar)
+- quark:acacia_bookshelf (from Quark-3.4-389.jar)
+- quark:birch_bookshelf (from Quark-3.4-389.jar)
+- quark:dark_oak_bookshelf (from Quark-3.4-389.jar)
+- quark:jungle_bookshelf (from Quark-3.4-389.jar)
+- quark:spruce_bookshelf (from Quark-3.4-389.jar)
+- quark:warped_bookshelf (from Quark-3.4-389.jar)
+- quark:crimson_bookshelf (from Quark-3.4-389.jar)
+- quark:azalea_bookshelf (from Quark-3.4-389.jar)
+- quark:blossom_bookshelf (from Quark-3.4-389.jar)
+- quark:mangrove_bookshelf (from Quark-3.4-389.jar)
+- quark:bamboo_bookshelf (from Quark-3.4-389.jar)
+- quark:ancient_bookshelf (from Quark-3.4-389.jar)
+
+#create:stone_types/calcite
+- create:cut_calcite (from create-1.19.2-0.5.0.h.jar)
+- create:cut_calcite_stairs (from create-1.19.2-0.5.0.h.jar)
+- create:cut_calcite_wall (from create-1.19.2-0.5.0.h.jar)
+- create:polished_cut_calcite (from create-1.19.2-0.5.0.h.jar)
+- create:polished_cut_calcite_stairs (from create-1.19.2-0.5.0.h.jar)
+- create:polished_cut_calcite_wall (from create-1.19.2-0.5.0.h.jar)
+- create:cut_calcite_bricks (from create-1.19.2-0.5.0.h.jar)
+- create:cut_calcite_brick_stairs (from create-1.19.2-0.5.0.h.jar)
+- create:cut_calcite_brick_wall (from create-1.19.2-0.5.0.h.jar)
+- create:small_calcite_bricks (from create-1.19.2-0.5.0.h.jar)
+- create:small_calcite_brick_stairs (from create-1.19.2-0.5.0.h.jar)
+- create:small_calcite_brick_wall (from create-1.19.2-0.5.0.h.jar)
+- create:layered_calcite (from create-1.19.2-0.5.0.h.jar)
+- create:calcite_pillar (from create-1.19.2-0.5.0.h.jar)
+
+#forge:ores_in_ground/stone
+- minecraft:coal_ore (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:copper_ore (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:diamond_ore (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:emerald_ore (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:gold_ore (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:iron_ore (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:lapis_ore (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:redstone_ore (from forge-1.19.2-43.2.4-universal.jar)
+- create:zinc_ore (from create-1.19.2-0.5.0.h.jar)
+
+#minecraft:gold_ores
+- minecraft:gold_ore (from Default)
+- minecraft:nether_gold_ore (from Default)
+- minecraft:deepslate_gold_ore (from Default)
+
+#forge:dyes
+- #forge:dyes/white (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:dyes/orange (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:dyes/magenta (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:dyes/light_blue (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:dyes/yellow (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:dyes/lime (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:dyes/pink (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:dyes/gray (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:dyes/light_gray (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:dyes/cyan (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:dyes/purple (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:dyes/blue (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:dyes/brown (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:dyes/green (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:dyes/red (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:dyes/black (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:glass_panes/pink
+- minecraft:pink_stained_glass_pane (from forge-1.19.2-43.2.4-universal.jar)
+
+#minecraft:completes_find_tree_tutorial
+- #minecraft:logs (from Default)
+- #minecraft:leaves (from Default)
+- #minecraft:wart_blocks (from Default)
+
+#forge:dusts/obsidian
+- occultism:obsidian_dust (from occultism-1.19.2-1.66.2.jar)
+- create:powdered_obsidian (from createaddition-1.19.2-20221230a.jar)
+
+#create:pressurized_air_sources
+- create_jetpack:jetpack (from create_jetpack-2.1.3.jar)
+- create:copper_backtank (from create-1.19.2-0.5.0.h.jar)
+
+#minecraft:dirt
+- minecraft:dirt (from Default)
+- minecraft:grass_block (from Default)
+- minecraft:podzol (from Default)
+- minecraft:coarse_dirt (from Default)
+- minecraft:mycelium (from Default)
+- minecraft:rooted_dirt (from Default)
+- minecraft:moss_block (from Default)
+- minecraft:mud (from Default)
+- minecraft:muddy_mangrove_roots (from Default)
+
+#forge:netherrack
+- minecraft:netherrack (from forge-1.19.2-43.2.4-universal.jar)
+
+#minecraft:cluster_max_harvestables
+- minecraft:diamond_pickaxe (from Default)
+- minecraft:golden_pickaxe (from Default)
+- minecraft:iron_pickaxe (from Default)
+- minecraft:netherite_pickaxe (from Default)
+- minecraft:stone_pickaxe (from Default)
+- minecraft:wooden_pickaxe (from Default)
+- quark:pickarang (from Quark-3.4-389.jar)
+- quark:flamerang (from Quark-3.4-389.jar)
+
+#minecraft:soul_fire_base_blocks
+- minecraft:soul_sand (from Default)
+- minecraft:soul_soil (from Default)
+
+#forge:rods/copper
+- createaddition:copper_rod (from createaddition-1.19.2-20221230a.jar)
+
+#forge:vegetables/cassava
+- createcafe:cassava_root (from createcafe-1.0.2-1.19.2.jar)
+
+#create_sa:jetpack
+- create_sa:brass_jetpack_chestplate (from create-stuff-additions1.19.2_v2.0.2a.jar)
+- create_sa:copper_jetpack_chestplate (from create-stuff-additions1.19.2_v2.0.2a.jar)
+- create_sa:andesite_jetpack_chestplate (from create-stuff-additions1.19.2_v2.0.2a.jar)
+
+#forge:eggs
+- minecraft:egg (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:wires/copper
+- createaddition:copper_wire (from createaddition-1.19.2-20221230a.jar)
+
+#forge:dyes/red
+- minecraft:red_dye (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:gravel
+- minecraft:gravel (from forge-1.19.2-43.2.4-universal.jar)
+
+#quark:azalea_logs
+- quark:azalea_log (from Quark-3.4-389.jar)
+- quark:stripped_azalea_log (from Quark-3.4-389.jar)
+- quark:azalea_wood (from Quark-3.4-389.jar)
+- quark:stripped_azalea_wood (from Quark-3.4-389.jar)
+
+#forge:glass_panes/cyan
+- minecraft:cyan_stained_glass_pane (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:dyes/black
+- minecraft:black_dye (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:dusts/glowstone
+- minecraft:glowstone_dust (from forge-1.19.2-43.2.4-universal.jar)
+
+#minecraft:wool
+- minecraft:white_wool (from Default)
+- minecraft:orange_wool (from Default)
+- minecraft:magenta_wool (from Default)
+- minecraft:light_blue_wool (from Default)
+- minecraft:yellow_wool (from Default)
+- minecraft:lime_wool (from Default)
+- minecraft:pink_wool (from Default)
+- minecraft:gray_wool (from Default)
+- minecraft:light_gray_wool (from Default)
+- minecraft:cyan_wool (from Default)
+- minecraft:purple_wool (from Default)
+- minecraft:blue_wool (from Default)
+- minecraft:brown_wool (from Default)
+- minecraft:green_wool (from Default)
+- minecraft:red_wool (from Default)
+- minecraft:black_wool (from Default)
+
+#forge:glass/colorless
+- minecraft:glass (from forge-1.19.2-43.2.4-universal.jar)
+- create:tiled_glass (from create-1.19.2-0.5.0.h.jar)
+- create:framed_glass (from create-1.19.2-0.5.0.h.jar)
+- create:horizontal_framed_glass (from create-1.19.2-0.5.0.h.jar)
+- create:vertical_framed_glass (from create-1.19.2-0.5.0.h.jar)
+
+#occultism:miners/deeps
+- occultism:miner_afrit_deeps (from occultism-1.19.2-1.66.2.jar)
+- occultism:miner_marid_master (from occultism-1.19.2-1.66.2.jar)
+
+#forge:glass_panes/light_blue
+- minecraft:light_blue_stained_glass_pane (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:ingots/cast_iron
+- createdeco:cast_iron_ingot (from createdeco-1.2.12-1.19.2.jar)
+
+#forge:tools/crossbows
+- minecraft:crossbow (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:ores/zinc
+- create:zinc_ore (from create-1.19.2-0.5.0.h.jar)
+- create:deepslate_zinc_ore (from create-1.19.2-0.5.0.h.jar)
+
+#forge:ores/netherite_scrap
+- minecraft:ancient_debris (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:nuggets/copper
+- create:copper_nugget (from create-1.19.2-0.5.0.h.jar)
+
+#forge:stained_glass
+- minecraft:white_stained_glass (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:orange_stained_glass (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:magenta_stained_glass (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:light_blue_stained_glass (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:yellow_stained_glass (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:lime_stained_glass (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:pink_stained_glass (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:gray_stained_glass (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:light_gray_stained_glass (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:cyan_stained_glass (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:purple_stained_glass (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:blue_stained_glass (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:brown_stained_glass (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:green_stained_glass (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:red_stained_glass (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:black_stained_glass (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:crops/carrot
+- minecraft:carrot (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:nuggets/gold
+- minecraft:gold_nugget (from forge-1.19.2-43.2.4-universal.jar)
+
+#minecraft:warped_stems
+- minecraft:warped_stem (from Default)
+- minecraft:stripped_warped_stem (from Default)
+- minecraft:warped_hyphae (from Default)
+- minecraft:stripped_warped_hyphae (from Default)
+
+#forge:nether_stars
+- minecraft:nether_star (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:dyes/blue
+- minecraft:blue_dye (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:storage_blocks/iron
+- minecraft:iron_block (from forge-1.19.2-43.2.4-universal.jar)
+
+#create:seats
+- create:white_seat (from create-1.19.2-0.5.0.h.jar)
+- create:orange_seat (from create-1.19.2-0.5.0.h.jar)
+- create:magenta_seat (from create-1.19.2-0.5.0.h.jar)
+- create:light_blue_seat (from create-1.19.2-0.5.0.h.jar)
+- create:yellow_seat (from create-1.19.2-0.5.0.h.jar)
+- create:lime_seat (from create-1.19.2-0.5.0.h.jar)
+- create:pink_seat (from create-1.19.2-0.5.0.h.jar)
+- create:gray_seat (from create-1.19.2-0.5.0.h.jar)
+- create:light_gray_seat (from create-1.19.2-0.5.0.h.jar)
+- create:cyan_seat (from create-1.19.2-0.5.0.h.jar)
+- create:purple_seat (from create-1.19.2-0.5.0.h.jar)
+- create:blue_seat (from create-1.19.2-0.5.0.h.jar)
+- create:brown_seat (from create-1.19.2-0.5.0.h.jar)
+- create:green_seat (from create-1.19.2-0.5.0.h.jar)
+- create:red_seat (from create-1.19.2-0.5.0.h.jar)
+- create:black_seat (from create-1.19.2-0.5.0.h.jar)
+
+#forge:tools/pickaxes
+- minecraft:wooden_pickaxe (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:stone_pickaxe (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:iron_pickaxe (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:golden_pickaxe (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:diamond_pickaxe (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:netherite_pickaxe (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:glass_panes/brown
+- minecraft:brown_stained_glass_pane (from forge-1.19.2-43.2.4-universal.jar)
+
+#create:sandpaper
+- create:sand_paper (from create-1.19.2-0.5.0.h.jar)
+- create:red_sand_paper (from create-1.19.2-0.5.0.h.jar)
+- createaddition:diamond_grit_sandpaper (from createaddition-1.19.2-20221230a.jar)
+
+#forge:heads
+- minecraft:creeper_head (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:dragon_head (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:player_head (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:skeleton_skull (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:wither_skeleton_skull (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:zombie_head (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:tools/axes
+- minecraft:wooden_axe (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:stone_axe (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:iron_axe (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:golden_axe (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:diamond_axe (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:netherite_axe (from forge-1.19.2-43.2.4-universal.jar)
+
+#libx:impl_wooden_slabs
+
+#minecraft:dark_oak_logs
+- minecraft:dark_oak_log (from Default)
+- minecraft:dark_oak_wood (from Default)
+- minecraft:stripped_dark_oak_log (from Default)
+- minecraft:stripped_dark_oak_wood (from Default)
+
+#forge:bones
+- minecraft:bone (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:storage_blocks/steel
+- alloyed:steel_block (from alloyed-1.19.2-v1.5.jar)
+
+#create:stone_types/limestone
+- create:cut_limestone (from create-1.19.2-0.5.0.h.jar)
+- create:cut_limestone_stairs (from create-1.19.2-0.5.0.h.jar)
+- create:cut_limestone_wall (from create-1.19.2-0.5.0.h.jar)
+- create:polished_cut_limestone (from create-1.19.2-0.5.0.h.jar)
+- create:polished_cut_limestone_stairs (from create-1.19.2-0.5.0.h.jar)
+- create:polished_cut_limestone_wall (from create-1.19.2-0.5.0.h.jar)
+- create:cut_limestone_bricks (from create-1.19.2-0.5.0.h.jar)
+- create:cut_limestone_brick_stairs (from create-1.19.2-0.5.0.h.jar)
+- create:cut_limestone_brick_wall (from create-1.19.2-0.5.0.h.jar)
+- create:small_limestone_bricks (from create-1.19.2-0.5.0.h.jar)
+- create:small_limestone_brick_stairs (from create-1.19.2-0.5.0.h.jar)
+- create:small_limestone_brick_wall (from create-1.19.2-0.5.0.h.jar)
+- create:layered_limestone (from create-1.19.2-0.5.0.h.jar)
+- create:limestone_pillar (from create-1.19.2-0.5.0.h.jar)
+
+#quark:ladders
+- minecraft:ladder (from Quark-3.4-389.jar)
+- quark:spruce_ladder (from Quark-3.4-389.jar)
+- quark:birch_ladder (from Quark-3.4-389.jar)
+- quark:jungle_ladder (from Quark-3.4-389.jar)
+- quark:acacia_ladder (from Quark-3.4-389.jar)
+- quark:dark_oak_ladder (from Quark-3.4-389.jar)
+- quark:warped_ladder (from Quark-3.4-389.jar)
+- quark:crimson_ladder (from Quark-3.4-389.jar)
+- quark:iron_ladder (from Quark-3.4-389.jar)
+- quark:azalea_ladder (from Quark-3.4-389.jar)
+- quark:blossom_ladder (from Quark-3.4-389.jar)
+- quark:mangrove_ladder (from Quark-3.4-389.jar)
+- quark:bamboo_ladder (from Quark-3.4-389.jar)
+- quark:ancient_ladder (from Quark-3.4-389.jar)
+
+#forge:glass_panes
+- #forge:glass_panes/colorless (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:stained_glass_panes (from forge-1.19.2-43.2.4-universal.jar)
+- create:tiled_glass_pane (from create-1.19.2-0.5.0.h.jar)
+- create:framed_glass_pane (from create-1.19.2-0.5.0.h.jar)
+- create:horizontal_framed_glass_pane (from create-1.19.2-0.5.0.h.jar)
+- create:vertical_framed_glass_pane (from create-1.19.2-0.5.0.h.jar)
+- create:oak_window_pane (from create-1.19.2-0.5.0.h.jar)
+- create:spruce_window_pane (from create-1.19.2-0.5.0.h.jar)
+- create:birch_window_pane (from create-1.19.2-0.5.0.h.jar)
+- create:jungle_window_pane (from create-1.19.2-0.5.0.h.jar)
+- create:acacia_window_pane (from create-1.19.2-0.5.0.h.jar)
+- create:dark_oak_window_pane (from create-1.19.2-0.5.0.h.jar)
+- create:crimson_window_pane (from create-1.19.2-0.5.0.h.jar)
+- create:warped_window_pane (from create-1.19.2-0.5.0.h.jar)
+- create:ornate_iron_window_pane (from create-1.19.2-0.5.0.h.jar)
+- quark:dirty_glass_pane (from Quark-3.4-389.jar)
+- quark:framed_glass_pane (from Quark-3.4-389.jar)
+- quark:black_framed_glass_pane (from Quark-3.4-389.jar)
+- quark:blue_framed_glass_pane (from Quark-3.4-389.jar)
+- quark:brown_framed_glass_pane (from Quark-3.4-389.jar)
+- quark:cyan_framed_glass_pane (from Quark-3.4-389.jar)
+- quark:gray_framed_glass_pane (from Quark-3.4-389.jar)
+- quark:green_framed_glass_pane (from Quark-3.4-389.jar)
+- quark:light_blue_framed_glass_pane (from Quark-3.4-389.jar)
+- quark:light_gray_framed_glass_pane (from Quark-3.4-389.jar)
+- quark:lime_framed_glass_pane (from Quark-3.4-389.jar)
+- quark:magenta_framed_glass_pane (from Quark-3.4-389.jar)
+- quark:orange_framed_glass_pane (from Quark-3.4-389.jar)
+- quark:pink_framed_glass_pane (from Quark-3.4-389.jar)
+- quark:purple_framed_glass_pane (from Quark-3.4-389.jar)
+- quark:red_framed_glass_pane (from Quark-3.4-389.jar)
+- quark:white_framed_glass_pane (from Quark-3.4-389.jar)
+- quark:yellow_framed_glass_pane (from Quark-3.4-389.jar)
+
+#forge:enchanting_fuels
+- #forge:gems/lapis (from forge-1.19.2-43.2.4-universal.jar)
+
+#minecraft:non_flammable_wood
+- minecraft:warped_stem (from Default)
+- minecraft:stripped_warped_stem (from Default)
+- minecraft:warped_hyphae (from Default)
+- minecraft:stripped_warped_hyphae (from Default)
+- minecraft:crimson_stem (from Default)
+- minecraft:stripped_crimson_stem (from Default)
+- minecraft:crimson_hyphae (from Default)
+- minecraft:stripped_crimson_hyphae (from Default)
+- minecraft:crimson_planks (from Default)
+- minecraft:warped_planks (from Default)
+- minecraft:crimson_slab (from Default)
+- minecraft:warped_slab (from Default)
+- minecraft:crimson_pressure_plate (from Default)
+- minecraft:warped_pressure_plate (from Default)
+- minecraft:crimson_fence (from Default)
+- minecraft:warped_fence (from Default)
+- minecraft:crimson_trapdoor (from Default)
+- minecraft:warped_trapdoor (from Default)
+- minecraft:crimson_fence_gate (from Default)
+- minecraft:warped_fence_gate (from Default)
+- minecraft:crimson_stairs (from Default)
+- minecraft:warped_stairs (from Default)
+- minecraft:crimson_button (from Default)
+- minecraft:warped_button (from Default)
+- minecraft:crimson_door (from Default)
+- minecraft:warped_door (from Default)
+- minecraft:crimson_sign (from Default)
+- minecraft:warped_sign (from Default)
+- quark:warped_chest (from Quark-3.4-389.jar)
+- quark:crimson_chest (from Quark-3.4-389.jar)
+- quark:warped_ladder (from Quark-3.4-389.jar)
+- quark:crimson_ladder (from Quark-3.4-389.jar)
+- quark:warped_post (from Quark-3.4-389.jar)
+- quark:crimson_post (from Quark-3.4-389.jar)
+- quark:warped_bookshelf (from Quark-3.4-389.jar)
+- quark:crimson_bookshelf (from Quark-3.4-389.jar)
+
+#forge:dusts/iron
+- occultism:iron_dust (from occultism-1.19.2-1.66.2.jar)
+
+#forge:mushrooms
+- minecraft:brown_mushroom (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:red_mushroom (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:flour/wheat
+- create:wheat_flour (from create-1.19.2-0.5.0.h.jar)
+
+#create_enchantment_industry:ink_ingredient
+- minecraft:black_dye (from create_enchantment_industry-1.19.2-for-create-0.5.0.h-1.1.12.jar)
+- minecraft:wither_rose (from create_enchantment_industry-1.19.2-for-create-0.5.0.h-1.1.12.jar)
+- minecraft:ink_sac (from create_enchantment_industry-1.19.2-for-create-0.5.0.h-1.1.12.jar)
+
+#minecraft:lapis_ores
+- minecraft:lapis_ore (from Default)
+- minecraft:deepslate_lapis_ore (from Default)
+
+#curios:bangle
+- ars_elemental:air_bangle (from ars_elemental-1.19.2-0.5.7.1.jar)
+- ars_elemental:fire_bangle (from ars_elemental-1.19.2-0.5.7.1.jar)
+- ars_elemental:earth_bangle (from ars_elemental-1.19.2-0.5.7.1.jar)
+- ars_elemental:water_bangle (from ars_elemental-1.19.2-0.5.7.1.jar)
+- ars_elemental:base_bangle (from ars_elemental-1.19.2-0.5.7.1.jar)
+
+#forge:tools/swords
+- minecraft:wooden_sword (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:stone_sword (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:iron_sword (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:golden_sword (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:diamond_sword (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:netherite_sword (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:storage_blocks/bronze
+- alloyed:bronze_block (from alloyed-1.19.2-v1.5.jar)
+- alloyed:waxed_bronze_block (from alloyed-1.19.2-v1.5.jar)
+
+#forge:ingots/steel
+- alloyed:steel_ingot (from alloyed-1.19.2-v1.5.jar)
+
+#quark:big_harvesting_hoes
+- minecraft:diamond_hoe (from Quark-3.4-389.jar)
+- minecraft:netherite_hoe (from Quark-3.4-389.jar)
+
+#forge:ingots/netherite
+- minecraft:netherite_ingot (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:rods/all_metal
+- createaddition:iron_rod (from createaddition-1.19.2-20221230a.jar)
+- createaddition:copper_rod (from createaddition-1.19.2-20221230a.jar)
+- createaddition:gold_rod (from createaddition-1.19.2-20221230a.jar)
+- createaddition:brass_rod (from createaddition-1.19.2-20221230a.jar)
+
+#minecraft:fences
+- #minecraft:wooden_fences (from Default)
+- minecraft:nether_brick_fence (from Default)
+- #libx:impl_fences (from LibX-1.19.2-4.2.5.jar)
+- ars_nouveau:archwood_fence (from ars_nouveau-1.19.2-3.8.4.jar)
+- quark:azalea_fence (from Quark-3.4-389.jar)
+- quark:blossom_fence (from Quark-3.4-389.jar)
+- quark:bamboo_fence (from Quark-3.4-389.jar)
+- quark:ancient_fence (from Quark-3.4-389.jar)
+
+#minecraft:saplings
+- minecraft:oak_sapling (from Default)
+- minecraft:spruce_sapling (from Default)
+- minecraft:birch_sapling (from Default)
+- minecraft:jungle_sapling (from Default)
+- minecraft:acacia_sapling (from Default)
+- minecraft:dark_oak_sapling (from Default)
+- minecraft:azalea (from Default)
+- minecraft:flowering_azalea (from Default)
+- minecraft:mangrove_propagule (from Default)
+- ars_nouveau:red_archwood_sapling (from ars_nouveau-1.19.2-3.8.4.jar)
+- ars_nouveau:blue_archwood_sapling (from ars_nouveau-1.19.2-3.8.4.jar)
+- ars_nouveau:green_archwood_sapling (from ars_nouveau-1.19.2-3.8.4.jar)
+- ars_nouveau:purple_archwood_sapling (from ars_nouveau-1.19.2-3.8.4.jar)
+- quark:blue_blossom_sapling (from Quark-3.4-389.jar)
+- quark:lavender_blossom_sapling (from Quark-3.4-389.jar)
+- quark:orange_blossom_sapling (from Quark-3.4-389.jar)
+- quark:pink_blossom_sapling (from Quark-3.4-389.jar)
+- quark:yellow_blossom_sapling (from Quark-3.4-389.jar)
+- quark:red_blossom_sapling (from Quark-3.4-389.jar)
+- quark:ancient_sapling (from Quark-3.4-389.jar)
+- ars_elemental:yellow_archwood_sapling (from ars_elemental-1.19.2-0.5.7.1.jar)
+- #occultism:saplings/otherworld (from occultism-1.19.2-1.66.2.jar)
+
+#forge:ores/copper
+- #minecraft:copper_ores (from forge-1.19.2-43.2.4-universal.jar)
+
+#createaddition:plants
+- minecraft:cactus (from createaddition-1.19.2-20221230a.jar)
+- minecraft:bamboo (from createaddition-1.19.2-20221230a.jar)
+- minecraft:kelp (from createaddition-1.19.2-20221230a.jar)
+- minecraft:vine (from createaddition-1.19.2-20221230a.jar)
+- minecraft:lily_pad (from createaddition-1.19.2-20221230a.jar)
+- minecraft:weeping_vines (from createaddition-1.19.2-20221230a.jar)
+- minecraft:twisting_vines (from createaddition-1.19.2-20221230a.jar)
+- minecraft:grass (from createaddition-1.19.2-20221230a.jar)
+- minecraft:fern (from createaddition-1.19.2-20221230a.jar)
+- minecraft:tall_grass (from createaddition-1.19.2-20221230a.jar)
+- minecraft:large_fern (from createaddition-1.19.2-20221230a.jar)
+- minecraft:seagrass (from createaddition-1.19.2-20221230a.jar)
+- minecraft:warped_roots (from createaddition-1.19.2-20221230a.jar)
+- minecraft:crimson_roots (from createaddition-1.19.2-20221230a.jar)
+- minecraft:hanging_roots (from createaddition-1.19.2-20221230a.jar)
+- minecraft:nether_sprouts (from createaddition-1.19.2-20221230a.jar)
+- minecraft:chorus_plant (from createaddition-1.19.2-20221230a.jar)
+- minecraft:chorus_flower (from createaddition-1.19.2-20221230a.jar)
+- minecraft:brown_mushroom (from createaddition-1.19.2-20221230a.jar)
+- minecraft:red_mushroom (from createaddition-1.19.2-20221230a.jar)
+- minecraft:crimson_fungus (from createaddition-1.19.2-20221230a.jar)
+- minecraft:warped_fungus (from createaddition-1.19.2-20221230a.jar)
+- minecraft:sugar_cane (from createaddition-1.19.2-20221230a.jar)
+
+#forge:stripped_logs
+- #create:vanilla_stripped_logs (from create-1.19.2-0.5.0.h.jar)
+- #create:modded_stripped_logs (from create-1.19.2-0.5.0.h.jar)
+
+#forge:seeds/beetroot
+- minecraft:beetroot_seeds (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:fruits/berry
+- ars_nouveau:source_berry (from ars_nouveau-1.19.2-3.8.4.jar)
+
+#minecraft:banners
+- minecraft:white_banner (from Default)
+- minecraft:orange_banner (from Default)
+- minecraft:magenta_banner (from Default)
+- minecraft:light_blue_banner (from Default)
+- minecraft:yellow_banner (from Default)
+- minecraft:lime_banner (from Default)
+- minecraft:pink_banner (from Default)
+- minecraft:gray_banner (from Default)
+- minecraft:light_gray_banner (from Default)
+- minecraft:cyan_banner (from Default)
+- minecraft:purple_banner (from Default)
+- minecraft:blue_banner (from Default)
+- minecraft:brown_banner (from Default)
+- minecraft:green_banner (from Default)
+- minecraft:red_banner (from Default)
+- minecraft:black_banner (from Default)
+
+#minecraft:wooden_fences
+- minecraft:oak_fence (from Default)
+- minecraft:acacia_fence (from Default)
+- minecraft:dark_oak_fence (from Default)
+- minecraft:spruce_fence (from Default)
+- minecraft:birch_fence (from Default)
+- minecraft:jungle_fence (from Default)
+- minecraft:crimson_fence (from Default)
+- minecraft:warped_fence (from Default)
+- minecraft:mangrove_fence (from Default)
+- #libx:impl_wooden_fences (from LibX-1.19.2-4.2.5.jar)
+- ars_nouveau:archwood_fence (from ars_nouveau-1.19.2-3.8.4.jar)
+- quark:azalea_fence (from Quark-3.4-389.jar)
+- quark:blossom_fence (from Quark-3.4-389.jar)
+- quark:bamboo_fence (from Quark-3.4-389.jar)
+- quark:ancient_fence (from Quark-3.4-389.jar)
+
+#forge:tools/tridents
+- minecraft:trident (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:armors/boots
+- minecraft:leather_boots (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:chainmail_boots (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:iron_boots (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:golden_boots (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:diamond_boots (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:netherite_boots (from forge-1.19.2-43.2.4-universal.jar)
+- ars_nouveau:novice_boots (from ars_nouveau-1.19.2-3.8.4.jar)
+- ars_nouveau:apprentice_boots (from ars_nouveau-1.19.2-3.8.4.jar)
+- ars_nouveau:archmage_boots (from ars_nouveau-1.19.2-3.8.4.jar)
+
+#forge:obsidian
+- minecraft:obsidian (from forge-1.19.2-43.2.4-universal.jar)
+
+#curios:necklace
+- ars_nouveau:amulet_of_mana_boost (from ars_nouveau-1.19.2-3.8.4.jar)
+- ars_nouveau:amulet_of_mana_regen (from ars_nouveau-1.19.2-3.8.4.jar)
+- arsomega:greater_mana_amulet (from arsomega-3.0.0-alpha-2.jar)
+- arsomega:greater_regen_amulet (from arsomega-3.0.0-alpha-2.jar)
+- arsomega:cursed_pendant (from arsomega-3.0.0-alpha-2.jar)
+- arsomega:cursed_pendant_double (from arsomega-3.0.0-alpha-2.jar)
+- arsomega:cursed_pendant_strong (from arsomega-3.0.0-alpha-2.jar)
+- arsomega:cursed_pendant_double_strong (from arsomega-3.0.0-alpha-2.jar)
+- arsomega:cursed_pendant_ultimate (from arsomega-3.0.0-alpha-2.jar)
+
+#forge:ore_rates/singular
+- minecraft:ancient_debris (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:coal_ore (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:deepslate_coal_ore (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:deepslate_diamond_ore (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:deepslate_emerald_ore (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:deepslate_gold_ore (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:deepslate_iron_ore (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:diamond_ore (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:emerald_ore (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:gold_ore (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:iron_ore (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:nether_quartz_ore (from forge-1.19.2-43.2.4-universal.jar)
+
+#minecraft:dampens_vibrations
+- #minecraft:wool (from Default)
+- #minecraft:wool_carpets (from Default)
+
+#forge:rods/brass
+- createaddition:brass_rod (from createaddition-1.19.2-20221230a.jar)
+
+#ars_elemental:curio_bag_item
+- ars_nouveau:alchemists_crown (from ars_elemental-1.19.2-0.5.7.1.jar)
+- ars_nouveau:worn_notebook (from ars_elemental-1.19.2-0.5.7.1.jar)
+- ars_nouveau:dominion_wand (from ars_elemental-1.19.2-0.5.7.1.jar)
+- ars_nouveau:dowsing_rod (from ars_elemental-1.19.2-0.5.7.1.jar)
+- ars_nouveau:jar_of_light (from ars_elemental-1.19.2-0.5.7.1.jar)
+- ars_nouveau:void_jar (from ars_elemental-1.19.2-0.5.7.1.jar)
+- ars_nouveau:runic_chalk (from ars_elemental-1.19.2-0.5.7.1.jar)
+- ars_nouveau:warp_scroll (from ars_elemental-1.19.2-0.5.7.1.jar)
+- ars_nouveau:spell_parchment (from ars_elemental-1.19.2-0.5.7.1.jar)
+- #ars_nouveau:magic_shards (from ars_elemental-1.19.2-0.5.7.1.jar)
+- #ars_nouveau:spell_prism_lens (from ars_elemental-1.19.2-0.5.7.1.jar)
+
+#quark:revertable_trapped_chests
+- quark:oak_trapped_chest (from Quark-3.4-389.jar)
+- quark:spruce_trapped_chest (from Quark-3.4-389.jar)
+- quark:birch_trapped_chest (from Quark-3.4-389.jar)
+- quark:jungle_trapped_chest (from Quark-3.4-389.jar)
+- quark:acacia_trapped_chest (from Quark-3.4-389.jar)
+- quark:dark_oak_trapped_chest (from Quark-3.4-389.jar)
+- quark:warped_trapped_chest (from Quark-3.4-389.jar)
+- quark:crimson_trapped_chest (from Quark-3.4-389.jar)
+- quark:azalea_trapped_chest (from Quark-3.4-389.jar)
+- quark:blossom_trapped_chest (from Quark-3.4-389.jar)
+
+#forge:buckets/honey
+- create:honey_bucket (from create-1.19.2-0.5.0.h.jar)
+
+#forge:raw_materials/copper
+- minecraft:raw_copper (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:glass/magenta
+- minecraft:magenta_stained_glass (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:ores/coal
+- #minecraft:coal_ores (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:feathers
+- minecraft:feather (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:dusts/end_stone
+- occultism:crushed_end_stone (from occultism-1.19.2-1.66.2.jar)
+
+#ars_nouveau:spell_prism_lens
+- ars_elemental:arc_prism_lens (from ars_elemental-1.19.2-0.5.7.1.jar)
+- ars_elemental:homing_prism_lens (from ars_elemental-1.19.2-0.5.7.1.jar)
+- ars_elemental:rainbow_prism_lens (from ars_elemental-1.19.2-0.5.7.1.jar)
+- ars_elemental:acceleration_prism_lens (from ars_elemental-1.19.2-0.5.7.1.jar)
+- ars_elemental:deceleration_prism_lens (from ars_elemental-1.19.2-0.5.7.1.jar)
+
+#forge:dusts/silver
+- occultism:silver_dust (from occultism-1.19.2-1.66.2.jar)
+
+#alloyed:bronze_instruments
+- alloyed:bronze_bell (from alloyed-1.19.2-v1.5.jar)
+
+#forge:string
+- minecraft:string (from forge-1.19.2-43.2.4-universal.jar)
+
+#minecraft:trapdoors
+- #minecraft:wooden_trapdoors (from Default)
+- minecraft:iron_trapdoor (from Default)
+- #libx:impl_trapdoors (from LibX-1.19.2-4.2.5.jar)
+- alloyed:steel_trapdoor (from alloyed-1.19.2-v1.5.jar)
+- create:train_trapdoor (from create-1.19.2-0.5.0.h.jar)
+- create:framed_glass_trapdoor (from create-1.19.2-0.5.0.h.jar)
+- ars_nouveau:archwood_trapdoor (from ars_nouveau-1.19.2-3.8.4.jar)
+- quark:azalea_trapdoor (from Quark-3.4-389.jar)
+- quark:blossom_trapdoor (from Quark-3.4-389.jar)
+- quark:bamboo_trapdoor (from Quark-3.4-389.jar)
+- quark:ancient_trapdoor (from Quark-3.4-389.jar)
+
+#forge:ingots/gold
+- minecraft:gold_ingot (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:glass/cyan
+- minecraft:cyan_stained_glass (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:crops/coffeebean
+- createcafe:coffee_fruit (from createcafe-1.0.2-1.19.2.jar)
+
+#forge:leather
+- minecraft:leather (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:glass
+- #forge:glass/colorless (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:stained_glass (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:glass/tinted (from forge-1.19.2-43.2.4-universal.jar)
+- quark:dirty_glass (from Quark-3.4-389.jar)
+- quark:framed_glass (from Quark-3.4-389.jar)
+- quark:black_framed_glass (from Quark-3.4-389.jar)
+- quark:blue_framed_glass (from Quark-3.4-389.jar)
+- quark:brown_framed_glass (from Quark-3.4-389.jar)
+- quark:cyan_framed_glass (from Quark-3.4-389.jar)
+- quark:gray_framed_glass (from Quark-3.4-389.jar)
+- quark:green_framed_glass (from Quark-3.4-389.jar)
+- quark:light_blue_framed_glass (from Quark-3.4-389.jar)
+- quark:light_gray_framed_glass (from Quark-3.4-389.jar)
+- quark:lime_framed_glass (from Quark-3.4-389.jar)
+- quark:magenta_framed_glass (from Quark-3.4-389.jar)
+- quark:orange_framed_glass (from Quark-3.4-389.jar)
+- quark:pink_framed_glass (from Quark-3.4-389.jar)
+- quark:purple_framed_glass (from Quark-3.4-389.jar)
+- quark:red_framed_glass (from Quark-3.4-389.jar)
+- quark:white_framed_glass (from Quark-3.4-389.jar)
+- quark:yellow_framed_glass (from Quark-3.4-389.jar)
+
+#minecraft:boats
+- minecraft:oak_boat (from Default)
+- minecraft:spruce_boat (from Default)
+- minecraft:birch_boat (from Default)
+- minecraft:jungle_boat (from Default)
+- minecraft:acacia_boat (from Default)
+- minecraft:dark_oak_boat (from Default)
+- minecraft:mangrove_boat (from Default)
+- #minecraft:chest_boats (from Default)
+
+#forge:nuggets/iron
+- minecraft:iron_nugget (from forge-1.19.2-43.2.4-universal.jar)
+
+#createaddition:plant_foods
+- minecraft:apple (from createaddition-1.19.2-20221230a.jar)
+- minecraft:melon_slice (from createaddition-1.19.2-20221230a.jar)
+- minecraft:potato (from createaddition-1.19.2-20221230a.jar)
+- minecraft:sweet_berries (from createaddition-1.19.2-20221230a.jar)
+- minecraft:beetroot (from createaddition-1.19.2-20221230a.jar)
+- minecraft:glow_berries (from createaddition-1.19.2-20221230a.jar)
+- minecraft:carrot (from createaddition-1.19.2-20221230a.jar)
+
+#quark:glow_shroom_feedables
+- quark:glow_shroom (from Quark-3.4-389.jar)
+
+#minecraft:leaves
+- minecraft:jungle_leaves (from Default)
+- minecraft:oak_leaves (from Default)
+- minecraft:spruce_leaves (from Default)
+- minecraft:dark_oak_leaves (from Default)
+- minecraft:acacia_leaves (from Default)
+- minecraft:birch_leaves (from Default)
+- minecraft:azalea_leaves (from Default)
+- minecraft:flowering_azalea_leaves (from Default)
+- minecraft:mangrove_leaves (from Default)
+- ars_nouveau:purple_archwood_leaves (from ars_nouveau-1.19.2-3.8.4.jar)
+- ars_nouveau:blue_archwood_leaves (from ars_nouveau-1.19.2-3.8.4.jar)
+- ars_nouveau:red_archwood_leaves (from ars_nouveau-1.19.2-3.8.4.jar)
+- ars_nouveau:green_archwood_leaves (from ars_nouveau-1.19.2-3.8.4.jar)
+- quark:blue_blossom_leaves (from Quark-3.4-389.jar)
+- quark:lavender_blossom_leaves (from Quark-3.4-389.jar)
+- quark:orange_blossom_leaves (from Quark-3.4-389.jar)
+- quark:pink_blossom_leaves (from Quark-3.4-389.jar)
+- quark:yellow_blossom_leaves (from Quark-3.4-389.jar)
+- quark:red_blossom_leaves (from Quark-3.4-389.jar)
+- quark:ancient_leaves (from Quark-3.4-389.jar)
+- ars_elemental:yellow_archwood_leaves (from ars_elemental-1.19.2-0.5.7.1.jar)
+- occultism:otherworld_leaves (from occultism-1.19.2-1.66.2.jar)
+- occultism:otherworld_leaves_natural (from occultism-1.19.2-1.66.2.jar)
+
+#forge:ores_in_ground/netherrack
+- minecraft:nether_gold_ore (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:nether_quartz_ore (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:storage_blocks/brass
+- create:brass_block (from create-1.19.2-0.5.0.h.jar)
+
+#forge:crops/potato
+- minecraft:potato (from forge-1.19.2-43.2.4-universal.jar)
+
+#create:blaze_burner_fuel/special
+- create:blaze_cake (from create-1.19.2-0.5.0.h.jar)
+
+#ars_nouveau:magic_food
+- ars_nouveau:source_berry_pie (from ars_nouveau-1.19.2-3.8.4.jar)
+- ars_nouveau:source_berry_roll (from ars_nouveau-1.19.2-3.8.4.jar)
+- ars_elemental:flashpine_pod (from ars_elemental-1.19.2-0.5.7.1.jar)
+
+#forge:glass_panes/gray
+- minecraft:gray_stained_glass_pane (from forge-1.19.2-43.2.4-universal.jar)
+
+#minecraft:acacia_logs
+- minecraft:acacia_log (from Default)
+- minecraft:acacia_wood (from Default)
+- minecraft:stripped_acacia_log (from Default)
+- minecraft:stripped_acacia_wood (from Default)
+
+#minecraft:piglin_loved
+- #minecraft:gold_ores (from Default)
+- minecraft:gold_block (from Default)
+- minecraft:gilded_blackstone (from Default)
+- minecraft:light_weighted_pressure_plate (from Default)
+- minecraft:gold_ingot (from Default)
+- minecraft:bell (from Default)
+- minecraft:clock (from Default)
+- minecraft:golden_carrot (from Default)
+- minecraft:glistering_melon_slice (from Default)
+- minecraft:golden_apple (from Default)
+- minecraft:enchanted_golden_apple (from Default)
+- minecraft:golden_helmet (from Default)
+- minecraft:golden_chestplate (from Default)
+- minecraft:golden_leggings (from Default)
+- minecraft:golden_boots (from Default)
+- minecraft:golden_horse_armor (from Default)
+- minecraft:golden_sword (from Default)
+- minecraft:golden_pickaxe (from Default)
+- minecraft:golden_shovel (from Default)
+- minecraft:golden_axe (from Default)
+- minecraft:golden_hoe (from Default)
+- minecraft:raw_gold (from Default)
+- minecraft:raw_gold_block (from Default)
+- create:golden_sheet (from create-1.19.2-0.5.0.h.jar)
+- create:crushed_gold_ore (from create-1.19.2-0.5.0.h.jar)
+- createplus:goggle_golden_helmet (from createplus-1.19.2_v0.5.2a.jar)
+- create_sa:brass_axe (from create-stuff-additions1.19.2_v2.0.2a.jar)
+- create_sa:brass_boots (from create-stuff-additions1.19.2_v2.0.2a.jar)
+- create_sa:brass_leggings (from create-stuff-additions1.19.2_v2.0.2a.jar)
+- create_sa:brass_pickaxe (from create-stuff-additions1.19.2_v2.0.2a.jar)
+- create_sa:steam_engine (from create-stuff-additions1.19.2_v2.0.2a.jar)
+- create_sa:brass_hoe (from create-stuff-additions1.19.2_v2.0.2a.jar)
+- create_sa:incomplete_steam_engine (from create-stuff-additions1.19.2_v2.0.2a.jar)
+- create_sa:brass_jetpack_chestplate (from create-stuff-additions1.19.2_v2.0.2a.jar)
+- create_sa:brass_exoskeleton_chestplate (from create-stuff-additions1.19.2_v2.0.2a.jar)
+- create_sa:brass_helmet (from create-stuff-additions1.19.2_v2.0.2a.jar)
+- create_sa:brass_sword (from create-stuff-additions1.19.2_v2.0.2a.jar)
+- create_sa:brass_chestplate (from create-stuff-additions1.19.2_v2.0.2a.jar)
+- create_sa:brass_shovel (from create-stuff-additions1.19.2_v2.0.2a.jar)
+- quark:gold_button (from Quark-3.4-389.jar)
+- quark:gold_bars (from Quark-3.4-389.jar)
+- quark:golden_apple_crate (from Quark-3.4-389.jar)
+- quark:raw_gold_bricks (from Quark-3.4-389.jar)
+- quark:raw_gold_bricks_slab (from Quark-3.4-389.jar)
+- quark:raw_gold_bricks_stairs (from Quark-3.4-389.jar)
+- quark:raw_gold_bricks_vertical_slab (from Quark-3.4-389.jar)
+
+#forge:tools/wrench
+- create:wrench (from create-1.19.2-0.5.0.h.jar)
+
+#forge:stained_glass_panes
+- minecraft:white_stained_glass_pane (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:orange_stained_glass_pane (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:magenta_stained_glass_pane (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:light_blue_stained_glass_pane (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:yellow_stained_glass_pane (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:lime_stained_glass_pane (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:pink_stained_glass_pane (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:gray_stained_glass_pane (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:light_gray_stained_glass_pane (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:cyan_stained_glass_pane (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:purple_stained_glass_pane (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:blue_stained_glass_pane (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:brown_stained_glass_pane (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:green_stained_glass_pane (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:red_stained_glass_pane (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:black_stained_glass_pane (from forge-1.19.2-43.2.4-universal.jar)
+
+#libx:impl_signs
+
+#occultism:books/book_of_calling_foliot
+- occultism:book_of_calling_foliot_lumberjack (from occultism-1.19.2-1.66.2.jar)
+
+#curios:head
+- create:goggles (from create-1.19.2-0.5.0.h.jar)
+- ars_nouveau:alchemists_crown (from ars_nouveau-1.19.2-3.8.4.jar)
+- occultism:otherworld_goggles (from occultism-1.19.2-1.66.2.jar)
+
+#forge:storage_blocks/zinc
+- create:zinc_block (from create-1.19.2-0.5.0.h.jar)
+
+#forge:sand/red
+- minecraft:red_sand (from forge-1.19.2-43.2.4-universal.jar)
+
+#minecraft:copper_ores
+- minecraft:copper_ore (from Default)
+- minecraft:deepslate_copper_ore (from Default)
+
+#forge:glass/brown
+- minecraft:brown_stained_glass (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:dusts/gold
+- occultism:gold_dust (from occultism-1.19.2-1.66.2.jar)
+
+#minecraft:logs_that_burn
+- #minecraft:dark_oak_logs (from Default)
+- #minecraft:oak_logs (from Default)
+- #minecraft:acacia_logs (from Default)
+- #minecraft:birch_logs (from Default)
+- #minecraft:jungle_logs (from Default)
+- #minecraft:spruce_logs (from Default)
+- #minecraft:mangrove_logs (from Default)
+- ars_nouveau:red_archwood_log (from ars_nouveau-1.19.2-3.8.4.jar)
+- ars_nouveau:blue_archwood_log (from ars_nouveau-1.19.2-3.8.4.jar)
+- ars_nouveau:purple_archwood_log (from ars_nouveau-1.19.2-3.8.4.jar)
+- ars_nouveau:green_archwood_log (from ars_nouveau-1.19.2-3.8.4.jar)
+- ars_nouveau:red_archwood_wood (from ars_nouveau-1.19.2-3.8.4.jar)
+- ars_nouveau:blue_archwood_wood (from ars_nouveau-1.19.2-3.8.4.jar)
+- ars_nouveau:green_archwood_wood (from ars_nouveau-1.19.2-3.8.4.jar)
+- ars_nouveau:purple_archwood_wood (from ars_nouveau-1.19.2-3.8.4.jar)
+- ars_nouveau:stripped_blue_archwood_log (from ars_nouveau-1.19.2-3.8.4.jar)
+- ars_nouveau:stripped_blue_archwood_wood (from ars_nouveau-1.19.2-3.8.4.jar)
+- ars_nouveau:stripped_green_archwood_log (from ars_nouveau-1.19.2-3.8.4.jar)
+- ars_nouveau:stripped_green_archwood_wood (from ars_nouveau-1.19.2-3.8.4.jar)
+- ars_nouveau:stripped_red_archwood_log (from ars_nouveau-1.19.2-3.8.4.jar)
+- ars_nouveau:stripped_red_archwood_wood (from ars_nouveau-1.19.2-3.8.4.jar)
+- ars_nouveau:stripped_purple_archwood_log (from ars_nouveau-1.19.2-3.8.4.jar)
+- ars_nouveau:stripped_purple_archwood_wood (from ars_nouveau-1.19.2-3.8.4.jar)
+- quark:azalea_log (from Quark-3.4-389.jar)
+- quark:stripped_azalea_log (from Quark-3.4-389.jar)
+- quark:azalea_wood (from Quark-3.4-389.jar)
+- quark:stripped_azalea_wood (from Quark-3.4-389.jar)
+- quark:blossom_log (from Quark-3.4-389.jar)
+- quark:stripped_blossom_log (from Quark-3.4-389.jar)
+- quark:blossom_wood (from Quark-3.4-389.jar)
+- quark:stripped_blossom_wood (from Quark-3.4-389.jar)
+- quark:ancient_log (from Quark-3.4-389.jar)
+- quark:stripped_ancient_log (from Quark-3.4-389.jar)
+- quark:ancient_wood (from Quark-3.4-389.jar)
+- quark:stripped_ancient_wood (from Quark-3.4-389.jar)
+- ars_elemental:yellow_archwood_log (from ars_elemental-1.19.2-0.5.7.1.jar)
+- ars_elemental:yellow_archwood (from ars_elemental-1.19.2-0.5.7.1.jar)
+- ars_elemental:stripped_yellow_archwood (from ars_elemental-1.19.2-0.5.7.1.jar)
+- ars_elemental:stripped_yellow_archwood_log (from ars_elemental-1.19.2-0.5.7.1.jar)
+
+#create:sleepers
+- minecraft:stone_slab (from create-1.19.2-0.5.0.h.jar)
+- minecraft:smooth_stone_slab (from create-1.19.2-0.5.0.h.jar)
+- minecraft:andesite_slab (from create-1.19.2-0.5.0.h.jar)
+
+#forge:glass/gray
+- minecraft:gray_stained_glass (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:glass/light_gray
+- minecraft:light_gray_stained_glass (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:dyes/light_blue
+- minecraft:light_blue_dye (from forge-1.19.2-43.2.4-universal.jar)
+
+#minecraft:wooden_slabs
+- minecraft:oak_slab (from Default)
+- minecraft:spruce_slab (from Default)
+- minecraft:birch_slab (from Default)
+- minecraft:jungle_slab (from Default)
+- minecraft:acacia_slab (from Default)
+- minecraft:dark_oak_slab (from Default)
+- minecraft:crimson_slab (from Default)
+- minecraft:warped_slab (from Default)
+- minecraft:mangrove_slab (from Default)
+- #libx:impl_wooden_slabs (from LibX-1.19.2-4.2.5.jar)
+- ars_nouveau:archwood_slab (from ars_nouveau-1.19.2-3.8.4.jar)
+- quark:azalea_planks_slab (from Quark-3.4-389.jar)
+- quark:blossom_planks_slab (from Quark-3.4-389.jar)
+- quark:bamboo_planks_slab (from Quark-3.4-389.jar)
+- quark:ancient_planks_slab (from Quark-3.4-389.jar)
+
+#forge:dyes/white
+- minecraft:white_dye (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:tools/bows
+- minecraft:bow (from forge-1.19.2-43.2.4-universal.jar)
+
+#create:toolboxes
+- create:white_toolbox (from create-1.19.2-0.5.0.h.jar)
+- create:orange_toolbox (from create-1.19.2-0.5.0.h.jar)
+- create:magenta_toolbox (from create-1.19.2-0.5.0.h.jar)
+- create:light_blue_toolbox (from create-1.19.2-0.5.0.h.jar)
+- create:yellow_toolbox (from create-1.19.2-0.5.0.h.jar)
+- create:lime_toolbox (from create-1.19.2-0.5.0.h.jar)
+- create:pink_toolbox (from create-1.19.2-0.5.0.h.jar)
+- create:gray_toolbox (from create-1.19.2-0.5.0.h.jar)
+- create:light_gray_toolbox (from create-1.19.2-0.5.0.h.jar)
+- create:cyan_toolbox (from create-1.19.2-0.5.0.h.jar)
+- create:purple_toolbox (from create-1.19.2-0.5.0.h.jar)
+- create:blue_toolbox (from create-1.19.2-0.5.0.h.jar)
+- create:brown_toolbox (from create-1.19.2-0.5.0.h.jar)
+- create:green_toolbox (from create-1.19.2-0.5.0.h.jar)
+- create:red_toolbox (from create-1.19.2-0.5.0.h.jar)
+- create:black_toolbox (from create-1.19.2-0.5.0.h.jar)
+
+#minecraft:small_flowers
+- minecraft:dandelion (from Default)
+- minecraft:poppy (from Default)
+- minecraft:blue_orchid (from Default)
+- minecraft:allium (from Default)
+- minecraft:azure_bluet (from Default)
+- minecraft:red_tulip (from Default)
+- minecraft:orange_tulip (from Default)
+- minecraft:white_tulip (from Default)
+- minecraft:pink_tulip (from Default)
+- minecraft:oxeye_daisy (from Default)
+- minecraft:cornflower (from Default)
+- minecraft:lily_of_the_valley (from Default)
+- minecraft:wither_rose (from Default)
+
+#forge:seeds/pumpkin
+- minecraft:pumpkin_seeds (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:ore_bearing_ground/stone
+- minecraft:stone (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:tallow
+- occultism:tallow (from occultism-1.19.2-1.66.2.jar)
+
+#forge:glass_panes/black
+- minecraft:black_stained_glass_pane (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:dusts/redstone
+- minecraft:redstone (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:dyes/pink
+- minecraft:pink_dye (from forge-1.19.2-43.2.4-universal.jar)
+
+#minecraft:axolotl_tempt_items
+- minecraft:tropical_fish_bucket (from Default)
+
+#forge:gems/quartz
+- minecraft:quartz (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:crops/beetroot
+- minecraft:beetroot (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:glass_panes/blue
+- minecraft:blue_stained_glass_pane (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:seeds/melon
+- minecraft:melon_seeds (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:crops/wheat
+- minecraft:wheat (from forge-1.19.2-43.2.4-universal.jar)
+
+#minecraft:creeper_drop_music_discs
+- minecraft:music_disc_13 (from Default)
+- minecraft:music_disc_cat (from Default)
+- minecraft:music_disc_blocks (from Default)
+- minecraft:music_disc_chirp (from Default)
+- minecraft:music_disc_far (from Default)
+- minecraft:music_disc_mall (from Default)
+- minecraft:music_disc_mellohi (from Default)
+- minecraft:music_disc_stal (from Default)
+- minecraft:music_disc_strad (from Default)
+- minecraft:music_disc_ward (from Default)
+- minecraft:music_disc_11 (from Default)
+- minecraft:music_disc_wait (from Default)
+
+#forge:tools/metal/axes
+- minecraft:iron_axe (from occultism-1.19.2-1.66.2.jar)
+- minecraft:golden_axe (from occultism-1.19.2-1.66.2.jar)
+- minecraft:diamond_axe (from occultism-1.19.2-1.66.2.jar)
+- minecraft:netherite_axe (from occultism-1.19.2-1.66.2.jar)
+
+#forge:dough
+- create:dough (from create-1.19.2-0.5.0.h.jar)
+
+#forge:tools/fishing_rods
+- minecraft:fishing_rod (from forge-1.19.2-43.2.4-universal.jar)
+
+#curios:createplus.backtank_slot
+
+#forge:stone
+- minecraft:andesite (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:diorite (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:granite (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:infested_stone (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:stone (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:polished_andesite (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:polished_diorite (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:polished_granite (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:deepslate (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:polished_deepslate (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:infested_deepslate (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:tuff (from forge-1.19.2-43.2.4-universal.jar)
+- quark:jasper (from Quark-3.4-389.jar)
+- quark:limestone (from Quark-3.4-389.jar)
+- quark:permafrost (from Quark-3.4-389.jar)
+- quark:shale (from Quark-3.4-389.jar)
+- quark:myalite (from Quark-3.4-389.jar)
+- quark:polished_jasper (from Quark-3.4-389.jar)
+- quark:polished_limestone (from Quark-3.4-389.jar)
+- quark:polished_calcite (from Quark-3.4-389.jar)
+- quark:polished_shale (from Quark-3.4-389.jar)
+- quark:polished_myalite (from Quark-3.4-389.jar)
+
+#forge:tools/hoes
+- minecraft:wooden_hoe (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:stone_hoe (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:iron_hoe (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:golden_hoe (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:diamond_hoe (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:netherite_hoe (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:glass_panes/yellow
+- minecraft:yellow_stained_glass_pane (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:gems/lapis
+- minecraft:lapis_lazuli (from forge-1.19.2-43.2.4-universal.jar)
+
+#occultism:tools/knives
+- occultism:butcher_knife (from occultism-1.19.2-1.66.2.jar)
+
+#forge:gunpowder
+- minecraft:gunpowder (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:plates/brass
+- create:brass_sheet (from create-1.19.2-0.5.0.h.jar)
+
+#minecraft:wart_blocks
+- minecraft:nether_wart_block (from Default)
+- minecraft:warped_wart_block (from Default)
+
+#create:crushed_ores
+- create:crushed_iron_ore (from create-1.19.2-0.5.0.h.jar)
+- create:crushed_gold_ore (from create-1.19.2-0.5.0.h.jar)
+- create:crushed_copper_ore (from create-1.19.2-0.5.0.h.jar)
+- create:crushed_zinc_ore (from create-1.19.2-0.5.0.h.jar)
+- create:crushed_osmium_ore (from create-1.19.2-0.5.0.h.jar)
+- create:crushed_platinum_ore (from create-1.19.2-0.5.0.h.jar)
+- create:crushed_silver_ore (from create-1.19.2-0.5.0.h.jar)
+- create:crushed_tin_ore (from create-1.19.2-0.5.0.h.jar)
+- create:crushed_lead_ore (from create-1.19.2-0.5.0.h.jar)
+- create:crushed_quicksilver_ore (from create-1.19.2-0.5.0.h.jar)
+- create:crushed_aluminum_ore (from create-1.19.2-0.5.0.h.jar)
+- create:crushed_uranium_ore (from create-1.19.2-0.5.0.h.jar)
+- create:crushed_nickel_ore (from create-1.19.2-0.5.0.h.jar)
+
+#forge:ore_rates/sparse
+- minecraft:nether_gold_ore (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:plates/obsidian
+- create:sturdy_sheet (from create-1.19.2-0.5.0.h.jar)
+
+#forge:crops
+- #forge:crops/beetroot (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:crops/carrot (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:crops/nether_wart (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:crops/potato (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:crops/wheat (from forge-1.19.2-43.2.4-universal.jar)
+- ars_nouveau:magebloom (from ars_nouveau-1.19.2-3.8.4.jar)
+- #forge:crops/datura (from occultism-1.19.2-1.66.2.jar)
+
+#forge:ore_bearing_ground/netherrack
+- minecraft:netherrack (from forge-1.19.2-43.2.4-universal.jar)
+
+#create:stone_types/crimsite
+- create:cut_crimsite (from create-1.19.2-0.5.0.h.jar)
+- create:cut_crimsite_stairs (from create-1.19.2-0.5.0.h.jar)
+- create:cut_crimsite_wall (from create-1.19.2-0.5.0.h.jar)
+- create:polished_cut_crimsite (from create-1.19.2-0.5.0.h.jar)
+- create:polished_cut_crimsite_stairs (from create-1.19.2-0.5.0.h.jar)
+- create:polished_cut_crimsite_wall (from create-1.19.2-0.5.0.h.jar)
+- create:cut_crimsite_bricks (from create-1.19.2-0.5.0.h.jar)
+- create:cut_crimsite_brick_stairs (from create-1.19.2-0.5.0.h.jar)
+- create:cut_crimsite_brick_wall (from create-1.19.2-0.5.0.h.jar)
+- create:small_crimsite_bricks (from create-1.19.2-0.5.0.h.jar)
+- create:small_crimsite_brick_stairs (from create-1.19.2-0.5.0.h.jar)
+- create:small_crimsite_brick_wall (from create-1.19.2-0.5.0.h.jar)
+- create:layered_crimsite (from create-1.19.2-0.5.0.h.jar)
+- create:crimsite_pillar (from create-1.19.2-0.5.0.h.jar)
+
+#farmersdelight:straw_harvesters
+- create_things_and_misc:zinc_knife (from create_misc_and_things_1.19.2_1.1B.jar)
+- create_things_and_misc:copper_knife (from create_misc_and_things_1.19.2_1.1B.jar)
+- create_things_and_misc:brass_knife (from create_misc_and_things_1.19.2_1.1B.jar)
+
+#arsomega:underfoot_glyph
+- ars_nouveau:glyph_underfoot (from arsomega-3.0.0-alpha-2.jar)
+- arsomega:glyph_true_underfoot (from arsomega-3.0.0-alpha-2.jar)
+
+#quark:revertable_chests
+- quark:oak_chest (from Quark-3.4-389.jar)
+- quark:spruce_chest (from Quark-3.4-389.jar)
+- quark:birch_chest (from Quark-3.4-389.jar)
+- quark:jungle_chest (from Quark-3.4-389.jar)
+- quark:acacia_chest (from Quark-3.4-389.jar)
+- quark:dark_oak_chest (from Quark-3.4-389.jar)
+- quark:warped_chest (from Quark-3.4-389.jar)
+- quark:crimson_chest (from Quark-3.4-389.jar)
+- quark:azalea_chest (from Quark-3.4-389.jar)
+- quark:blossom_chest (from Quark-3.4-389.jar)
+
+#curios:charm
+- ars_instrumentum:numeric_mana_charm (from ars_instrumentum-1.19.2-3.2.1.jar)
+
+#quark:boatable_chests
+- quark:azalea_chest (from Quark-3.4-389.jar)
+- quark:blossom_chest (from Quark-3.4-389.jar)
+- quark:bamboo_chest (from Quark-3.4-389.jar)
+- quark:ancient_chest (from Quark-3.4-389.jar)
+
+#forge:ores/silver
+- occultism:silver_ore (from occultism-1.19.2-1.66.2.jar)
+- occultism:silver_ore_deepslate (from occultism-1.19.2-1.66.2.jar)
+
+#minecraft:birch_logs
+- minecraft:birch_log (from Default)
+- minecraft:birch_wood (from Default)
+- minecraft:stripped_birch_log (from Default)
+- minecraft:stripped_birch_wood (from Default)
+
+#forge:glass_panes/purple
+- minecraft:purple_stained_glass_pane (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:dusts
+- #forge:dusts/glowstone (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:dusts/prismarine (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:dusts/redstone (from forge-1.19.2-43.2.4-universal.jar)
+- occultism:burnt_otherstone (from occultism-1.19.2-1.66.2.jar)
+- occultism:otherworld_ashes (from occultism-1.19.2-1.66.2.jar)
+- #forge:dusts/obsidian (from occultism-1.19.2-1.66.2.jar)
+- #forge:dusts/copper (from occultism-1.19.2-1.66.2.jar)
+- #forge:dusts/silver (from occultism-1.19.2-1.66.2.jar)
+- #forge:dusts/iesnium (from occultism-1.19.2-1.66.2.jar)
+- #forge:dusts/iron (from occultism-1.19.2-1.66.2.jar)
+- #forge:dusts/gold (from occultism-1.19.2-1.66.2.jar)
+- #forge:dusts/end_stone (from occultism-1.19.2-1.66.2.jar)
+- createaddition:diamond_grit (from createaddition-1.19.2-20221230a.jar)
+- create:powdered_obsidian (from createaddition-1.19.2-20221230a.jar)
+
+#forge:glass/yellow
+- minecraft:yellow_stained_glass (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:seeds
+- #forge:seeds/beetroot (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:seeds/melon (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:seeds/pumpkin (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:seeds/wheat (from forge-1.19.2-43.2.4-universal.jar)
+- ars_nouveau:magebloom_crop (from ars_nouveau-1.19.2-3.8.4.jar)
+- #forge:seeds/datura (from occultism-1.19.2-1.66.2.jar)
+
+#create:stone_types/asurine
+- create:cut_asurine (from create-1.19.2-0.5.0.h.jar)
+- create:cut_asurine_stairs (from create-1.19.2-0.5.0.h.jar)
+- create:cut_asurine_wall (from create-1.19.2-0.5.0.h.jar)
+- create:polished_cut_asurine (from create-1.19.2-0.5.0.h.jar)
+- create:polished_cut_asurine_stairs (from create-1.19.2-0.5.0.h.jar)
+- create:polished_cut_asurine_wall (from create-1.19.2-0.5.0.h.jar)
+- create:cut_asurine_bricks (from create-1.19.2-0.5.0.h.jar)
+- create:cut_asurine_brick_stairs (from create-1.19.2-0.5.0.h.jar)
+- create:cut_asurine_brick_wall (from create-1.19.2-0.5.0.h.jar)
+- create:small_asurine_bricks (from create-1.19.2-0.5.0.h.jar)
+- create:small_asurine_brick_stairs (from create-1.19.2-0.5.0.h.jar)
+- create:small_asurine_brick_wall (from create-1.19.2-0.5.0.h.jar)
+- create:layered_asurine (from create-1.19.2-0.5.0.h.jar)
+- create:asurine_pillar (from create-1.19.2-0.5.0.h.jar)
+
+#minecraft:oak_logs
+- minecraft:oak_log (from Default)
+- minecraft:oak_wood (from Default)
+- minecraft:stripped_oak_log (from Default)
+- minecraft:stripped_oak_wood (from Default)
+
+#occultism:miners/basic_resources
+- occultism:miner_foliot_unspecialized (from occultism-1.19.2-1.66.2.jar)
+- occultism:miner_debug_unspecialized (from occultism-1.19.2-1.66.2.jar)
+
+#libx:impl_buttons
+
+#forge:gems/source
+- ars_nouveau:source_gem (from ars_nouveau-1.19.2-3.8.4.jar)
+
+#quark:cosmetic_anvil_items
+- #quark:runes (from Quark-3.4-389.jar)
+
+#forge:barrels
+- #forge:barrels/wooden (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:raw_ores/copper
+- minecraft:raw_copper (from occultism-1.19.2-1.66.2.jar)
+
+#quark:reacharound_able
+- quark:trowel (from Quark-3.4-389.jar)
+
+#forge:ores/lapis
+- #minecraft:lapis_ores (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:nuggets/cast_iron
+- createdeco:cast_iron_nugget (from createdeco-1.2.12-1.19.2.jar)
+
+#curios:belt
+- ars_nouveau:belt_of_levitation (from ars_nouveau-1.19.2-3.8.4.jar)
+- ars_nouveau:belt_of_unstable_gifts (from ars_nouveau-1.19.2-3.8.4.jar)
+- ars_instrumentum:wizards_armarium (from ars_instrumentum-1.19.2-3.2.1.jar)
+- occultism:satchel (from occultism-1.19.2-1.66.2.jar)
+
+#forge:slimeballs
+- minecraft:slime_ball (from forge-1.19.2-43.2.4-universal.jar)
+
+#minecraft:pressure_plates
+- quark:azalea_pressure_plate (from Quark-3.4-389.jar)
+- quark:blossom_pressure_plate (from Quark-3.4-389.jar)
+- quark:bamboo_pressure_plate (from Quark-3.4-389.jar)
+- quark:ancient_pressure_plate (from Quark-3.4-389.jar)
+
+#forge:raw_materials/zinc
+- create:raw_zinc (from create-1.19.2-0.5.0.h.jar)
+
+#minecraft:jungle_logs
+- minecraft:jungle_log (from Default)
+- minecraft:jungle_wood (from Default)
+- minecraft:stripped_jungle_log (from Default)
+- minecraft:stripped_jungle_wood (from Default)
+
+#minecraft:lectern_books
+- minecraft:written_book (from Default)
+- minecraft:writable_book (from Default)
+- patchouli:guide_book (from Patchouli-1.19.2-77.jar)
+- ars_nouveau:worn_notebook (from ars_nouveau-1.19.2-3.8.4.jar)
+- ars_nouveau:novice_spell_book (from ars_nouveau-1.19.2-3.8.4.jar)
+- ars_nouveau:archmage_spell_book (from ars_nouveau-1.19.2-3.8.4.jar)
+- ars_nouveau:apprentice_spell_book (from ars_nouveau-1.19.2-3.8.4.jar)
+- ars_nouveau:creative_spell_book (from ars_nouveau-1.19.2-3.8.4.jar)
+
+#forge:chests/ender
+- minecraft:ender_chest (from forge-1.19.2-43.2.4-universal.jar)
+
+#minecraft:spruce_logs
+- minecraft:spruce_log (from Default)
+- minecraft:spruce_wood (from Default)
+- minecraft:stripped_spruce_log (from Default)
+- minecraft:stripped_spruce_wood (from Default)
+
+#occultism:miners/ores
+- occultism:miner_foliot_unspecialized (from occultism-1.19.2-1.66.2.jar)
+- occultism:miner_debug_unspecialized (from occultism-1.19.2-1.66.2.jar)
+- occultism:miner_djinni_ores (from occultism-1.19.2-1.66.2.jar)
+- occultism:miner_afrit_deeps (from occultism-1.19.2-1.66.2.jar)
+- occultism:miner_marid_master (from occultism-1.19.2-1.66.2.jar)
+
+#create:blaze_burner_fuel/regular
+
+#forge:fence_gates/wooden
+- minecraft:oak_fence_gate (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:spruce_fence_gate (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:birch_fence_gate (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:jungle_fence_gate (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:acacia_fence_gate (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:dark_oak_fence_gate (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:crimson_fence_gate (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:warped_fence_gate (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:mangrove_fence_gate (from forge-1.19.2-43.2.4-universal.jar)
+- ars_nouveau:archwood_fence_gate (from ars_nouveau-1.19.2-3.8.4.jar)
+- quark:azalea_fence_gate (from Quark-3.4-389.jar)
+- quark:blossom_fence_gate (from Quark-3.4-389.jar)
+- quark:bamboo_fence_gate (from Quark-3.4-389.jar)
+- quark:ancient_fence_gate (from Quark-3.4-389.jar)
+
+#forge:storage_blocks/raw_copper
+- minecraft:raw_copper_block (from forge-1.19.2-43.2.4-universal.jar)
+
+#libx:impl_wooden_doors
+
+#forge:glass_panes/lime
+- minecraft:lime_stained_glass_pane (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:shears
+- minecraft:shears (from forge-1.19.2-43.2.4-universal.jar)
+- alloyed:steel_shears (from alloyed-1.19.2-v1.5.jar)
+
+#libx:impl_doors
+
+#minecraft:chest_boats
+- minecraft:oak_chest_boat (from Default)
+- minecraft:spruce_chest_boat (from Default)
+- minecraft:birch_chest_boat (from Default)
+- minecraft:jungle_chest_boat (from Default)
+- minecraft:acacia_chest_boat (from Default)
+- minecraft:dark_oak_chest_boat (from Default)
+- minecraft:mangrove_chest_boat (from Default)
+
+#forge:nuggets/steel
+- alloyed:steel_nugget (from alloyed-1.19.2-v1.5.jar)
+
+#quark:blossom_logs
+- quark:blossom_log (from Quark-3.4-389.jar)
+- quark:stripped_blossom_log (from Quark-3.4-389.jar)
+- quark:blossom_wood (from Quark-3.4-389.jar)
+- quark:stripped_blossom_wood (from Quark-3.4-389.jar)
+
+#forge:ores/iesnium
+- occultism:iesnium_ore (from occultism-1.19.2-1.66.2.jar)
+
+#farmersdelight:tools/knives
+- create_things_and_misc:copper_knife (from create_misc_and_things_1.19.2_1.1B.jar)
+- create_things_and_misc:brass_knife (from create_misc_and_things_1.19.2_1.1B.jar)
+- create_things_and_misc:zinc_knife (from create_misc_and_things_1.19.2_1.1B.jar)
+- alloyed:steel_knife (from alloyed-1.19.2-v1.5.jar)
+
+#create:stone_types/ochrum
+- create:cut_ochrum (from create-1.19.2-0.5.0.h.jar)
+- create:cut_ochrum_stairs (from create-1.19.2-0.5.0.h.jar)
+- create:cut_ochrum_wall (from create-1.19.2-0.5.0.h.jar)
+- create:polished_cut_ochrum (from create-1.19.2-0.5.0.h.jar)
+- create:polished_cut_ochrum_stairs (from create-1.19.2-0.5.0.h.jar)
+- create:polished_cut_ochrum_wall (from create-1.19.2-0.5.0.h.jar)
+- create:cut_ochrum_bricks (from create-1.19.2-0.5.0.h.jar)
+- create:cut_ochrum_brick_stairs (from create-1.19.2-0.5.0.h.jar)
+- create:cut_ochrum_brick_wall (from create-1.19.2-0.5.0.h.jar)
+- create:small_ochrum_bricks (from create-1.19.2-0.5.0.h.jar)
+- create:small_ochrum_brick_stairs (from create-1.19.2-0.5.0.h.jar)
+- create:small_ochrum_brick_wall (from create-1.19.2-0.5.0.h.jar)
+- create:layered_ochrum (from create-1.19.2-0.5.0.h.jar)
+- create:ochrum_pillar (from create-1.19.2-0.5.0.h.jar)
+
+#forge:plates/cast_iron
+- createdeco:cast_iron_sheet (from createdeco-1.2.12-1.19.2.jar)
+
+#occultism:saplings/otherworld
+- occultism:otherworld_sapling_natural (from occultism-1.19.2-1.66.2.jar)
+- occultism:otherworld_sapling (from occultism-1.19.2-1.66.2.jar)
+
+#minecraft:flowers
+- #minecraft:small_flowers (from Default)
+- #minecraft:tall_flowers (from Default)
+- minecraft:flowering_azalea_leaves (from Default)
+- minecraft:flowering_azalea (from Default)
+- minecraft:mangrove_propagule (from Default)
+
+#minecraft:planks
+- minecraft:oak_planks (from Default)
+- minecraft:spruce_planks (from Default)
+- minecraft:birch_planks (from Default)
+- minecraft:jungle_planks (from Default)
+- minecraft:acacia_planks (from Default)
+- minecraft:dark_oak_planks (from Default)
+- minecraft:crimson_planks (from Default)
+- minecraft:warped_planks (from Default)
+- minecraft:mangrove_planks (from Default)
+- ars_nouveau:archwood_planks (from ars_nouveau-1.19.2-3.8.4.jar)
+- quark:azalea_planks (from Quark-3.4-389.jar)
+- quark:blossom_planks (from Quark-3.4-389.jar)
+- quark:bamboo_planks (from Quark-3.4-389.jar)
+- quark:vertical_bamboo_planks (from Quark-3.4-389.jar)
+- quark:vertical_oak_planks (from Quark-3.4-389.jar)
+- quark:vertical_spruce_planks (from Quark-3.4-389.jar)
+- quark:vertical_birch_planks (from Quark-3.4-389.jar)
+- quark:vertical_jungle_planks (from Quark-3.4-389.jar)
+- quark:vertical_acacia_planks (from Quark-3.4-389.jar)
+- quark:vertical_dark_oak_planks (from Quark-3.4-389.jar)
+- quark:vertical_warped_planks (from Quark-3.4-389.jar)
+- quark:vertical_crimson_planks (from Quark-3.4-389.jar)
+- quark:vertical_azalea_planks (from Quark-3.4-389.jar)
+- quark:vertical_blossom_planks (from Quark-3.4-389.jar)
+- quark:ancient_planks (from Quark-3.4-389.jar)
+- quark:vertical_ancient_planks (from Quark-3.4-389.jar)
+
+#minecraft:fox_food
+- minecraft:sweet_berries (from Default)
+- minecraft:glow_berries (from Default)
+
+#forge:cobblestone
+- #forge:cobblestone/normal (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:cobblestone/infested (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:cobblestone/mossy (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:cobblestone/deepslate (from forge-1.19.2-43.2.4-universal.jar)
+
+#minecraft:diamond_ores
+- minecraft:diamond_ore (from Default)
+- minecraft:deepslate_diamond_ore (from Default)
+
+#forge:gems/amethyst
+- minecraft:amethyst_shard (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:glass/silica
+- minecraft:glass (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:black_stained_glass (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:blue_stained_glass (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:brown_stained_glass (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:cyan_stained_glass (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:gray_stained_glass (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:green_stained_glass (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:light_blue_stained_glass (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:light_gray_stained_glass (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:lime_stained_glass (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:magenta_stained_glass (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:orange_stained_glass (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:pink_stained_glass (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:purple_stained_glass (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:red_stained_glass (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:white_stained_glass (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:yellow_stained_glass (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:dyes/brown
+- minecraft:brown_dye (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:storage_blocks/gold
+- minecraft:gold_block (from forge-1.19.2-43.2.4-universal.jar)
+
+#minecraft:fence_gates
+- quark:azalea_fence_gate (from Quark-3.4-389.jar)
+- quark:blossom_fence_gate (from Quark-3.4-389.jar)
+- quark:bamboo_fence_gate (from Quark-3.4-389.jar)
+- quark:ancient_fence_gate (from Quark-3.4-389.jar)
+
+#forge:ores
+- #forge:ores/coal (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:ores/copper (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:ores/diamond (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:ores/emerald (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:ores/gold (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:ores/iron (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:ores/lapis (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:ores/redstone (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:ores/quartz (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:ores/netherite_scrap (from forge-1.19.2-43.2.4-universal.jar)
+- create:zinc_ore (from create-1.19.2-0.5.0.h.jar)
+- create:deepslate_zinc_ore (from create-1.19.2-0.5.0.h.jar)
+- #forge:ores/copper (from occultism-1.19.2-1.66.2.jar)
+- #forge:ores/silver (from occultism-1.19.2-1.66.2.jar)
+- #forge:ores/iesnium (from occultism-1.19.2-1.66.2.jar)
+
+#minecraft:candles
+- minecraft:candle (from Default)
+- minecraft:white_candle (from Default)
+- minecraft:orange_candle (from Default)
+- minecraft:magenta_candle (from Default)
+- minecraft:light_blue_candle (from Default)
+- minecraft:yellow_candle (from Default)
+- minecraft:lime_candle (from Default)
+- minecraft:pink_candle (from Default)
+- minecraft:gray_candle (from Default)
+- minecraft:light_gray_candle (from Default)
+- minecraft:cyan_candle (from Default)
+- minecraft:purple_candle (from Default)
+- minecraft:blue_candle (from Default)
+- minecraft:brown_candle (from Default)
+- minecraft:green_candle (from Default)
+- minecraft:red_candle (from Default)
+- minecraft:black_candle (from Default)
+
+#forge:rods/wooden
+- minecraft:stick (from forge-1.19.2-43.2.4-universal.jar)
+
+#curios:curio
+
+#forge:dusts/prismarine
+- minecraft:prismarine_shard (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:fences
+- #forge:fences/nether_brick (from forge-1.19.2-43.2.4-universal.jar)
+- #forge:fences/wooden (from forge-1.19.2-43.2.4-universal.jar)
+- ars_nouveau:archwood_fence (from ars_nouveau-1.19.2-3.8.4.jar)
+- quark:azalea_fence (from Quark-3.4-389.jar)
+- quark:blossom_fence (from Quark-3.4-389.jar)
+- quark:bamboo_fence (from Quark-3.4-389.jar)
+- quark:ancient_fence (from Quark-3.4-389.jar)
+
+#create:deployable_drink
+- minecraft:milk_bucket (from create-1.19.2-0.5.0.h.jar)
+- minecraft:potion (from create-1.19.2-0.5.0.h.jar)
+
+#occultism:books/book_of_calling_djinni
+- occultism:book_of_calling_djinni_manage_machine (from occultism-1.19.2-1.66.2.jar)
+
+#create:stone_types/dripstone
+- create:cut_dripstone (from create-1.19.2-0.5.0.h.jar)
+- create:cut_dripstone_stairs (from create-1.19.2-0.5.0.h.jar)
+- create:cut_dripstone_wall (from create-1.19.2-0.5.0.h.jar)
+- create:polished_cut_dripstone (from create-1.19.2-0.5.0.h.jar)
+- create:polished_cut_dripstone_stairs (from create-1.19.2-0.5.0.h.jar)
+- create:polished_cut_dripstone_wall (from create-1.19.2-0.5.0.h.jar)
+- create:cut_dripstone_bricks (from create-1.19.2-0.5.0.h.jar)
+- create:cut_dripstone_brick_stairs (from create-1.19.2-0.5.0.h.jar)
+- create:cut_dripstone_brick_wall (from create-1.19.2-0.5.0.h.jar)
+- create:small_dripstone_bricks (from create-1.19.2-0.5.0.h.jar)
+- create:small_dripstone_brick_stairs (from create-1.19.2-0.5.0.h.jar)
+- create:small_dripstone_brick_wall (from create-1.19.2-0.5.0.h.jar)
+- create:layered_dripstone (from create-1.19.2-0.5.0.h.jar)
+- create:dripstone_pillar (from create-1.19.2-0.5.0.h.jar)
+
+#curios:back
+- arsomega:enchanters_cloak (from arsomega-3.0.0-alpha-2.jar)
+- arsomega:stability_cloak (from arsomega-3.0.0-alpha-2.jar)
+
+#forge:storage_blocks/diamond
+- minecraft:diamond_block (from forge-1.19.2-43.2.4-universal.jar)
+
+#quark:bamboo_logs
+- quark:bamboo_block (from Quark-3.4-389.jar)
+- quark:stripped_bamboo_block (from Quark-3.4-389.jar)
+
+#minecraft:freeze_immune_wearables
+- minecraft:leather_boots (from Default)
+- minecraft:leather_leggings (from Default)
+- minecraft:leather_chestplate (from Default)
+- minecraft:leather_helmet (from Default)
+- minecraft:leather_horse_armor (from Default)
+
+#arsomega:tier_4_essence
+- arsomega:demonic_essence (from arsomega-3.0.0-alpha-2.jar)
+
+#forge:plates/copper
+- create:copper_sheet (from create-1.19.2-0.5.0.h.jar)
+
+#forge:ore_bearing_ground/deepslate
+- minecraft:deepslate (from forge-1.19.2-43.2.4-universal.jar)

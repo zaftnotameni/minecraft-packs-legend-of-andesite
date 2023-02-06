@@ -1,0 +1,49 @@
+{
+  "bookGuiScale": 0,
+  "clickedVisualize": false,
+  "bookData": {
+    "arsomega:maria_rosa": {
+      "viewedEntries": [
+        "arsomega:infinity_crystal"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    },
+    "arsomega:arcane_compendium": {
+      "viewedEntries": [
+        "arsomega:items/gorgon_gem",
+        "arsomega:items/arcane_foci",
+        "arsomega:items/arcane_essence",
+        "arsomega:items/arcane_bloom_crop",
+        "arsomega:items/enchanters_wool",
+        "arsomega:items/stability_cloak",
+        "arsomega:items/enchanters_cloak",
+        "arsomega:items/tier_4_spellbook",
+        "arsomega:items/arcane_cloth",
+        "arsomega:items/enchanters_armor",
+        "arsomega:items/arcane_armor",
+        "arsomega:spell_sigils/spell_sigils",
+        "arsomega:spell_sigils/missing_sigils"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    },
+    "ars_nouveau:worn_notebook": {
+      "viewedEntries": [
+        "ars_nouveau:machines/ritual_brazier",
+        "ars_nouveau:automation/drygmy_charm",
+        "ars_elemental:rituals/ritual_squirrels",
+        "ars_nouveau:familiars/familiar_starbuncle",
+        "ars_nouveau:familiars/summoning_familiars",
+        "ars_nouveau:getting_started/source",
+        "ars_nouveau:source/source_jar",
+        "ars_nouveau:machines/enchanting_apparatus",
+        "ars_nouveau:automation/void_prism",
+        "ars_nouveau:source/mycelial_sourcelink",
+        "ars_nouveau:machines/imbuement_chamber"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    }
+  }
+}

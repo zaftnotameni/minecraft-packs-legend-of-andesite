@@ -1,0 +1,12 @@
+*
+/
+!.gitignore
+!kubejs/
+!config/
+!skyblock_exports/
+!defaultconfigs/
+!options.txt
+!patchouli_books/
+!patchouli_data.json
+!scripts/
+!schematics/

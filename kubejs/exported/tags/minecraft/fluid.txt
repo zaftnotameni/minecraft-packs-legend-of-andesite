@@ -1,0 +1,82 @@
+To refresh this file, delete it and run /reload command again! Last updated: Jan 27, 2023, 12:46:58 PM
+
+#forge:crude_oil
+
+#minecraft:water
+- minecraft:water (from Default)
+- minecraft:flowing_water (from Default)
+- create_things_and_misc:slime (from create_misc_and_things_1.19.2_1.1B.jar)
+- create_things_and_misc:flowing_slime (from create_misc_and_things_1.19.2_1.1B.jar)
+- create_confectionery:black_chocolate (from create-confectionery1.19.2_v1.0.8.jar)
+- create_confectionery:flowing_black_chocolate (from create-confectionery1.19.2_v1.0.8.jar)
+- create_confectionery:white_chocolate (from create-confectionery1.19.2_v1.0.8.jar)
+- create_confectionery:flowing_white_chocolate (from create-confectionery1.19.2_v1.0.8.jar)
+- create_confectionery:hot_chocolate (from create-confectionery1.19.2_v1.0.8.jar)
+- create_confectionery:flowing_hot_chocolate (from create-confectionery1.19.2_v1.0.8.jar)
+- create_confectionery:caramel (from create-confectionery1.19.2_v1.0.8.jar)
+- create_confectionery:flowing_caramel (from create-confectionery1.19.2_v1.0.8.jar)
+- create_confectionery:ruby_chocolate (from create-confectionery1.19.2_v1.0.8.jar)
+- create_confectionery:flowing_ruby_chocolate (from create-confectionery1.19.2_v1.0.8.jar)
+- createchromaticreturn:shadow_essence (from create-chromaticreturn1.19.2_v1.0.2.jar)
+- createchromaticreturn:flowing_shadow_essence (from create-chromaticreturn1.19.2_v1.0.2.jar)
+- createchromaticreturn:liquid_experience (from create-chromaticreturn1.19.2_v1.0.2.jar)
+- createchromaticreturn:flowing_liquid_experience (from create-chromaticreturn1.19.2_v1.0.2.jar)
+- createchromaticreturn:refined_mixture (from create-chromaticreturn1.19.2_v1.0.2.jar)
+- createchromaticreturn:flowing_refined_mixture (from create-chromaticreturn1.19.2_v1.0.2.jar)
+- createaddition:flowing_seed_oil (from createaddition-1.19.2-20221230a.jar)
+- createaddition:seed_oil (from createaddition-1.19.2-20221230a.jar)
+
+#forge:milk
+- minecraft:milk? (from forge-1.19.2-43.2.4-universal.jar)
+- minecraft:flowing_milk? (from forge-1.19.2-43.2.4-universal.jar)
+
+#forge:tea
+- create:flowing_tea (from create-1.19.2-0.5.0.h.jar)
+- create:tea (from create-1.19.2-0.5.0.h.jar)
+
+#forge:biofuel
+- createaddition:flowing_bioethanol (from createaddition-1.19.2-20221230a.jar)
+- createaddition:bioethanol (from createaddition-1.19.2-20221230a.jar)
+
+#forge:plantoil
+- createaddition:flowing_seed_oil (from createaddition-1.19.2-20221230a.jar)
+- createaddition:seed_oil (from createaddition-1.19.2-20221230a.jar)
+
+#minecraft:lava
+- minecraft:lava (from Default)
+- minecraft:flowing_lava (from Default)
+
+#create_enchantment_industry:printer_input
+- create_enchantment_industry:flowing_experience (from create_enchantment_industry-1.19.2-for-create-0.5.0.h-1.1.12.jar)
+- create_enchantment_industry:experience (from create_enchantment_industry-1.19.2-for-create-0.5.0.h-1.1.12.jar)
+- #forge:ink (from create_enchantment_industry-1.19.2-for-create-0.5.0.h-1.1.12.jar)
+
+#forge:ethanol
+- createaddition:flowing_bioethanol (from createaddition-1.19.2-20221230a.jar)
+- createaddition:bioethanol (from createaddition-1.19.2-20221230a.jar)
+
+#create:bottomless/deny
+
+#create_enchantment_industry:blaze_enchanter_input
+- create_enchantment_industry:flowing_experience (from create_enchantment_industry-1.19.2-for-create-0.5.0.h-1.1.12.jar)
+- create_enchantment_industry:experience (from create_enchantment_industry-1.19.2-for-create-0.5.0.h-1.1.12.jar)
+- create_enchantment_industry:flowing_hyper_experience (from create_enchantment_industry-1.19.2-for-create-0.5.0.h-1.1.12.jar)
+- create_enchantment_industry:hyper_experience (from create_enchantment_industry-1.19.2-for-create-0.5.0.h-1.1.12.jar)
+
+#forge:chocolate
+- create:flowing_chocolate (from create-1.19.2-0.5.0.h.jar)
+- create:chocolate (from create-1.19.2-0.5.0.h.jar)
+
+#create:bottomless/allow
+- minecraft:water (from create-1.19.2-0.5.0.h.jar)
+- minecraft:lava (from create-1.19.2-0.5.0.h.jar)
+
+#forge:honey
+- create:flowing_honey (from create-1.19.2-0.5.0.h.jar)
+- create:honey (from create-1.19.2-0.5.0.h.jar)
+
+#forge:creosote
+
+#forge:ink
+- create_enchantment_industry:flowing_ink (from create_enchantment_industry-1.19.2-for-create-0.5.0.h-1.1.12.jar)
+- create_enchantment_industry:ink (from create_enchantment_industry-1.19.2-for-create-0.5.0.h-1.1.12.jar)
