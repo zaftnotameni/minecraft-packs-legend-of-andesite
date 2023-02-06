@@ -38,6 +38,10 @@ const createMixingRecipees = (event) => {
   event.custom(createMixingRecipee([{ item: my.minecraft.redstone_ore.id }], [{ item: my.minecraft.stone.id }, { fluid: 'kubejs:molten_redstone', amount: 500 }]));
   event.custom(createMixingRecipee([{ item: my.create.zinc_ore.id }], [{ item: my.minecraft.stone.id }, { fluid: 'kubejs:molten_zinc', amount: 500 }]));
 
+  event.custom(createMixingRecipee([{ item: my.minecraft.dragon_breath.id }], [
+    Item.of(my.minecraft.nether_star.id), Item.of(my.minecraft.glass_bottle.id), { fluid: 'kubejs:molten_source', amount: 125 }
+  ]));
+
   event.custom(createMixingRecipee([{ fluid: 'kubejs:molten_source', amount: 125 }], [
     Item.of(my.ars_nouveau.purple_archwood_leaves.id), { fluid: 'kubejs:molten_quartz', amount: 125 }
   ], 'heated'));
@@ -63,6 +67,16 @@ const createMixingRecipees = (event) => {
   event.custom(createMixingRecipee([{ item: my.minecraft.ender_pearl.id }], [
     { fluid: 'kubejs:molten_zinc', amount: 500 },
     { tag: 'forge:ores/emerald' }
+  ]));
+
+  event.custom(createMixingRecipee([{ item: my.minecraft.ancient_debris.id }], [
+    { fluid: 'create_confectionery:black_chocolate', amount: 500 },
+    { tag: 'forge:ores' }
+  ]));
+
+  event.custom(createMixingRecipee([{ item: my.minecraft.netherite_ingot.id }], [
+    { fluid: 'create_confectionery:black_chocolate', amount: 500 },
+    { tag: 'forge:ingots' }
   ]));
   
   Ingredient.all.itemIds.forEach((i) => {

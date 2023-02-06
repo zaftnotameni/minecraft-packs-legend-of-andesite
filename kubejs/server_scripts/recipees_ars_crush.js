@@ -41,4 +41,5 @@ const arsCrushRecipees = (event) => {
   event.custom(arscrush(my.integrateddynamics.crystalized_menril_block.id, my.create.framed_glass.id, 1, 1, false, true));
   event.custom(arscrush(my.create.framed_glass.id, my.quark.clear_shard.id, 8));
   event.custom(arscrush(my.create.water_wheel.id, my.create.crushing_wheel.id, 1));
+  event.custom(arscrush(my.minecraft.shulker_box.id, my.minecraft.shulker_shell.id, 2));
 };

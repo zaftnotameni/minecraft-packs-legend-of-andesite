@@ -46,6 +46,7 @@ const arsImbueRecipees = (event) => {
   event.custom(imbue(ARCHWOOD_WOOD.purple, sourcegemblock, [], 200));
   event.custom(imbue(magebloomseed, my.integrateddynamics.menril_sapling.id, [sourcegem], 200));
   event.custom(imbue(sourcegemblock, 'ars_nouveau:apprentice_spell_book', [ARCHWOOD_WOOD.yellow, ARCHWOOD_WOOD.yellow], 200));
+  event.custom(imbue(my.minecraft.stick.id, my.minecraft.bow.id, Array(3).fill(my.minecraft.string.id), 200));
   event.custom(imbue(my.minecraft.stone.id, my.minecraft.brain_coral_block.id, Array(8).fill(my.minecraft.brain_coral.id), 200));
   event.custom(imbue(my.minecraft.slime_ball.id, my.minecraft.egg.id, Array(8).fill(my.minecraft.bone_meal.id), 200));
   event.custom(imbue(my.ars_nouveau.starbuncle_shards.id, my.ars_nouveau.starbuncle_charm.id, Array(8).fill(my.ars_nouveau.magebloom_fiber.id), 200));

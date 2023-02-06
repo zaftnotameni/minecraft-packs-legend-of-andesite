@@ -48,6 +48,18 @@ const arsEnchantmentRecipees = (event) => {
     apparatusItem(my.ars_nouveau.source_gem.id),
     apparatusItem(my.ars_nouveau.source_gem.id)
   ]));
+  event.custom(apparatus(`${my.ars_nouveau.ritual_flight.id}`, my.ars_elemental.yellow_archwood.id, [
+    apparatusItem(my.minecraft.feather.id),
+    apparatusItem(my.minecraft.feather.id),
+    apparatusItem(my.ars_nouveau.source_gem.id),
+    apparatusItem(my.ars_nouveau.source_gem.id)
+  ]));
+  event.custom(apparatus(`${my.ars_nouveau.ritual_brazier.id}`, my.ars_nouveau.source_gem_block.id, [
+    apparatusItem(my.minecraft.gold_ingot.id),
+    apparatusItem(my.minecraft.gold_ingot.id),
+    apparatusItem(my.minecraft.gold_ingot.id),
+    apparatusItem(my.minecraft.gold_ingot.id),
+  ]));
 
   // essence
   event.custom(apparatus(my.ars_nouveau.water_essence.id, sourcegem, Array(3).fill(apparatusItem(menrilchunk)), 200));

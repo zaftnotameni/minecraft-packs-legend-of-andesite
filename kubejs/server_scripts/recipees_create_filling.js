@@ -97,10 +97,28 @@ const createFillingRecipees = (event) => {
   event.custom(createFillingRecipee([Item.of('minecraft:snowball')], [
     { tag: 'minecraft:flowers' }, Fluid.of('integrateddynamics:menril_resin', 1000).toJson()
   ]));
+  event.custom(createFillingRecipee([Item.of(my.minecraft.shulker_box.id)], [
+    Item.of(my.minecraft.chest.id), Fluid.of('integrateddynamics:liquid_chorus', 1000).toJson()
+  ]));
   event.custom(createFillingRecipee([Item.of(my.integrateddynamics.crystalized_chorus_block.id)], [
     Item.of(my.integrateddynamics.crystalized_menril_block.id), Fluid.of('integrateddynamics:liquid_chorus', 1000).toJson()
   ]));
   event.custom(createFillingRecipee([Item.of(my.integratedterminals.terminal_storage_portable.id)], [
     Item.of(my.integratedterminals.part_terminal_storage.id), Fluid.of('kubejs:molten_ender', 1000).toJson()
+  ]));
+  event.custom(createFillingRecipee([Item.of(my.minecraft.totem_of_undying.id)], [
+    Item.of(my.minecraft.pointed_dripstone.id), Fluid.of('kubejs:molten_gold', 125).toJson()
+  ]));
+  event.custom(createFillingRecipee([Item.of(my.ars_nouveau.wilden_horn.id)], [
+    Item.of(my.minecraft.pointed_dripstone.id), Fluid.of('kubejs:molten_quartz', 125).toJson()
+  ]));
+  event.custom(createFillingRecipee([Item.of(my.ars_nouveau.wilden_spike.id)], [
+    Item.of(my.minecraft.pointed_dripstone.id), Fluid.of('kubejs:molten_copper', 125).toJson()
+  ]));
+  event.custom(createFillingRecipee([Item.of(my.ars_nouveau.wilden_wing.id)], [
+    Item.of(my.minecraft.wooden_axe.id), Fluid.of('create_confectionery:black_chocolate', 125).toJson()
+  ]));
+  event.custom(createFillingRecipee([Item.of(my.ars_nouveau.wilden_tribute.id)], [
+    Item.of(my.ars_nouveau.ritual_wilden_summon.id), Fluid.of('create_confectionery:hot_chocolate', 125).toJson()
   ]));
 };
